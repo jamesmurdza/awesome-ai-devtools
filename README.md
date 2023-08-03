@@ -18,11 +18,14 @@
 - [talk-codebase](https://github.com/rsaryev/talk-codebase)
 - [Magnet](https://www.magnet.run/) — Web-based chatbot with repositories and issues as context.
 
-## Documentation
+## Agents
 
-- [Trelent](https://trelent.net/) — A VS Code extension to generate docstrings. Uses proprietary models.
-- [Docify](https://docify.ai4code.io/)
-- [Mintlify Writer](https://writer.mintlify.com/)
+- [Smol Developer](https://github.com/smol-ai/developer) — CLI agent that generates an entire repository from a text description. Uses OpenAI and Anthropic.
+- [Aider](https://github.com/paul-gauthier/aider) — CLI assistant and agent that generates changes and commits to repositories. Uses OpenAI.
+- [Mentat](https://www.mentat.codes/) — CLI assistant and agent that makes changes to repositories.
+- [GPT Engineer](https://github.com/AntonOsika/gpt-engineer)
+- [GPT Migrate](https://github.com/0xpayne/gpt-migrate) — CLI agent that converts a full-stack application from one language or framework to another. Uses GPT-4 32k context.
+- [GitWit](https://gitwit.dev/) — Web-based agent for adding features to full-stack apps in Git repositories.
 
 ## GitHub bots
 
@@ -36,14 +39,11 @@
 - [Morph Rift](https://github.com/morph-labs/rift) — Open source VS Code extension that allows merging the output of code generation agents.
 - [SuperAGI](https://superagi.com/) Open source plagorm for hosting LLM-based agents including [SuperCoder](https://superagi.com/supercoder/).
 
-## Agents
+## Documentation
 
-- [Smol Developer](https://github.com/smol-ai/developer) — CLI agent that generates an entire repository from a text description. Uses OpenAI and Anthropic.
-- [Aider](https://github.com/paul-gauthier/aider) — CLI assistant and agent that generates changes and commits to repositories. Uses OpenAI.
-- [Mentat](https://www.mentat.codes/) — CLI assistant and agent that makes changes to repositories.
-- [GPT Engineer](https://github.com/AntonOsika/gpt-engineer)
-- [GPT Migrate](https://github.com/0xpayne/gpt-migrate) — CLI agent that converts a full-stack application from one language or framework to another. Uses GPT-4 32k context.
-- [GitWit](https://gitwit.dev/) — Web-based agent for adding features to full-stack apps in Git repositories.
+- [Trelent](https://trelent.net/) — A VS Code extension to generate docstrings. Uses proprietary models.
+- [Docify](https://docify.ai4code.io/)
+- [Mintlify Writer](https://writer.mintlify.com/)
 
 ## Code generation
 
