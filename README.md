@@ -32,9 +32,9 @@
 
 ## Agent platforms
 
-- [E2B](https://www.e2b.dev/)
-- [Morph Rift](https://github.com/morph-labs/rift) — A VS Code extension that allows merging the output of code generation agents.
-- [SuperAGI](https://superagi.com/)
+- [E2B](https://www.e2b.dev/) — Open source coud platform for hosting LLM-based agents. Supports [Smol Developer](https://github.com/smol-ai/developer).
+- [Morph Rift](https://github.com/morph-labs/rift) — Open source VS Code extension that allows merging the output of code generation agents.
+- [SuperAGI](https://superagi.com/) Open source plagorm for hosting LLM-based agents including [SuperCoder](https://superagi.com/supercoder/).
 
 ## Agents
 
@@ -56,5 +56,5 @@
 
 ## Search
 
-- [Bloop](https://bloop.ai/)
-- [Buildt](https://www.buildt.ai/)
+- [Bloop](https://bloop.ai/) — Natural language search for repositories.
+- [Buildt](https://www.buildt.ai/) — Natural language search for repositories. Waitlist.
