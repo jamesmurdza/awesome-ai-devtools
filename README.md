@@ -12,6 +12,8 @@
 - [Refact AI](https://refact.ai/)
 - [Source Graph Cody](https://about.sourcegraph.com/cody)
 - [Continue](https://continue.dev/)
+- [Codeium](https://codeium.com/)
+- [Blackbox](https://www.useblackbox.io/)
 - [Quack AI](https://www.quack-ai.com/)
 - [Tabby](https://tabbyml.github.io/tabby/)
 - [talk-codebase](https://github.com/rsaryev/talk-codebase)
