@@ -2,12 +2,8 @@
 
 ## IDEs
 
-## VS Code extensions
+## Assistants
 
-## GitHub integrations
+## Agents
 
-## CLI tools
-
-## Autocomplete
-
-## Contextual search
+## Search
