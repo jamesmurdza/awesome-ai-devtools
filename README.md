@@ -11,10 +11,10 @@
 - [Refact AI](https://refact.ai/) [Source](https://github.com/smallcloudai/refact) — Open source assistant with chat, completion, refactoring, and codebase-specific fine-tuning. Extensions for VS Code and JetBrains.
 - [Source Graph Cody](https://about.sourcegraph.com/cody) - Assistant with chat, refactoring, and unit test generation. Extensions for VS Code and IntelliJ.
 - [Continue](https://continue.dev/) — VS Code extension with chat, refactor, and code generation.
-- [Codeium](https://codeium.com/)
-- [Blackbox](https://www.useblackbox.io/)
-- [Quack AI](https://www.quack-ai.com/)
-- [Tabby](https://tabbyml.github.io/tabby/)
+- [Codeium](https://codeium.com/) — Assistant with autocomplete, natural language search and chat. Extensions for 21 editors including VS Code, JetBrains, Neovim, Vim, Emacs, Eclipse, PyCharm, and Xcode. Enterprise version includes codebase-specific fine-tuning.
+- [Blackbox](https://www.useblackbox.io/) — VS Code extension with autocomplete and chat including links to online coding references.
+- [Quack AI](https://www.quack-ai.com/) — VS Code extension for adhering to project coding guidelines. Waitlisted.
+- [Tabby](https://tabbyml.github.io/tabby/) — Open source, self-hosted code completion assistant. Extensions for VS Code and Vim.
 - [talk-codebase](https://github.com/rsaryev/talk-codebase) - CLI chatbot with repository as context. Supports OpenAI as well as locally running LLMs via GPT4All.
 - [Magnet](https://www.magnet.run/) — Web-based chatbot with repositories and issues as context.
 
