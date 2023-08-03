@@ -3,7 +3,6 @@
 ## IDEs
 
 - [Cursor](https://www.cursor.so/) — An IDE (fork of VSCodium) with chat, edit, generate and debug features. Uses OpenAI.
-- [Magnet](https://www.magnet.run/)
 
 ## Assistants
 
@@ -17,6 +16,7 @@
 - [Quack AI](https://www.quack-ai.com/)
 - [Tabby](https://tabbyml.github.io/tabby/)
 - [talk-codebase](https://github.com/rsaryev/talk-codebase)
+- [Magnet](https://www.magnet.run/) — Web-based chatbot with repositories and issues as context.
 
 ## Documentation
 
