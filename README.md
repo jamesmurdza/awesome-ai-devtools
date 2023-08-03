@@ -2,56 +2,56 @@
 
 ## IDEs
 
-- Cursor
-- Magnet
+- [Cursor](https://www.cursor.so/)
+- [Magnet](https://www.magnet.run/)
 
 ## Assistants
 
-- GitHub Copilot X
-- Replit Ghostwriter Chat
-- Refact AI
-- Quack AI
-- Source Graph Cody
-- Tabby
-- talk-codebase
+- [GitHub Copilot X](https://github.com/features/preview/copilot-x)
+- [Replit Ghostwriter Chat](https://replit.com/site/ghostwriter)
+- [Refact AI](https://refact.ai/)
+- [Source Graph Cody](https://about.sourcegraph.com/cody)
+- [Quack AI](https://www.quack-ai.com/)
+- [Tabby](https://tabbyml.github.io/tabby/)
+- [talk-codebase](https://github.com/rsaryev/talk-codebase)
 
 ## Documentation
 
-- Trelent
-- Docify
-- Mintlify Writer
+- [Trelent](https://trelent.net/)
+- [Docify](https://docify.ai4code.io/)
+- [Mintlify Writer](https://writer.mintlify.com/)
 
 ## GitHub bots
 
-- BitBuilder
-- Sweep
-- Code Review GPT
+- [BitBuilder](https://www.bitbuilder.ai/)
+- [Sweep](https://sweep.dev/)
+- [Code Review GPT](https://github.com/mattzcarey/code-review-gpt)
 
 ## Agent platforms
 
-- E2B
-- Morph Rift
-- SuperAGI
+- [E2B](https://www.e2b.dev/)
+- [Morph Rift](https://github.com/morph-labs/rift)
+- [SuperAGI](https://superagi.com/)
 
 ## Agents
 
-- Smol AI
-- Aider
-- Mentat
-- GPT Engineer
-- GPT Migrate
-- GitWit
+- [Smol Developer](https://github.com/smol-ai/developer)
+- [Aider](https://github.com/paul-gauthier/aider)
+- [Mentat](https://www.mentat.codes/)
+- [GPT Engineer](https://github.com/AntonOsika/gpt-engineer)
+- [GPT Migrate](https://github.com/0xpayne/gpt-migrate)
+- [GitWit](https://gitwit.dev/)
 
 ## Code generation
 
-- Magic
+- [Magic](https://magic.dev/)
 
 ## OpenAI plugins
 
-- ChatWithGit
-- Code ChatGPT Plugin
+- [ChatWithGit](https://github.com/kesor/chatgpt-code-plugin)
+- [Code ChatGPT Plugin](https://gptstore.ai/plugins/gitsearch-sdan-io)
 
 ## Search
 
-- Bloop
-- Buildt
+- [Bloop](https://bloop.ai/)
+- [Buildt](https://www.buildt.ai/)
