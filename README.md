@@ -7,15 +7,15 @@
 ## Assistants
 
 - [GitHub Copilot X](https://github.com/features/preview/copilot-x) — A VS Code extension with chat, pull request text generation, and unit test generation.
-- [Replit Ghostwriter Chat](https://replit.com/site/ghostwriter) — An assistant with chat, proactive debugging, and autocomplete. Uses OpenAI for chat and [replit-code-v1-3b](https://huggingface.co/replit/replit-code-v1-3b) (OS) for autocomplete.
-- [Refact AI](https://refact.ai/)
-- [Source Graph Cody](https://about.sourcegraph.com/cody)
-- [Continue](https://continue.dev/)
+- [Replit Ghostwriter Chat](https://replit.com/site/ghostwriter) — Assistant with chat, proactive debugging, and autocomplete. Uses OpenAI for chat and [replit-code-v1-3b](https://huggingface.co/replit/replit-code-v1-3b) (OS) for autocomplete.
+- [Refact AI](https://refact.ai/) [Source](https://github.com/smallcloudai/refact) — Open source assistant with chat, completion, refactoring, and codebase-specific fine-tuning. Extensions for VS Code and JetBrains.
+- [Source Graph Cody](https://about.sourcegraph.com/cody) - Assistant with chat, refactoring, and unit test generation. Extensions for VS Code and IntelliJ.
+- [Continue](https://continue.dev/) — VS Code extension with chat, refactor, and code generation.
 - [Codeium](https://codeium.com/)
 - [Blackbox](https://www.useblackbox.io/)
 - [Quack AI](https://www.quack-ai.com/)
 - [Tabby](https://tabbyml.github.io/tabby/)
-- [talk-codebase](https://github.com/rsaryev/talk-codebase)
+- [talk-codebase](https://github.com/rsaryev/talk-codebase) - CLI chatbot with repository as context. Supports OpenAI as well as locally running LLMs via GPT4All.
 - [Magnet](https://www.magnet.run/) — Web-based chatbot with repositories and issues as context.
 
 ## Agents
