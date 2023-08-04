@@ -51,6 +51,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [BitBuilder](https://www.bitbuilder.ai/) — A GitHub integration to generate pull requests from issues.
 - [Sweep](https://sweep.dev/) [(Source)](https://github.com/sweepai/sweep) — Another GitHub integration to generate pull requests from issues.
 - [Code Review GPT](https://github.com/mattzcarey/code-review-gpt) — An open source tool for reviewing PRs. Works as GitHub action, Gitlab CLI or locally.
+- [Second.dev](https://www.second.dev/) — A GitHub integration for adding features to full-stack apps.
 
 ## Code generation
 
