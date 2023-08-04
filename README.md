@@ -13,17 +13,11 @@
 - [Continue](https://continue.dev/) — VS Code extension with chat, refactor, and code generation. Edits multiple files and runs commands on your behalf.
 - [Blackbox](https://www.useblackbox.io/) — VS Code extension with autocomplete and chat including links to online coding references.
 - [Source Graph Cody](https://about.sourcegraph.com/cody) - Assistant with chat, refactoring, and unit test generation. Extensions for VS Code and IntelliJ.
-- [Quack AI](https://www.quack-ai.com/) — VS Code extension for adhering to project coding guidelines. Waitlisted.
+- [Quack AI](https://www.quack-ai.com/) — VS Code extension for adhering to project coding guidelines. Waitlist.
 - [talk-codebase](https://github.com/rsaryev/talk-codebase) - CLI chatbot with repository as context. Supports OpenAI as well as locally running LLMs via GPT4All.
 - [Magnet](https://www.magnet.run/) — Web-based chatbot with repositories and issues as context.
 - [Tabby](https://tabbyml.github.io/tabby/) — Open source, self-hosted code completion assistant. Extensions for VS Code and Vim.
 - [Tabnine](https://www.tabnine.com/) [(Source)](https://github.com/codota/TabNine) — Open source, self-hosted code completion assistant. Extensions for 15 editors including VS Code, IntelliJ, Neovim, Eclipse, and PyCharm.
-
-## Documentation
-
-- [Trelent](https://trelent.net/) — A VS Code extension to generate docstrings. Uses proprietary models.
-- [Docify](https://docify.ai4code.io/) — A VS Code extension to generate docstrings.
-- [Mintlify Writer](https://writer.mintlify.com/) — A VS Code extension to generate docstrings.
 
 ## Agents
 
@@ -34,6 +28,12 @@
 - [GPT Migrate](https://github.com/0xpayne/gpt-migrate) — CLI agent that converts a full-stack application from one language or framework to another. Uses GPT-4 32k context.
 - [GitWit](https://gitwit.dev/) — Web-based agent for adding features to full-stack apps in Git repositories.
 
+## Documentation
+
+- [Trelent](https://trelent.net/) — A VS Code extension to generate docstrings. Uses proprietary models.
+- [Docify](https://docify.ai4code.io/) — A VS Code extension to generate docstrings.
+- [Mintlify Writer](https://writer.mintlify.com/) — A VS Code extension to generate docstrings.
+
 ## GitHub bots
 
 - [BitBuilder](https://www.bitbuilder.ai/) — A GitHub integration to generate pull requests from issues.
@@ -42,7 +42,7 @@
 
 ## Code generation
 
-- [Magic](https://magic.dev/) — Company promising two products—An assistant and an underlying foundation model trained on code. Waitlist.
+- [Magic](https://magic.dev/) — Company promising two products, an assistant and [LTM-1](https://magic.dev/blog/ltm-1), an underlying foundation model trained on code. Waitlist.
 
 ## Agent platforms
 
@@ -52,7 +52,7 @@
 
 ## OpenAI plugins
 
-- [ChatWithGit]((https://gitsearch.sdan.io/) — Enables ChatGPT to search GitHub and return links to relevant repositories.
+- [ChatWithGit](https://gitsearch.sdan.io/) — Enables ChatGPT to search GitHub and return links to relevant repositories.
 - [Code ChatGPT Plugin](https://github.com/kesor/chatgpt-code-plugin) — Open source example of a ChatGPT plugin that pulls context from a directory of files.
 
 ## Search
