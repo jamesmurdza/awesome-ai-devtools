@@ -39,6 +39,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [GPT Engineer](https://github.com/AntonOsika/gpt-engineer) — CLI agent that generates a repository from a prompt, and asks clarifying questions.
 - [GPT Migrate](https://github.com/0xpayne/gpt-migrate) — CLI agent that converts a full-stack application from one language or framework to another. Uses GPT-4 32k context.
 - [GitWit](https://gitwit.dev/) — Web-based agent for adding features to full-stack apps in Git repositories.
+- [DemoGPT](https://github.com/melih-unsal/DemoGPT) — Auto Gen-AI App Generator with the Power of Llama 2
 
 ## Documentation
 
