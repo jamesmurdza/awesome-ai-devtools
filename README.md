@@ -1,5 +1,17 @@
 # Awesome AI-Powered Developer Tools
 
+This is a curated list of AI-powered developer tools. These tools leverage AI to assist developers in tasks such as code completion, refactoring, debugging, documentation, and more.
+
+- [IDEs](#ides)
+- [Assistants](#assistants)
+- [Agents](#agents)
+- [Documentation](#documentation)
+- [GitHub bots](#github-bots)
+- [Foundation models](#code-generation)
+- [Agent platforms](#agent-platforms)
+- [OpenAI plugins](#openai-plugins)
+- [Search](#search)
+
 ## IDEs
 
 - [Cursor](https://www.cursor.so/) — An IDE with chat, edit, generate and debug features. Forked from VSCodium, so the interface is similar to VS Code. Uses OpenAI.
