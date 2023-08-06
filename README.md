@@ -28,6 +28,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Quack AI](https://www.quack-ai.com/) — VS Code extension for adhering to project coding guidelines. Waitlist.
 - [talk-codebase](https://github.com/rsaryev/talk-codebase) - CLI chatbot with repository as context. Supports OpenAI as well as locally running LLMs via GPT4All.
 - [Magnet](https://www.magnet.run/) — Web-based chatbot with repositories and issues as context.
+- [Adrenaline](https://useadrenaline.com/) - Web-based chatbot using AI and ASTs to answer questions about your codebase.
 - [Tabby](https://tabbyml.github.io/tabby/) — Open source, self-hosted code completion assistant. Extensions for VS Code and Vim.
 - [Tabnine](https://www.tabnine.com/) [(Source)](https://github.com/codota/TabNine) — Open source, self-hosted code completion assistant. Extensions for 15 editors including VS Code, IntelliJ, Neovim, Eclipse, and PyCharm.
 
