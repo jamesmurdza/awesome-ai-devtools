@@ -41,6 +41,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [GitWit](https://gitwit.dev/) — Web-based agent for adding features to full-stack apps in Git repositories.
 - [DemoGPT](https://github.com/melih-unsal/DemoGPT) — Auto Gen-AI App Generator with the Power of Llama 2
 - [DevOpsGPT](https://github.com/kuafuai/DevOpsGPT) - DevOpsGPT: AI-Driven Software Development Automation Solution
+- [Second.dev](https://www.second.dev/) — A platform for adding features to full-stack apps.
 
 ## Documentation
 
@@ -48,12 +49,11 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Docify](https://docify.ai4code.io/) — A VS Code extension to generate docstrings.
 - [Mintlify Writer](https://writer.mintlify.com/) — A VS Code extension to generate docstrings.
 
-## GitHub bots
+## Continuous integration bots
 
 - [BitBuilder](https://www.bitbuilder.ai/) — A GitHub integration to generate pull requests from issues.
 - [Sweep](https://sweep.dev/) [(Source)](https://github.com/sweepai/sweep) — Another GitHub integration to generate pull requests from issues.
 - [Code Review GPT](https://github.com/mattzcarey/code-review-gpt) — An open source tool for reviewing PRs. Works as GitHub action, Gitlab CLI or locally.
-- [Second.dev](https://www.second.dev/) — A GitHub integration for adding features to full-stack apps.
 
 ## Code generation
 
