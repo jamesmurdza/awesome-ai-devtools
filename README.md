@@ -11,6 +11,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Agent platforms](#agent-platforms)
 - [OpenAI plugins](#openai-plugins)
 - [Search](#search)
+- [Testing](#testing)
 
 ## IDEs
 
@@ -80,3 +81,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 
 - [Bloop](https://bloop.ai/) — Natural language search for repositories.
 - [Buildt](https://www.buildt.ai/) — Natural language search for repositories. Waitlist.
+
+## Testing
+
+- [Carbonate](https://carbonate.dev/) — End-to-end testing using natural language. Integrates into your existing test suite (currently Jest, PHPUnit and Python's unittest).
