@@ -6,7 +6,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Assistants](#assistants)
 - [Agents](#agents)
 - [Documentation](#documentation)
-- [GitHub bots](#github-bots)
+- [Continuous integration bots](#continuous-integration-bots)
 - [Foundation models](#code-generation)
 - [Agent platforms](#agent-platforms)
 - [OpenAI plugins](#openai-plugins)
@@ -15,7 +15,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 ## IDEs
 
 - [Cursor](https://www.cursor.so/) — An IDE with chat, edit, generate and debug features. Forked from VSCodium, so the interface is similar to VS Code. Uses OpenAI.
-- [Mutable(https://mutable.ai/) — Web-based IDE, integrated with a chatbot and GitHub.
+- [Mutable](https://mutable.ai/) — Web-based IDE, integrated with a chatbot and GitHub.
 
 ## Assistants
 
