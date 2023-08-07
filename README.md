@@ -85,3 +85,5 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 ## Testing
 
 - [Carbonate](https://carbonate.dev/) — End-to-end testing using natural language. Integrates into your existing test suite (currently Jest, PHPUnit and Python's unittest).
+- [Meticulous.ai](https://www.meticulous.ai/) - Automatically generated, automatically maintained end-to-end tests: as your app evolves so does your test suite.
+- [DiffBlue](https://www.diffblue.com/) - Automatically generated unit tests for Java.
