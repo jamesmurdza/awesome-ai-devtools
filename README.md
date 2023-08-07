@@ -88,4 +88,3 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [DiffBlue](https://www.diffblue.com/) - Auto-generated Java unit tests.
 - [Traceloop](https://traceloop.com/) - Uses OpenTelemetry tracing data with generative AI to improve system reliability.
 - [Carbonate](https://carbonate.dev/) — End-to-end testing using natural language. Integrates into your existing test suite (currently Jest, PHPUnit and Python's unittest).
-
