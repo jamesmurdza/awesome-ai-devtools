@@ -48,7 +48,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [DevOpsGPT](https://github.com/kuafuai/DevOpsGPT) - DevOpsGPT: AI-Driven Software Development Automation Solution
 - [Second.dev](https://www.second.dev/) — A platform for adding features to full-stack apps.
 - [Factory](https://www.factory.ai/) — Agents for code generation. Waitlisted.
-- [Dystr] (https://dystr.com) - Autonomous cloud based Agents that work incredibly well.
+- [Dystr](https://dystr.com) - Autonomous cloud based Agents that work incredibly well.
 
 ## Documentation
 
