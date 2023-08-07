@@ -38,6 +38,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 
 ## Agents
 
+- [PDF Agent](https://github.com/mr-gpt/PDFAgent) - A production-ready PDF agent for reading, analysing and conversing with your PDF built for business-critical use cases on retrieval-augmented generation.
 - [Smol Developer](https://github.com/smol-ai/developer) — CLI agent that generates a repository from a prompt. Uses OpenAI and Anthropic.
 - [Aider](https://github.com/paul-gauthier/aider) — CLI assistant and agent that generates changes and commits to repositories. Uses OpenAI.
 - [Mentat](https://www.mentat.codes/) — CLI assistant and agent that makes changes to repositories.
