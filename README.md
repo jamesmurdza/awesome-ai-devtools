@@ -64,6 +64,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Sweep](https://sweep.dev/) [(Source)](https://github.com/sweepai/sweep) — Another GitHub integration to generate pull requests from issues.
 - [Code Review GPT](https://github.com/mattzcarey/code-review-gpt) — An open source tool for reviewing PRs. Works as GitHub action, Gitlab CLI or locally.
 - [Nova](https://www.trynova.ai/) - CI bot to add actions such as summaries and tests to new PRs.
+- [CodeRabbit](https://coderabbit.ai/) — Customizable CI to add summaries and code suggestions to PRs.
 
 ## Code generation
 
