@@ -41,6 +41,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 ## Agents
 
 - [Smol Developer](https://github.com/smol-ai/developer) — CLI agent that generates a repository from a prompt. Uses OpenAI and Anthropic.
+- [Sweep](https://github.com/sweepai/sweep) - AI-powered junior developer that writes PRs to any repository. Works as a GitHub app completely outside of IDE/CLI. Uses OpenAI GPT-4 32k context.
 - [Aider](https://github.com/paul-gauthier/aider) — CLI assistant and agent that generates changes and commits to repositories. Uses OpenAI.
 - [Mentat](https://www.mentat.codes/) — CLI assistant and agent that makes changes to repositories.
 - [GPT Engineer](https://github.com/AntonOsika/gpt-engineer) — CLI agent that generates a repository from a prompt, and asks clarifying questions.
