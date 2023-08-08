@@ -12,6 +12,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [OpenAI plugins](#openai-plugins)
 - [Search](#search)
 - [Testing](#testing)
+- [Frameworks](#frameworks)
 
 ## IDEs
 
