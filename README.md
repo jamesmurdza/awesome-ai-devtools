@@ -36,6 +36,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [CodeSquire](https://codesquire.ai/) — Chrome extension that adds autocomplete to Google Colab, BigQuery, and JupyterLab.
 - [CodeMate](https://www.codemate.ai/) — VS Code extension for debugging and optimizing code.
 - [AskCommand](https://www.askcommand.cppexpert.online/) - Web based tool to generate Unix commands from text automatically using AI.
+- [Butterfish](https://butterfi.sh) - CLI tool that embeds ChatGPT in your shell for easy access. Includes simple agentic capabilities.
 
 
 ## Agents
