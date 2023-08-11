@@ -7,6 +7,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Shell assistants](#shell-assistants)
 - [Agents](#agents)
 - [App generators](#app-generators)
+- [Snippet generators](#snippet-generators)
 - [Documentation](#documentation)
 - [Continuous integration bots](#continuous-integration-bots)
 - [Foundation models](#code-generation)
@@ -61,6 +62,12 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 
 - [Pico](https://picoapps.xyz) - End-to-end micro app generator with instant deployment.
 - [Literally anything](https://literallyanything.io) - HTML and JavaScript web app generator.
+
+## Snippet generators
+
+- [CodePal](https://codepal.ai/) — A web tool for quickly generating or refactoring code.
+- [AI Code Convert](https://aicodeconvert.com/) — A web tool for translating code between programming languages.
+- [AI Code Playground](https://aicodeplayground.com/) — A web tool for refactoring and improving code.
 
 ## Documentation
 
