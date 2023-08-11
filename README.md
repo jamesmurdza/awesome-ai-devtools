@@ -4,7 +4,9 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 
 - [IDEs](#ides)
 - [Assistants](#assistants)
+- [Shell assistants](#shell-assistants)
 - [Agents](#agents)
+- [App generators](#app-generators)
 - [Documentation](#documentation)
 - [Continuous integration bots](#continuous-integration-bots)
 - [Foundation models](#code-generation)
@@ -35,9 +37,11 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Tabnine](https://www.tabnine.com/) [(Source)](https://github.com/codota/TabNine) — Open source, self-hosted code completion assistant. Extensions for 15 editors including VS Code, IntelliJ, Neovim, Eclipse, and PyCharm.
 - [CodeSquire](https://codesquire.ai/) — Chrome extension that adds autocomplete to Google Colab, BigQuery, and JupyterLab.
 - [CodeMate](https://www.codemate.ai/) — VS Code extension for debugging and optimizing code.
+
+## Shell assistants
+
 - [AskCommand](https://www.askcommand.cppexpert.online/) - Web based tool to generate Unix commands from text automatically using AI.
 - [Butterfish](https://butterfi.sh) - CLI tool that embeds ChatGPT in your shell for easy access. Includes simple agentic capabilities.
-
 
 ## Agents
 
@@ -52,7 +56,11 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [DevOpsGPT](https://github.com/kuafuai/DevOpsGPT) - DevOpsGPT: AI-Driven Software Development Automation Solution
 - [Second.dev](https://www.second.dev/) — A platform for adding features to full-stack apps.
 - [Factory](https://www.factory.ai/) — Agents for code generation. Waitlisted.
-- [Pico](https://picoapps.xyz) - End-to-end micro app generator with instant deployment
+
+## App generators
+
+- [Pico](https://picoapps.xyz) - End-to-end micro app generator with instant deployment.
+- [Literally anything](https://literallyanything.io) - HTML and JavaScript web app generator.
 
 ## Documentation
 
