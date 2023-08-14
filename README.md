@@ -75,6 +75,9 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Docify](https://docify.ai4code.io/) — A VS Code extension to generate docstrings.
 - [Mintlify Writer](https://writer.mintlify.com/) — A VS Code extension to generate docstrings.
 
+## Research
+- [Synthical](https://synthical.com) — AI-powered Collaborative Research Environment
+
 ## Continuous integration bots
 
 - [BitBuilder](https://www.bitbuilder.ai/) — A GitHub integration to generate pull requests from issues.
