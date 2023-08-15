@@ -38,6 +38,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Tabnine](https://www.tabnine.com/) [(Source)](https://github.com/codota/TabNine) — Open source, self-hosted code completion assistant. Extensions for 15 editors including VS Code, IntelliJ, Neovim, Eclipse, and PyCharm.
 - [CodeSquire](https://codesquire.ai/) — Chrome extension that adds autocomplete to Google Colab, BigQuery, and JupyterLab.
 - [CodeMate](https://www.codemate.ai/) — VS Code extension for debugging and optimizing code.
+- [API Copilot](https://apicopilot.dev/) — Assistant for backend API development.
 
 ## Shell assistants
 
