@@ -6,10 +6,10 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Assistants](#assistants)
 - [Shell assistants](#shell-assistants)
 - [Agents](#agents)
+- [PR agents](#pr-agents)
 - [App generators](#app-generators)
 - [Snippet generators](#snippet-generators)
 - [Documentation](#documentation)
-- [Continuous integration bots](#continuous-integration-bots)
 - [Foundation models](#code-generation)
 - [Agent platforms](#agent-platforms)
 - [OpenAI plugins](#openai-plugins)
@@ -48,7 +48,6 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 
 ## Agents
 
-- [Sweep](https://github.com/sweepai/sweep) — AI junior dev: GitHub integration to generate, test, and self-review pull requests from issues.
 - [Smol Developer](https://github.com/smol-ai/developer) — CLI agent that generates a repository from a prompt. Uses OpenAI and Anthropic.
 - [Aider](https://github.com/paul-gauthier/aider) — CLI assistant and agent that generates changes and commits to repositories. Uses OpenAI.
 - [Mentat](https://www.mentat.codes/) — CLI assistant and agent that makes changes to repositories.
@@ -60,6 +59,14 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [DevOpsGPT](https://github.com/kuafuai/DevOpsGPT) - DevOpsGPT: AI-Driven Software Development Automation Solution
 - [Second.dev](https://www.second.dev/) — A platform for adding features to full-stack apps.
 - [Factory](https://www.factory.ai/) — Agents for code generation. Waitlisted.
+
+## PR agents
+
+- [Sweep](https://github.com/sweepai/sweep) — AI junior dev: GitHub integration to generate, test, and self-review pull requests from issues.
+- [BitBuilder](https://www.bitbuilder.ai/) — A GitHub integration to generate pull requests from issues.
+- [Code Review GPT](https://github.com/mattzcarey/code-review-gpt) — An open source tool for reviewing PRs. Works as GitHub action, Gitlab CLI or locally.
+- [Nova](https://www.trynova.ai/) - CI bot to add actions such as summaries and tests to new PRs.
+- [CodeRabbit](https://coderabbit.ai/) — Customizable CI to add summaries and code suggestions to PRs.
 
 ## App generators
 
@@ -77,13 +84,6 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Trelent](https://trelent.net/) — A VS Code extension to generate docstrings. Uses proprietary models.
 - [Docify](https://docify.ai4code.io/) — A VS Code extension to generate docstrings.
 - [Mintlify Writer](https://writer.mintlify.com/) — A VS Code extension to generate docstrings.
-
-## Continuous integration bots
-
-- [BitBuilder](https://www.bitbuilder.ai/) — A GitHub integration to generate pull requests from issues.
-- [Code Review GPT](https://github.com/mattzcarey/code-review-gpt) — An open source tool for reviewing PRs. Works as GitHub action, Gitlab CLI or locally.
-- [Nova](https://www.trynova.ai/) - CI bot to add actions such as summaries and tests to new PRs.
-- [CodeRabbit](https://coderabbit.ai/) — Customizable CI to add summaries and code suggestions to PRs.
 
 ## Code generation
 
