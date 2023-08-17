@@ -20,6 +20,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 
 - [Cursor](https://www.cursor.so/) — An IDE with chat, edit, generate and debug features. Forked from VSCodium, so the interface is similar to VS Code. Uses OpenAI.
 - [Mutable](https://mutable.ai/) — Web-based IDE, integrated with a chatbot and GitHub.
+- [CodeStory](https://codestory.ai/) — An IDE with chat, code explanations, auto-generated commits and PR summaries. Forked from VSCodium.
 
 ## Assistants
 
