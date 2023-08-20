@@ -75,6 +75,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 
 - [Pico](https://picoapps.xyz) - End-to-end micro app generator with instant deployment.
 - [Literally anything](https://literallyanything.io) - HTML and JavaScript web app generator.
+- [GPT Web App Generator](https://magic-app-generator.wasp-lang.dev/) - Generates a full-stack React/Node.js/Prisma/Wasp app from a short description.
 
 ## Snippet generators
 
