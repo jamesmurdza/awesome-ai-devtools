@@ -35,6 +35,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [CodeSquire](https://codesquire.ai/) — Chrome extension that adds autocomplete to Google Colab, BigQuery, and JupyterLab.
 - [Incognito Pilot](https://github.com/silvanmelchior/IncognitoPilot) — Open source assistant with built-in Python editor and interpreter.
 - [API Copilot](https://apicopilot.dev/) — Assistant for backend API development.
+- [Unblocked](https://getunblocked.com/) — Web and menubar assistant with access to documentation and git history.
 
 **IDE extensions:**
 
