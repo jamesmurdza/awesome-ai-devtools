@@ -29,9 +29,9 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 **Web-based:**
 
 - [Replit Ghostwriter Chat](https://replit.com/site/ghostwriter) — Assistant built into [Replit](https://replit.com/) with chat, proactive debugging, and autocomplete. Uses OpenAI for chat and [replit-code-v1-3b](https://huggingface.co/replit/replit-code-v1-3b) (OS) for autocomplete.
-- [Source Graph Cody](https://about.sourcegraph.com/cody) - Assistant with chat, refactoring, and unit test generation. Extensions for VS Code and IntelliJ. Also available as a web app.
+- [Source Graph Cody](https://about.sourcegraph.com/cody) — Assistant with chat, refactoring, and unit test generation. Extensions for VS Code and IntelliJ. Also available as a web app.
 - [Magnet](https://www.magnet.run/) — Web-based chatbot with repositories and issues as context.
-- [Adrenaline](https://useadrenaline.com/) - Web-based chatbot using AI and ASTs to answer questions about your codebase.
+- [Adrenaline](https://useadrenaline.com/) — Web-based chatbot using AI and ASTs to answer questions about your codebase.
 - [CodeSquire](https://codesquire.ai/) — Chrome extension that adds autocomplete to Google Colab, BigQuery, and JupyterLab.
 - [Incognito Pilot](https://github.com/silvanmelchior/IncognitoPilot) — Open source assistant with built-in Python editor and interpreter.
 - [API Copilot](https://apicopilot.dev/) — Assistant for backend API development.
@@ -52,12 +52,12 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 
 **Command-line:**
 
-- [talk-codebase](https://github.com/rsaryev/talk-codebase) - CLI chatbot with repository as context. Supports OpenAI as well as locally running LLMs via GPT4All.
+- [talk-codebase](https://github.com/rsaryev/talk-codebase) — CLI chatbot with repository as context. Supports OpenAI as well as locally running LLMs via GPT4All.
 
 ## Shell assistants
 
-- [AskCommand](https://www.askcommand.cppexpert.online/) - Web based tool to generate Unix commands from text automatically using AI.
-- [Butterfish](https://butterfi.sh) - CLI tool that embeds ChatGPT in your shell for easy access. Includes simple agentic capabilities.
+- [AskCommand](https://www.askcommand.cppexpert.online/) — Web based tool to generate Unix commands from text automatically using AI.
+- [Butterfish](https://butterfi.sh) — CLI tool that embeds ChatGPT in your shell for easy access. Includes simple agentic capabilities.
 
 ## Agents
 
@@ -66,9 +66,9 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Mentat](https://www.mentat.codes/) — CLI assistant and agent that makes changes to repositories.
 - [GPT Engineer](https://github.com/AntonOsika/gpt-engineer) — CLI agent that generates a repository from a prompt, and asks clarifying questions.
 - [GPT Migrate](https://github.com/0xpayne/gpt-migrate) — CLI agent that converts a full-stack application from one language or framework to another. Uses GPT-4 32k context.
-- [Grit](https://app.grit.io) - GitHub-integrated agent for automating maintenance tasks and other development work.
+- [Grit](https://app.grit.io) — GitHub-integrated agent for automating maintenance tasks and other development work.
 - [DemoGPT](https://github.com/melih-unsal/DemoGPT) — Auto Gen-AI App Generator with the Power of Llama 2
-- [DevOpsGPT](https://github.com/kuafuai/DevOpsGPT) - DevOpsGPT: AI-Driven Software Development Automation Solution
+- [DevOpsGPT](https://github.com/kuafuai/DevOpsGPT) — DevOpsGPT: AI-Driven Software Development Automation Solution
 - [Second.dev](https://www.second.dev/) — A platform for adding features to full-stack apps.
 - [Factory](https://www.factory.ai/) — Agents for code generation. Waitlisted.
 
@@ -78,14 +78,14 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [BitBuilder](https://www.bitbuilder.ai/) — A GitHub integration to generate pull requests from issues.
 - [Code Review GPT](https://github.com/mattzcarey/code-review-gpt) — An open source tool for reviewing PRs. Works as GitHub action, Gitlab CLI or locally.
 - [Codeium PR Agent](https://github.com/Codium-ai/pr-agent) — Open source tool for automated code reviews.
-- [Nova](https://www.trynova.ai/) - CI bot to add actions such as summaries and tests to new PRs.
+- [Nova](https://www.trynova.ai/) — CI bot to add actions such as summaries and tests to new PRs.
 - [CodeRabbit](https://coderabbit.ai/) — Customizable CI to add summaries and code suggestions to PRs.
 
 ## App generators
 
-- [Pico](https://picoapps.xyz) - End-to-end micro app generator with instant deployment.
-- [Literally anything](https://literallyanything.io) - HTML and JavaScript web app generator.
-- [GPT Web App Generator](https://magic-app-generator.wasp-lang.dev/) - Generates a full-stack React/Node.js/Prisma/Wasp app from a short description.
+- [Pico](https://picoapps.xyz) — End-to-end micro app generator with instant deployment.
+- [Literally anything](https://literallyanything.io) — HTML and JavaScript web app generator.
+- [GPT Web App Generator](https://magic-app-generator.wasp-lang.dev/) — Generates a full-stack React/Node.js/Prisma/Wasp app from a short description.
 
 ## UI generators
 - [v0](https://v0.dev/)
@@ -127,8 +127,8 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 
 ## Testing
 
-- [OctoMind](https://octomind.dev) - Auto-maintenance and generated browser-based end-to-end-tests integrated into Github Actions, Azure DevOps and more.
-- [Traceloop](https://traceloop.com/) - Uses OpenTelemetry tracing data with generative AI to improve system reliability.
+- [OctoMind](https://octomind.dev) — Auto-maintenance and generated browser-based end-to-end-tests integrated into Github Actions, Azure DevOps and more.
+- [Traceloop](https://traceloop.com/) — Uses OpenTelemetry tracing data with generative AI to improve system reliability.
 - [Carbonate](https://carbonate.dev/) — End-to-end testing using natural language. Integrates into your existing test suite (currently Jest, PHPUnit and Python's unittest).
-- [Meticulous.ai](https://www.meticulous.ai/) - Automatically generated, automatically maintained end-to-end tests: as your app evolves so does your test suite.
-- [DiffBlue](https://www.diffblue.com/) - Automatically generated unit tests for Java.
+- [Meticulous.ai](https://www.meticulous.ai/) — Automatically generated, automatically maintained end-to-end tests: as your app evolves so does your test suite.
+- [DiffBlue](https://www.diffblue.com/) — Automatically generated unit tests for Java.
