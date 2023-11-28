@@ -88,10 +88,13 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [GPT Web App Generator](https://magic-app-generator.wasp-lang.dev/) — Generates a full-stack React/Node.js/Prisma/Wasp app from a short description.
 
 ## UI generators
-- [v0](https://v0.dev/)
-- [Tempo](https://www.tempolabs.ai/)
-- [Rendition Create](https://www.renditioncreate.com/)
-- [Rapidpages](https://www.rapidpages.io/)
+
+- [v0 ](https://v0.dev/)— Create and iterate new UI components in your browser.
+- [Rendition Create ](https://www.renditioncreate.com/)— Create and iterate new UI components in your browser.
+- [Rapidpages](https://www.rapidpages.io/) — Open source UI generator.
+- [Magic Patterns](https://www.magicpatterns.com/) — UI generator and Figma plugin supporting a number of component systems including Shadcn, ChakraUI, and Radix.
+- [Tempo ](https://www.tempolabs.ai/) — WYSIWYG editor for React interfaces.
+- [Kombai](https://kombai.com/) — AI Tool for generating frontend code from Figma.
 
 ## Snippet generators
 
