@@ -26,24 +26,33 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 
 ## Assistants
 
+**Web-based:**
+
 - [Replit Ghostwriter Chat](https://replit.com/site/ghostwriter) — Assistant built into [Replit](https://replit.com/) with chat, proactive debugging, and autocomplete. Uses OpenAI for chat and [replit-code-v1-3b](https://huggingface.co/replit/replit-code-v1-3b) (OS) for autocomplete.
+- [Source Graph Cody](https://about.sourcegraph.com/cody) - Assistant with chat, refactoring, and unit test generation. Extensions for VS Code and IntelliJ. Also available as a web app.
+- [Magnet](https://www.magnet.run/) — Web-based chatbot with repositories and issues as context.
+- [Adrenaline](https://useadrenaline.com/) - Web-based chatbot using AI and ASTs to answer questions about your codebase.
+- [CodeSquire](https://codesquire.ai/) — Chrome extension that adds autocomplete to Google Colab, BigQuery, and JupyterLab.
+- [Incognito Pilot](https://github.com/silvanmelchior/IncognitoPilot) — Open source assistant with built-in Python editor and interpreter.
+- [API Copilot](https://apicopilot.dev/) — Assistant for backend API development.
+
+**IDE extensions:**
+
 - [GitHub Copilot X](https://github.com/features/preview/copilot-x) — A VS Code extension with chat, pull request text generation, and unit test generation.
 - [Refact AI](https://refact.ai/) [Source](https://github.com/smallcloudai/refact) — Open source assistant with chat, completion, refactoring, and codebase-specific fine-tuning. Extensions for VS Code and JetBrains.
+
 - [Codeium](https://codeium.com/) — Assistant with autocomplete, natural language search and chat. Extensions for 21 editors including VS Code, JetBrains, Neovim, Vim, Emacs, Eclipse, PyCharm, and Xcode. Enterprise version includes codebase-specific fine-tuning.
 - [Continue](https://continue.dev/) — VS Code extension with chat, refactor, and code generation. Edits multiple files and runs commands on your behalf.
 - [Blackbox](https://www.useblackbox.io/) — VS Code extension with autocomplete and chat including links to online coding references.
-- [Source Graph Cody](https://about.sourcegraph.com/cody) - Assistant with chat, refactoring, and unit test generation. Extensions for VS Code and IntelliJ. Also available as a web app.
 - [CodeGeeX](https://codegeex.cn/) Open source assistant based on the CodeGeeX LLM with chat, completion, and refactoring. Extensions for 9 editors including VS Code, and PyCharm.
-- [Quack AI](https://www.quack-ai.com/) — VS Code extension for adhering to project coding guidelines. Waitlist.
-- [talk-codebase](https://github.com/rsaryev/talk-codebase) - CLI chatbot with repository as context. Supports OpenAI as well as locally running LLMs via GPT4All.
-- [Magnet](https://www.magnet.run/) — Web-based chatbot with repositories and issues as context.
-- [Adrenaline](https://useadrenaline.com/) - Web-based chatbot using AI and ASTs to answer questions about your codebase.
+- [Quack AI](https://www.quack-ai.com/) — VS Code extension for adhering to project coding guidelines.
 - [Tabby](https://tabbyml.github.io/tabby/) — Open source, self-hosted code completion assistant. Extensions for VS Code and Vim.
 - [Tabnine](https://www.tabnine.com/) [(Source)](https://github.com/codota/TabNine) — Open source, self-hosted code completion assistant. Extensions for 15 editors including VS Code, IntelliJ, Neovim, Eclipse, and PyCharm.
-- [CodeSquire](https://codesquire.ai/) — Chrome extension that adds autocomplete to Google Colab, BigQuery, and JupyterLab.
-- [CodeMate](https://www.codemate.ai/) — VS Code extension for debugging and optimizing code.
-- [API Copilot](https://apicopilot.dev/) — Assistant for backend API development.
-- [Incognito Pilot](https://github.com/silvanmelchior/IncognitoPilot) — Open source assistant with built-in Python editor and interpreter.
+- [CodeMate](https://www.codemate.ai/) — VS Code extension for debugging and optimizing code.
+
+**Command-line:**
+
+- [talk-codebase](https://github.com/rsaryev/talk-codebase) - CLI chatbot with repository as context. Supports OpenAI as well as locally running LLMs via GPT4All.
 
 ## Shell assistants
 
