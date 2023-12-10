@@ -75,6 +75,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [DevOpsGPT](https://github.com/kuafuai/DevOpsGPT) — DevOpsGPT: AI-Driven Software Development Automation Solution
 - [Second.dev](https://www.second.dev/) — A platform for adding features to full-stack apps.
 - [Factory](https://www.factory.ai/) — Agents for code generation. Waitlisted.
+- [sudocode](https://sudocode.ai/) — A web based chat assistant for generating projects, similar to Code Interpreter.
 
 ## PR agents
 
@@ -84,6 +85,8 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Codeium PR Agent](https://github.com/Codium-ai/pr-agent) — Open source tool for automated code reviews.
 - [Nova](https://www.trynova.ai/) — CI bot to add actions such as summaries and tests to new PRs.
 - [CodeRabbit](https://coderabbit.ai/) — Customizable CI to add summaries and code suggestions to PRs.
+- [SwePT](https://github.com/keerthanpg/SwePT) — Open source PR generator written in 150 lines of Python code.
+- [Duckie](https://duckie.ai/) — A web based chat assistant for modifying GitHub repositories.
 
 ## App generators
 
