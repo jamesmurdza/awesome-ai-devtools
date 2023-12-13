@@ -27,7 +27,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 
 ## Git Clients
 
-- [GitBrain](https://gitbrain.dev/) - Git client that simplifies the git workflow. Splits code changes, generates summaries & commit messages for code changes. Uses OpenAI
+- [GitBrain](https://gitbrain.dev/) - Git client that simplifies the git workflow. Splits code changes, generates summaries & commit messages for code changes. Uses OpenAI.
 
 ## Assistants
 
