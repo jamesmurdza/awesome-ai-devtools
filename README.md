@@ -3,6 +3,7 @@
 This is a curated list of AI-powered developer tools. These tools leverage AI to assist developers in tasks such as code completion, refactoring, debugging, documentation, and more.
 
 - [IDEs](#ides)
+- [Git clients](#git-clients)
 - [Assistants](#assistants)
 - [Shell assistants](#shell-assistants)
 - [Agents](#agents)
@@ -23,6 +24,10 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Mutable](https://mutable.ai/) — Web-based IDE, integrated with a chatbot and GitHub.
 - [CodeStory](https://codestory.ai/) — An IDE with chat, code explanations, auto-generated commits and PR summaries. Forked from VSCodium.
 - [GitWit](https://gitwit.dev/) — Web-based editor for building ReactJS applications with AI.
+
+## Git Clients
+
+- [GitBrain](https://gitbrain.dev/) - Git client that simplifies the git workflow. Splits code changes, generates summaries & commit messages for code changes. Uses OpenAI.
 
 ## Assistants
 
