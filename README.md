@@ -86,6 +86,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 
 - [Sweep](https://github.com/sweepai/sweep) — AI junior dev: GitHub integration to generate, test, and self-review pull requests from issues.
 - [BitBuilder](https://www.bitbuilder.ai/) — A GitHub integration to generate pull requests from issues.
+- [Codegen](https://www.codegen.com/) — GPT-4 based PR agent for enterprise codebases.
 - [Code Review GPT](https://github.com/mattzcarey/code-review-gpt) — An open source tool for reviewing PRs. Works as GitHub action, Gitlab CLI or locally.
 - [Codeium PR Agent](https://github.com/Codium-ai/pr-agent) — Open source tool for automated code reviews.
 - [Nova](https://www.trynova.ai/) — CI bot to add actions such as summaries and tests to new PRs.
