@@ -108,6 +108,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Rendition Create ](https://www.renditioncreate.com/)— Create and iterate new UI components in your browser.
 - [Rapidpages](https://www.rapidpages.io/) — Open source UI generator.
 - [Magic Patterns](https://www.magicpatterns.com/) — UI generator and Figma plugin supporting a number of component systems including Shadcn, ChakraUI, and Radix.
+- [Clone UI](https://clone-ui.design/) — Tailwind CSS UI component generator.
 - [Tempo ](https://www.tempolabs.ai/) — WYSIWYG editor for React interfaces.
 - [Kombai](https://kombai.com/) — AI Tool for generating frontend code from Figma.
 
