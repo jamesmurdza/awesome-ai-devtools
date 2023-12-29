@@ -58,6 +58,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [AskCodi](https://www.askcodi.com/) — AI coding assistant with extensions for VS Code, JetBrains and Sublime Text.
 - [Rubberduck](https://github.com/rubberduck-ai/rubberduck-vscode) — Open source, chat assistant for the Visual Studio Code side bar.
 - [CodeComplete](https://codecomplete.ai/) — Self hosted, enterprise completion assistant.
+- [JetBrains AI](https://www.jetbrains.com/ai/) — AI Assistant available in all JetBrains IDEs.
 
 **Command-line:**
 
