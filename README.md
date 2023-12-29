@@ -94,6 +94,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [CodeRabbit](https://coderabbit.ai/) — Customizable CI to add summaries and code suggestions to PRs.
 - [SwePT](https://github.com/keerthanpg/SwePT) — Open source PR generator written in 150 lines of Python code.
 - [Duckie](https://duckie.ai/) — A web based chat assistant for modifying GitHub repositories.
+- [PR Explainer Bot](https://pr-explainer-bot.web.app/) — A GitHub integration that adds explanatory text to newly created PRs.
 
 ## App generators
 
