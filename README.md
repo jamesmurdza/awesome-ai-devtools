@@ -59,6 +59,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Rubberduck](https://github.com/rubberduck-ai/rubberduck-vscode) — Open source, chat assistant for the Visual Studio Code side bar.
 - [CodeComplete](https://codecomplete.ai/) — Self hosted, enterprise completion assistant.
 - [JetBrains AI](https://www.jetbrains.com/ai/) — AI Assistant available in all JetBrains IDEs.
+- [aiXcoder](https://www.aixcoder.com/en/) — Local or cloud-based assistant with extensions for IntelliJ IDEA, CLion, GoLand, PyCharm, WebStorm, Visual Studio Code, and Eclipse.
 
 **Command-line:**
 
