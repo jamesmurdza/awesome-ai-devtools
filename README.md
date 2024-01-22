@@ -101,6 +101,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [PR Explainer Bot](https://pr-explainer-bot.web.app/) — A GitHub integration that adds explanatory text to newly created PRs.
 - [Goast](https://goast.ai/) — A hosted tool that ingests your error logs and suggests fixes.
 - [Corgea](https://corgea.com/) — A GitHub integration that finds and fixes vulnerable code.
+- [vx.dev](https://github.com/Yuyz0112/vx.dev) — A GitHub integration focused on UI generation with built in support for shadcn, lucide, and nivo charts.
 
 ## App generators
 
