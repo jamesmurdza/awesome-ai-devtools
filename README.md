@@ -113,7 +113,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 
 ## UI generators
 
-- [v0 ](https://v0.dev/)— Create and iterate new UI components in your browser.
+- [v0](https://v0.dev/) — Create and iterate new UI components in your browser.
 - [Rendition Create ](https://www.renditioncreate.com/)— Create and iterate new UI components in your browser.
 - [Rapidpages](https://www.rapidpages.io/) — Open source UI generator.
 - [Magic Patterns](https://www.magicpatterns.com/) — UI generator and Figma plugin supporting a number of component systems including Shadcn, ChakraUI, and Radix for free. Also supports bringing your own component library by connecting to Storybook or GitHub on a paid plan.
