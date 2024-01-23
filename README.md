@@ -121,6 +121,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Tempo ](https://www.tempolabs.ai/) — WYSIWYG editor for React interfaces.
 - [Kombai](https://kombai.com/) — AI Tool for generating frontend code from Figma.
 - [CodeParrot](https://www.codeparrot.ai/) — VS code plugin to generate Frontend code from Figma. Reuses existing components, libraries and coding standards to generate code which fits perfectly with your existing codebase. All without any prompting.
+- [Galileo AI](https://www.usegalileo.ai/) - A text-to-UI platform. Waitlist.
 
 ## Snippet generators
 
