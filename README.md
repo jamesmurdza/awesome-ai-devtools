@@ -17,6 +17,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [OpenAI plugins](#openai-plugins)
 - [Search](#search)
 - [Testing](#testing)
+- [Phone Calls](#phone-calls)
 
 ## IDEs
 
@@ -166,3 +167,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Meticulous.ai](https://www.meticulous.ai/) — Automatically generated, automatically maintained end-to-end tests: as your app evolves so does your test suite.
 - [DiffBlue](https://www.diffblue.com/) — Automatically generated unit tests for Java.
 - [CodiumAI](https://www.codium.ai/) — Non-trivial test generation with support for major programming languages. Extensions for VS Code and JetBrains.
+
+## Phone Calls
+
+- [AICaller.io](https://aicaller.io/?ref=v) - AICaller is a simple-to-use automated bulk calling solution that uses the latest Generative AI technology to trigger phone calls for you and get things done. It can do things like lead qualification, data gathering over phone calls, and much more. It comes with a powerful API, low cost pricing and free trial.
