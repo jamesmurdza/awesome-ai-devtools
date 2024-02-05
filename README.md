@@ -43,6 +43,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [API Copilot](https://apicopilot.dev/) — Assistant for backend API development.
 - [Unblocked](https://getunblocked.com/) — Web and menubar assistant with access to documentation and git history.
 - [Onboard](https://www.getonboardai.com) — Chat with an AI about public and private codebases.
+- [Pieces](https://pieces.app/) — An on-device copilot that helps you capture, enrich, and reuse code, streamline collaboration, and solve complex problems through a contextual understanding of your workflow.
 
 **IDE extensions:**
 
