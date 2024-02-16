@@ -64,6 +64,8 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [aiXcoder](https://www.aixcoder.com/en/) — Local or cloud-based assistant with extensions for IntelliJ IDEA, CLion, GoLand, PyCharm, WebStorm, Visual Studio Code, and Eclipse.
 - [Sourcery](https://sourcery.ai/) — AI assistant and linter with a reference of 160 Python best practices and 40+ JS/TS best practices. Extensions for VS Code, PyCharm, vim and Sublime.
 - [Swimm](https://swimm.io) — Assistant for contextual code understanding using static analysis and AI generated documentation. VSCode, Jetbrains, IntelliJ, WebStorm, Rider, PhpStorm, Android Studio, PyCharm, PhPStorm
+- [Genie](https://github.com/ai-genie/chatgpt-vscode) - AI assistant for VS Code - Genie can generate code, answer questions about code, and explain code. It can also be customized with different prompts and settings.
+- [GPT Pilot](https://github.com/Pythagora-io/gpt-pilot) - GPT Pilot is a tool that can help developers write code. It can write code, debug it, and ask for help when needed. It can also work on different scales and with different technologies.
 
 **Command-line:**
 
@@ -86,8 +88,9 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [DemoGPT](https://github.com/melih-unsal/DemoGPT) — Auto Gen-AI App Generator with the Power of Llama 2
 - [DevOpsGPT](https://github.com/kuafuai/DevOpsGPT) — DevOpsGPT: AI-Driven Software Development Automation Solution
 - [Second.dev](https://www.second.dev/) — A platform for adding features to full-stack apps.
-- [Factory](https://www.factory.ai/) — Agents for code generation. Waitlisted.
-- [sudocode](https://sudocode.ai/) — A web based chat assistant for generating projects, similar to Code Interpreter.
+- [Factory](https://www.factory.ai/) - Agents for code generation. Waitlisted.
+- [sudocode](https://sudocode.ai/) - A web based chat assistant for generating projects, similar to Code Interpreter.
+- [Meta GPT](https://github.com/geekan/MetaGPT) - MetaGPT is a multi-agent framework that can be used to create software products. It takes a one-line requirement as input and then outputs a variety of things, such as user stories, designs, tasks, and code. MetaGPT is made up of different agents, each with its own role. These agents work together to complete the task at hand.
 
 ## PR agents
 
@@ -141,6 +144,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 
 - [Magic](https://magic.dev/) — Company promising two products, an assistant and [LTM-1](https://magic.dev/blog/ltm-1), an underlying foundation model trained on code. Waitlist.
 - [Poolside](https://magic.dev/) — Company building code generation models through reinforcement learning.
+- [CodeCompanion](https://codecompanion.ai/) - Prototype faster, code smarter and scale your productivity. Available anytime, right on your desktop.
 
 ## Agent platforms
 
