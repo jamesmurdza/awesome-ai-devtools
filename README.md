@@ -44,6 +44,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Unblocked](https://getunblocked.com/) — Web and menubar assistant with access to documentation and git history.
 - [Onboard](https://www.getonboardai.com) — Chat with an AI about public and private codebases.
 - [Code to Flow](https://codetoflow.com) — Visualize, Analyze, and Understand Your Code flow. Turn Code into Interactive Flowcharts with AI. Simplify Complex Logic Instantly.
+- [Pieces](https://pieces.app/) — An on-device copilot that helps you capture, enrich, and reuse code, streamline collaboration, and solve complex problems through a contextual understanding of your workflow.
 
 **IDE extensions:**
 
