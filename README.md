@@ -115,6 +115,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [GPT Web App Generator](https://magic-app-generator.wasp-lang.dev/) — Generates a full-stack React/Node.js/Prisma/Wasp app from a short description.
 - [Make Real](https://makereal.tldraw.com/) — Online canvas that can be used to generate HTML/JavaScript apps.
 - [Marblism](https://marblism.com) - Generate a SaaS boilerplate from a prompt.
+- [Glowbom](https://glowbom.com/) - Generate apps with AI and export to multiple platforms.
 
 ## UI generators
 
