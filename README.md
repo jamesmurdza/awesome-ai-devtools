@@ -89,6 +89,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Second.dev](https://www.second.dev/) — A platform for adding features to full-stack apps.
 - [Factory](https://www.factory.ai/) — Agents for code generation. Waitlisted.
 - [sudocode](https://sudocode.ai/) — A web based chat assistant for generating projects, similar to Code Interpreter.
+- [CodeFlash AI](https://www.codeflash.ai/) - A CLI and CI tool for optimizing Python code using AI.
 
 ## PR agents
 
