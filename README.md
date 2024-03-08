@@ -146,7 +146,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 ## Code generation
 
 - [Magic](https://magic.dev/) — Company promising two products, an assistant and [LTM-1](https://magic.dev/blog/ltm-1), an underlying foundation model trained on code. Waitlist.
-- [Poolside](https://magic.dev/) — Company building code generation models through reinforcement learning.
+- [Poolside](https://poolside.ai/) — Company building code generation models through reinforcement learning.
 
 ## Agent platforms
 
