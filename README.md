@@ -71,6 +71,10 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 
 - [talk-codebase](https://github.com/rsaryev/talk-codebase) — CLI chatbot with repository as context. Supports OpenAI as well as locally running LLMs via GPT4All.
 
+**Desktop:**
+
+- [Pieces](https://pieces.app/) — AI-enabled desktop application and browser extension designed to assist developers in enhancing productivity.
+
 ## Shell assistants
 
 - [AskCommand](https://www.askcommand.cppexpert.online/) — Web based tool to generate Unix commands from text automatically using AI.
