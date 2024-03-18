@@ -95,6 +95,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Factory](https://www.factory.ai/) — Agents for code generation. Waitlisted.
 - [sudocode](https://sudocode.ai/) — A web based chat assistant for generating projects, similar to Code Interpreter.
 - [CodeFlash AI](https://www.codeflash.ai/) - A CLI and CI tool for optimizing Python code using AI.
+- [Floom](https://github.com/FloomAI/Floom) - AI gateway, AI cloud and CLI offering a marketplace for developers, enables streamlined integration of AI features into products.
 
 ## PR agents
 
