@@ -177,3 +177,4 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Meticulous.ai](https://www.meticulous.ai/) — Automatically generated, automatically maintained end-to-end tests: as your app evolves so does your test suite.
 - [DiffBlue](https://www.diffblue.com/) — Automatically generated unit tests for Java.
 - [CodiumAI](https://www.codium.ai/) — Non-trivial test generation with support for major programming languages. Extensions for VS Code and JetBrains.
+- [DeepUnit](https://www.deepunit.ai/) — Thoughtful test cases and generation of complete unit test files. Available as an interactive VS Code extension, npm package, CLI or CI/CD pipeline.
