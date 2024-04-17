@@ -121,6 +121,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Pixee](https://pixee.ai)  — Pixeebot finds security and code quality issues in your code and creates merge-ready pull requests with recommended fixes.
 - [CodeAnt AI](https://www.codeant.ai/)  — Automatically create PRs to fix code issues.
 - [What The Diff](https://whatthediff.ai/) —  AI-powered app that reviews the diff of pull requests and writes a descriptive comment about the changes in plain english.
+- [Trag](https://usetrag.com/) - AI powered code reviews with pre-defined instructions and patterns.
 
 ## App generators
 
