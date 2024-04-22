@@ -195,5 +195,4 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [DiffBlue](https://www.diffblue.com/) — Automatically generated unit tests for Java.
 - [CodiumAI](https://www.codium.ai/) — Non-trivial test generation with support for major programming languages. Extensions for VS Code and JetBrains.
 - [DeepUnit](https://www.deepunit.ai/) — Thoughtful test cases and generation of complete unit test files. Available as an interactive VS Code extension, npm package, CLI or CI/CD pipeline.
-- [KushoAI](https://kusho.ai/) — AI agent for API testing which transforms your Postman collection, OpenAPI specs, curl commands, etc. into exhaustive
-test suites that plug into your CI/CD pipeline.
+- [KushoAI](https://kusho.ai/) — AI agent for API testing which transforms your Postman collections, OpenAPI specs, curl commands, etc. into exhaustive test suites that plug into your CI/CD pipeline.
