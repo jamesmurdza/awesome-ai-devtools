@@ -131,6 +131,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Make Real](https://makereal.tldraw.com/) — Online canvas that can be used to generate HTML/JavaScript apps.
 - [Marblism](https://marblism.com) —  Generate a SaaS boilerplate from a prompt.
 - [Glowbom](https://glowbom.com/) —  Generate apps with AI and export to multiple platforms.
+- [Auto Streamer](https://www.autostreamer.live/) - Create course websites in minutes.
 
 ## UI generators
 
