@@ -162,6 +162,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [DiagramGPT](https://www.eraser.io/diagramgpt) — DiagramGPT is a free AI-based web app that converts a schema, infrastructure definition, code snippet or plain language description into diagrams. The tool can generate flow charts, entity relationship diagrams, cloud architecture diagrams and sequence diagrams.
 - [DocuWriter.ai](https://www.docuwriter.ai/) —  AI-powered web app to generate automated Code & API documentation from your source code files.
 - [README-AI](https://github.com/eli64s/readme-ai) — Automated README.md file generator, powered by large language model APIs.
+- [Supacodes](https://www.supacodes.com) — An AI tool that automates writing & updating code documentation in Github
 
 ## Code generation
 
