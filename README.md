@@ -41,7 +41,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [CodeSquire](https://codesquire.ai/) — Chrome extension that adds autocomplete to Google Colab, BigQuery, and JupyterLab.
 - [Incognito Pilot](https://github.com/silvanmelchior/IncognitoPilot) — Open source assistant with built-in Python editor and interpreter.
 - [API Copilot](https://apicopilot.dev/) — Assistant for backend API development.
-- [Unblocked](https://getunblocked.com/) — Unblocked provides engineers helpful and accurate answers to questions about the codebase by augmenting their source code with relevant existing discussions in Slack, Jira, Confluence, and more. Available on web, macOS, Slack, VSCode, and JetBrains IDE’s.
+- [Unblocked](https://getunblocked.com/) — Unblocked provides engineers helpful and accurate answers to questions about the codebase by augmenting their source code with relevant existing discussions in GitHub, Slack, Jira, Confluence, and more. Available on web, macOS, Slack, VSCode, and JetBrains IDE’s.
 - [Onboard](https://www.getonboardai.com) — Chat with an AI about public and private codebases.
 - [Code to Flow](https://codetoflow.com) — Visualize, analyze, and understand code with interactive flowcharts.
 - [Pieces](https://pieces.app/) — An on-device copilot that helps you capture, enrich, and reuse code, streamline collaboration, and solve complex problems through a contextual understanding of your workflow.
@@ -52,7 +52,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 **IDE extensions:**
 
 - [GitHub Copilot X](https://github.com/features/preview/copilot-x) — A VS Code extension with chat, pull request text generation, and unit test generation.
-- [Unblocked](https://getunblocked.com/) — Unblocked provides engineers helpful and accurate answers to questions about the codebase by augmenting their source code with relevant existing discussions in Slack, Jira, Confluence, and more. Available on web, macOS, Slack, VSCode, and JetBrains IDE’s.
+- [Unblocked](https://getunblocked.com/) — Unblocked provides engineers helpful and accurate answers to questions about the codebase by augmenting their source code with relevant existing discussions in GitHub, Slack, Jira, Confluence, and more. Available on web, macOS, Slack, VSCode, and JetBrains IDE’s.
 - [Refact AI](https://refact.ai/) [Source](https://github.com/smallcloudai/refact) — Open source assistant with chat, completion, refactoring, and codebase-specific fine-tuning. Extensions for VS Code and JetBrains.
 - [Codeium](https://codeium.com/) — Assistant with autocomplete, natural language search and chat. Extensions for 21 editors including VS Code, JetBrains, Neovim, Vim, Emacs, Eclipse, PyCharm, and Xcode. Enterprise version includes codebase-specific fine-tuning.
 - [Continue](https://continue.dev/) — VS Code extension with chat, refactor, and code generation. Edits multiple files and runs commands on your behalf.
