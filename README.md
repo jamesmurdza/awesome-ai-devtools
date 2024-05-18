@@ -163,6 +163,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [DocuWriter.ai](https://www.docuwriter.ai/) —  AI-powered web app to generate automated Code & API documentation from your source code files.
 - [README-AI](https://github.com/eli64s/readme-ai) — Automated README.md file generator, powered by large language model APIs.
 - [Supacodes](https://www.supacodes.com) — An AI tool that automates writing & updating code documentation in Github
+- [CodexAtlas](https://codedocumentation.app/) - Automated code and API documentation using latest AI models
 
 ## Code generation
 
