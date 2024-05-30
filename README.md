@@ -2,21 +2,22 @@
 
 This is a curated list of AI-powered developer tools. These tools leverage AI to assist developers in tasks such as code completion, refactoring, debugging, documentation, and more.
 
-- [IDEs](#ides)
-- [Git clients](#git-clients)
-- [Assistants](#assistants)
-- [Shell assistants](#shell-assistants)
-- [Agents](#agents)
-- [PR agents](#pr-agents)
-- [App generators](#app-generators)
-- [UI generators](#ui-generators)
-- [Snippet generators](#snippet-generators)
-- [Documentation](#documentation)
-- [Foundation models](#code-generation)
-- [Agent platforms](#agent-platforms)
-- [OpenAI plugins](#openai-plugins)
-- [Search](#search)
-- [Testing](#testing)
+- [⚡️🧑‍💻 Awesome AI-Powered Developer Tools](#️-awesome-ai-powered-developer-tools)
+  - [IDEs](#ides)
+  - [Git Clients](#git-clients)
+  - [Assistants](#assistants)
+  - [Shell assistants](#shell-assistants)
+  - [Agents](#agents)
+  - [PR agents](#pr-agents)
+  - [App generators](#app-generators)
+  - [UI generators](#ui-generators)
+  - [Snippet generators](#snippet-generators)
+  - [Documentation](#documentation)
+  - [Code generation](#code-generation)
+  - [Agent platforms](#agent-platforms)
+  - [OpenAI plugins](#openai-plugins)
+  - [Search](#search)
+  - [Testing](#testing)
 
 ## IDEs
 
@@ -48,6 +49,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [TEXT2SQL.AI](https://www.text2sql.ai/) — AI-powered SQL query builder. Translate, explain and fix complex SQL queries using plain English.
 - [SQLAI.ai](https://www.sqlai.ai/) — AI generates, fixes, explains and optimizes SQL queries. Ability to add your own database schema and train AI to understand it. 
 - [CodeWP](https://codewp.ai/) — AI chat and coding tools specifically trained for WordPress developers. AI code generation for code snippets and plugins in WordPress.
+- [MyBot.Chat](https://mybot.chat) - AI Chatbot builder powered by LLM like ChatGPT or Llama 3. No code.
 
 **IDE extensions:**
 
