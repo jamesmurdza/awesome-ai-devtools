@@ -48,6 +48,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [TEXT2SQL.AI](https://www.text2sql.ai/) — AI-powered SQL query builder. Translate, explain and fix complex SQL queries using plain English.
 - [SQLAI.ai](https://www.sqlai.ai/) — AI generates, fixes, explains and optimizes SQL queries. Ability to add your own database schema and train AI to understand it. 
 - [CodeWP](https://codewp.ai/) — AI chat and coding tools specifically trained for WordPress developers. AI code generation for code snippets and plugins in WordPress.
+- [Gur.ai](https://www.gru.ai/) - An AI developer can help you solve technical problems and tackle daily coding tasks, such as building algorithms, debug issues, test solutions, answer programming questions, etc.
 
 **IDE extensions:**
 
@@ -92,6 +93,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 
 - [Smol Developer](https://github.com/smol-ai/developer) — CLI agent that generates a repository from a prompt. Uses OpenAI and Anthropic.
 - [Aider](https://github.com/paul-gauthier/aider) — CLI assistant and agent that generates changes and commits to repositories. Uses OpenAI.
+- [Blinky](https://github.com/seahyinghang8/blinky) - A debugging agent for VS Code that helps to identify and fix backend errors, inspired by SWE-agent.
 - [Mentat](https://www.mentat.codes/) — CLI assistant and agent that makes changes to repositories.
 - [GPT Engineer](https://github.com/AntonOsika/gpt-engineer) — CLI agent that generates a repository from a prompt, and asks clarifying questions.
 - [GPT Migrate](https://github.com/0xpayne/gpt-migrate) — CLI agent that converts a full-stack application from one language or framework to another. Uses GPT-4 32k context.
@@ -163,6 +165,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [DocuWriter.ai](https://www.docuwriter.ai/) —  AI-powered web app to generate automated Code & API documentation from your source code files.
 - [README-AI](https://github.com/eli64s/readme-ai) — Automated README.md file generator, powered by large language model APIs.
 - [Supacodes](https://www.supacodes.com) — An AI tool that automates writing & updating code documentation in Github
+- [CodexAtlas](https://codedocumentation.app/) - Automated code and API documentation using latest AI models
 
 ## Code generation
 
