@@ -50,6 +50,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [SQLAI.ai](https://www.sqlai.ai/) — AI generates, fixes, explains and optimizes SQL queries. Ability to add your own database schema and train AI to understand it. 
 - [CodeWP](https://codewp.ai/) — AI chat and coding tools specifically trained for WordPress developers. AI code generation for code snippets and plugins in WordPress.
 - [Gur.ai](https://www.gru.ai/) - An AI developer can help you solve technical problems and tackle daily coding tasks, such as building algorithms, debug issues, test solutions, answer programming questions, etc.
+- [Turbular](https://www.turbular.com/) - An SQL chatbot, can generate SQL based on a variety of databases for you and write code to analyze your data.
 
 **IDE extensions:**
 
