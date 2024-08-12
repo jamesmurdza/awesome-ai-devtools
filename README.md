@@ -105,6 +105,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Factory](https://www.factory.ai/) — Agents for code generation. Waitlisted.
 - [sudocode](https://sudocode.ai/) — A web based chat assistant for generating projects, similar to Code Interpreter.
 - [CodeFlash AI](https://www.codeflash.ai/) — A CLI and CI tool for optimizing Python code using AI.
+- [Micro Agent](https://github.com/micro-ai/micro-agent) — Open-source tool that generates and iterates on code using AI-created unit tests as guardrails.
 
 ## PR agents
 
@@ -173,6 +174,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 
 - [Magic](https://magic.dev/) — Company promising two products, an assistant and [LTM-1](https://magic.dev/blog/ltm-1), an underlying foundation model trained on code. Waitlist.
 - [Poolside](https://poolside.ai/) — Company building code generation models through reinforcement learning.
+- [Visual Copilot](https://www.builder.io/m/design-to-code) — Figma plugin that converts designs into clean, responsive code for multiple frameworks and CSS libraries.
 
 ## Agent platforms
 
