@@ -179,6 +179,9 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Morph Rift](https://github.com/morph-labs/rift) — Open source VS Code extension that allows merging the output of code generation agents.
 - [SuperAGI](https://superagi.com/) — Open source platform for hosting LLM-based agents including [SuperCoder](https://superagi.com/supercoder/).
 
+## Agent Tools
+- [hydra-ai](https://github.com/michaelmagan/hydraai) - An open-source NPM package to give LLMs the ability to generate React components in your app.
+
 ## OpenAI plugins
 
 - [ChatWithGit](https://gitsearch.sdan.io/) — Enables ChatGPT to search GitHub and return links to relevant repositories.
