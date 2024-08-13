@@ -176,6 +176,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 
 ## Agent platforms
 
+- [Crew AI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents.
 - [E2B](https://www.e2b.dev/) — Open source cloud platform for hosting LLM-based agents. Supports [Smol Developer](https://github.com/smol-ai/developer).
 - [Morph Rift](https://github.com/morph-labs/rift) — Open source VS Code extension that allows merging the output of code generation agents.
 - [SuperAGI](https://superagi.com/) — Open source platform for hosting LLM-based agents including [SuperCoder](https://superagi.com/supercoder/).
