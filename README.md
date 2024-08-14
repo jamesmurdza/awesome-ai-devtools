@@ -47,7 +47,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Code to Flow](https://codetoflow.com) — Visualize, analyze, and understand code with interactive flowcharts.
 - [Pieces](https://pieces.app/) — An on-device copilot that helps you capture, enrich, and reuse code, streamline collaboration, and solve complex problems through a contextual understanding of your workflow.
 - [TEXT2SQL.AI](https://www.text2sql.ai/) — AI-powered SQL query builder. Translate, explain and fix complex SQL queries using plain English.
-- [SQLAI.ai](https://www.sqlai.ai/) — AI generates, fixes, explains and optimizes SQL queries. Ability to add your own database schema and train AI to understand it. 
+- [SQLAI.ai](https://www.sqlai.ai/) — AI generates, fixes, explains and optimizes SQL queries. Ability to add your own database schema and train AI to understand it.
 - [CodeWP](https://codewp.ai/) — AI chat and coding tools specifically trained for WordPress developers. AI code generation for code snippets and plugins in WordPress.
 - [Gur.ai](https://www.gru.ai/) - An AI developer can help you solve technical problems and tackle daily coding tasks, such as building algorithms, debug issues, test solutions, answer programming questions, etc.
 
@@ -149,6 +149,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Galileo AI](https://www.usegalileo.ai/) — A text-to-UI platform. Waitlist.
 - [Uizard](https://uizard.io/) — Generate multi-screen mockups from text prompts and edit them with a drag-and-drop editor. Scan screenshots of apps or hand-drawn wireframes and transform them into editable app mockups.
 - [Frontly](https://fronty.com/) — Convert the uploaded image to HTML CSS code.
+- [BoringUi](https://www.boringui.xyz/) - Create beautiful UI using your json data. The generated ui is in HTML and Tailwind CSS with code which can be copied and UI can be shared with anyone using links.
 
 ## Snippet generators
 
