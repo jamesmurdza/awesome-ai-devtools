@@ -143,7 +143,6 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Rendition Create ](https://www.renditioncreate.com/) — Create and iterate new UI components in your browser.
 - [Rapidpages](https://www.rapidpages.io/) — Open source UI generator.
 - [Magic Patterns](https://www.magicpatterns.com/) — UI generator and Figma plugin supporting a number of component systems including Shadcn, ChakraUI, and Radix for free. Also supports bringing your own component library by connecting to Storybook or GitHub on a paid plan.
-- [Clone UI](https://clone-ui.design/) — Tailwind CSS UI component generator.
 - [Tempo ](https://www.tempolabs.ai/) — WYSIWYG editor for React interfaces.
 - [Kombai](https://kombai.com/) — AI Tool for generating frontend code from Figma.
 - [CodeParrot](https://www.codeparrot.ai/) — VS code plugin to generate Frontend code from Figma. Reuses existing components, libraries and coding standards to generate code which fits perfectly with your existing codebase. All without any prompting.
@@ -182,6 +181,9 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [E2B](https://www.e2b.dev/) — Open source cloud platform for hosting LLM-based agents. Supports [Smol Developer](https://github.com/smol-ai/developer).
 - [Morph Rift](https://github.com/morph-labs/rift) — Open source VS Code extension that allows merging the output of code generation agents.
 - [SuperAGI](https://superagi.com/) — Open source platform for hosting LLM-based agents including [SuperCoder](https://superagi.com/supercoder/).
+
+## Agent Tools
+- [hydra-ai](https://github.com/michaelmagan/hydraai) - An open-source NPM package to give LLMs the ability to generate React components in your app.
 
 ## OpenAI plugins
 
