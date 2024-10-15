@@ -52,7 +52,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [TEXT2SQL.AI](https://www.text2sql.ai/) — AI-powered SQL query builder. Translate, explain and fix complex SQL queries using plain English.
 - [SQLAI.ai](https://www.sqlai.ai/) — AI generates, fixes, explains and optimizes SQL queries. Ability to add your own database schema and train AI to understand it.
 - [CodeWP](https://codewp.ai/) — AI chat and coding tools specifically trained for WordPress developers. AI code generation for code snippets and plugins in WordPress.
-- [Gur.ai](https://www.gru.ai/) - An AI developer can help you solve technical problems and tackle daily coding tasks, such as building algorithms, debug issues, test solutions, answer programming questions, etc.
+- [Gur.ai](https://www.gru.ai/) — An AI developer can help you solve technical problems and tackle daily coding tasks, such as building algorithms, debug issues, test solutions, answer programming questions, etc.
 
 **IDE extensions:**
 
@@ -92,13 +92,13 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Butterfish](https://butterfi.sh) — CLI tool that embeds ChatGPT in your shell for easy access. Includes simple agentic capabilities.
 - [Shell Whiz](https://github.com/beimzhan/shell-whiz) — highly configurable CLI assistant to generate shell commands and get explanations for them.
 - [GitFluence](https://www.gitfluence.com/) — Web-based Git command generator to automatically generate Git commands for terminal or CLI from text description, using an AI-driven solution to suggest the most relevant Git commands.
-- [code-collator](https://github.com/tawanda-kembo/code-collator): CLI tool that creates a single markdown file that describes your entire codebase to language models. Useful for AI-coding assistance from the Claude/ChatGPT web interface rather than via the API.
+- [code-collator](https://github.com/tawanda-kembo/code-collator) — CLI tool that creates a single markdown file that describes your entire codebase to language models. Useful for AI-coding assistance from the Claude/ChatGPT web interface rather than via the API.
 
 ## Agents
 
 - [Smol Developer](https://github.com/smol-ai/developer) — CLI agent that generates a repository from a prompt. Uses OpenAI and Anthropic.
 - [Aider](https://github.com/paul-gauthier/aider) — CLI assistant and agent that generates changes and commits to repositories. Uses OpenAI.
-- [Blinky](https://github.com/seahyinghang8/blinky) - A debugging agent for VS Code that helps to identify and fix backend errors, inspired by SWE-agent.
+- [Blinky](https://github.com/seahyinghang8/blinky) — A debugging agent for VS Code that helps to identify and fix backend errors, inspired by SWE-agent.
 - [Mentat](https://www.mentat.codes/) — CLI assistant and agent that makes changes to repositories.
 - [GPT Engineer](https://github.com/AntonOsika/gpt-engineer) — CLI agent that generates a repository from a prompt, and asks clarifying questions.
 - [GPT Migrate](https://github.com/0xpayne/gpt-migrate) — CLI agent that converts a full-stack application from one language or framework to another. Uses GPT-4 32k context.
@@ -110,7 +110,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [sudocode](https://sudocode.ai/) — A web based chat assistant for generating projects, similar to Code Interpreter.
 - [CodeFlash AI](https://www.codeflash.ai/) — A CLI and CI tool for optimizing Python code using AI.
 - [Micro Agent](https://github.com/micro-ai/micro-agent) — Open-source tool that generates and iterates on code using AI-created unit tests as guardrails.
-- [Fine](https://fine.dev/?ref=awesome) - AI Dev Environment for automating mundane work. Integrate GitHub, Sentry, Linear. Get context-aware answers to questions. Plan, design and implement changes. Automate self-healing CI/CD.
+- [Fine](https://fine.dev/?ref=awesome) — AI Dev Environment for automating mundane work. Integrate GitHub, Sentry, Linear. Get context-aware answers to questions. Plan, design and implement changes. Automate self-healing CI/CD.
 
 ## PR agents
 
@@ -127,20 +127,20 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Goast](https://goast.ai/) — A hosted tool that ingests your error logs and suggests fixes.
 - [Corgea](https://corgea.com/) — A GitHub integration that finds and fixes vulnerable code.
 - [vx.dev](https://github.com/Yuyz0112/vx.dev) — A GitHub integration focused on UI generation with built in support for shadcn, lucide, and nivo charts.
-- [Pixee](https://pixee.ai)  — Pixeebot finds security and code quality issues in your code and creates merge-ready pull requests with recommended fixes.
-- [CodeAnt AI](https://www.codeant.ai/)  — Automatically create PRs to fix code issues.
-- [What The Diff](https://whatthediff.ai/) —  AI-powered app that reviews the diff of pull requests and writes a descriptive comment about the changes in plain english.
-- [Trag](https://usetrag.com/) - AI powered code reviews with pre-defined instructions and patterns.
-- [CodeReviewBot](https://codereviewbot.ai/) AI powered code reviews for GitHub
+- [Pixee](https://pixee.ai) — Pixeebot finds security and code quality issues in your code and creates merge-ready pull requests with recommended fixes.
+- [CodeAnt AI](https://www.codeant.ai/) — Automatically create PRs to fix code issues.
+- [What The Diff](https://whatthediff.ai/) — AI-powered app that reviews the diff of pull requests and writes a descriptive comment about the changes in plain english.
+- [Trag](https://usetrag.com/) — AI powered code reviews with pre-defined instructions and patterns.
+- [CodeReviewBot](https://codereviewbot.ai/) — AI powered code reviews for GitHub
 ## App generators
 
 - [Pico](https://picoapps.xyz) — End-to-end micro app generator with instant deployment.
 - [Literally anything](https://literallyanything.io) — HTML and JavaScript web app generator.
 - [GPT Web App Generator](https://magic-app-generator.wasp-lang.dev/) — Generates a full-stack React/Node.js/Prisma/Wasp app from a short description.
 - [Make Real](https://makereal.tldraw.com/) — Online canvas that can be used to generate HTML/JavaScript apps.
-- [Marblism](https://marblism.com) —  Generate a SaaS boilerplate from a prompt.
-- [Glowbom](https://glowbom.com/) —  Generate apps with AI and export to multiple platforms.
-- [Mage](https://usemage.ai/) - Generate full-stack web apps in Wasp, React, Node.js and Prisma.
+- [Marblism](https://marblism.com) — Generate a SaaS boilerplate from a prompt.
+- [Glowbom](https://glowbom.com/) — Generate apps with AI and export to multiple platforms.
+- [Mage](https://usemage.ai/) — Generate full-stack web apps in Wasp, React, Node.js and Prisma.
 
 ## UI generators
 
@@ -155,14 +155,14 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Galileo AI](https://www.usegalileo.ai/) — A text-to-UI platform. Waitlist.
 - [Uizard](https://uizard.io/) — Generate multi-screen mockups from text prompts and edit them with a drag-and-drop editor. Scan screenshots of apps or hand-drawn wireframes and transform them into editable app mockups.
 - [Frontly](https://fronty.com/) — Convert the uploaded image to HTML CSS code.
-- [BoringUi](https://www.boringui.xyz/) - Create beautiful UI using your JSON data. The generated UI is in HTML and Tailwind CSS with code which can be copied and UI can be shared with anyone using links.
+- [BoringUi](https://www.boringui.xyz/) — Create beautiful UI using your JSON data. The generated UI is in HTML and Tailwind CSS with code which can be copied and UI can be shared with anyone using links.
 
 ## Snippet generators
 
 - [CodePal](https://codepal.ai/) — A web tool for quickly generating or refactoring code.
 - [AI Code Convert](https://aicodeconvert.com/) — A web tool for translating code between programming languages.
 - [AI Code Playground](https://aicodeplayground.com/) — A web tool for refactoring and improving code.
-- [AutoRegex](https://www.autoregex.xyz/) —  AutoRegex uses OpenAI's GPT-3 to produce regular expressions from plain English.
+- [AutoRegex](https://www.autoregex.xyz/) — AutoRegex uses OpenAI's GPT-3 to produce regular expressions from plain English.
 
 
 ## Documentation
@@ -171,10 +171,10 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Docify](https://docify.ai4code.io/) — A VS Code extension to generate docstrings.
 - [Mintlify Writer](https://writer.mintlify.com/) — A VS Code extension to generate docstrings.
 - [DiagramGPT](https://www.eraser.io/diagramgpt) — DiagramGPT is a free AI-based web app that converts a schema, infrastructure definition, code snippet or plain language description into diagrams. The tool can generate flow charts, entity relationship diagrams, cloud architecture diagrams and sequence diagrams.
-- [DocuWriter.ai](https://www.docuwriter.ai/) —  AI-powered web app to generate automated Code & API documentation from your source code files.
+- [DocuWriter.ai](https://www.docuwriter.ai/) — AI-powered web app to generate automated Code & API documentation from your source code files.
 - [README-AI](https://github.com/eli64s/readme-ai) — Automated README.md file generator, powered by large language model APIs.
 - [Supacodes](https://www.supacodes.com) — An AI tool that automates writing & updating code documentation in Github
-- [CodexAtlas](https://codedocumentation.app/) - Automated code and API documentation using latest AI models
+- [CodexAtlas](https://codedocumentation.app/) — Automated code and API documentation using latest AI models
 
 ## Code generation
 
@@ -184,7 +184,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 
 ## Agent platforms
 
-- [Composio](https://composio.dev/) - Open source [toolset](https://github.com/composiohq/composio) for AI Agents & LLMs.
+- [Composio](https://composio.dev/) — Open source [toolset](https://github.com/composiohq/composio) for AI Agents & LLMs.
 - [E2B](https://www.e2b.dev/) — Open source cloud platform for hosting LLM-based agents. Supports [Smol Developer](https://github.com/smol-ai/developer).
 - [Morph Rift](https://github.com/morph-labs/rift) — Open source VS Code extension that allows merging the output of code generation agents.
 - [SuperAGI](https://superagi.com/) — Open source platform for hosting LLM-based agents including [SuperCoder](https://superagi.com/supercoder/).
