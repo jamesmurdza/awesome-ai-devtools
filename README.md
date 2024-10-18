@@ -114,6 +114,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 
 ## PR agents
 
+- [Greptile](https://www.greptile.com/) — AI code reviews with full codebase understanding, available as an API.
 - [Sweep](https://github.com/sweepai/sweep) — AI junior dev: GitHub integration to generate, test, and self-review pull requests from issues.
 - [BitBuilder](https://www.bitbuilder.ai/) — A GitHub integration to generate pull requests from issues.
 - [Codegen](https://www.codegen.com/) — GPT-4 based PR agent for enterprise codebases.
@@ -132,7 +133,6 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [What The Diff](https://whatthediff.ai/) — AI-powered app that reviews the diff of pull requests and writes a descriptive comment about the changes in plain english.
 - [Trag](https://usetrag.com/) — AI powered code reviews with pre-defined instructions and patterns.
 - [CodeReviewBot](https://codereviewbot.ai/) — AI powered code reviews for GitHub
-- [Greptile](https://www.greptile.com/) — AI code reviewer with full codebase understanding, available as an API.
   
 ## App generators
 
