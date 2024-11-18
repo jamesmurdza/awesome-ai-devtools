@@ -133,6 +133,8 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [What The Diff](https://whatthediff.ai/) — AI-powered app that reviews the diff of pull requests and writes a descriptive comment about the changes in plain english.
 - [Trag](https://usetrag.com/) — AI powered code reviews with pre-defined instructions and patterns.
 - [CodeReviewBot](https://codereviewbot.ai/) — AI powered code reviews for GitHub
+- [Callstack.ai Code Reviewer](https://callstack.ai/code-reviewer) - AI-powered PR reviewer for GitHub, designed to identify bugs, security issues, and performance bottlenecks.
+
 ## App generators
 
 - [Pico](https://picoapps.xyz) — End-to-end micro app generator with instant deployment.
