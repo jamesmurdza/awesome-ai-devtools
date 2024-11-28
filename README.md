@@ -29,6 +29,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [UI Pilot](https://ui-pilot.com/) — Chat-based AI code editor that creates forms using Material UI, using GPT-4.
 - [GitWit](https://gitwit.dev/) — Web-based editor for building ReactJS applications with AI.
 - [Windsurf](https://codeium.com/windsurf) - An IDE with chat, edit, generate and debug features. Forked from VSCodium, so the interface is similar to VS Code. Built by Codeium.
+- [Theia IDE](https://theia-ide.org/#theiaide) — An extensible open-source IDE (web and desktop) providing AI-powered features like chat, code completion, terminal assistance and custom agents using arbitrary LLMs. Built on [Theia AI](https://eclipsesource.com/blogs/2024/10/07/introducing-theia-ai/), a platform designed to enable the creation of custom, AI-powered tools and IDEs.
 
 ## Git Clients
 
