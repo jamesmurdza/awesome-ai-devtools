@@ -189,6 +189,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Magic](https://magic.dev/) — Company promising two products, an assistant and [LTM-1](https://magic.dev/blog/ltm-1), an underlying foundation model trained on code. Waitlist.
 - [Poolside](https://poolside.ai/) — Company building code generation models through reinforcement learning.
 - [Visual Copilot](https://www.builder.io/m/design-to-code) — Figma plugin that converts designs into clean, responsive code for multiple frameworks and CSS libraries.
+- [Kiln][https://getkiln.ai] - Intuitive app to build your own AI models. Includes synthetic data generation, fine-tuning, dataset collaboration, and more.
 
 ## Agent platforms
 
