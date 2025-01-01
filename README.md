@@ -119,6 +119,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 
 ## PR agents
 
+- [EntelligenceAI](https://entelligence.ai/pr) - AI powered code reviews for Github and Gitlab that improves over time based on user comments
 - [Sweep](https://github.com/sweepai/sweep) — AI junior dev: GitHub integration to generate, test, and self-review pull requests from issues.
 - [BitBuilder](https://www.bitbuilder.ai/) — A GitHub integration to generate pull requests from issues.
 - [Codegen](https://www.codegen.com/) — GPT-4 based PR agent for enterprise codebases.
@@ -175,6 +176,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 
 ## Documentation
 
+- [EntelligenceAI](https://entelligence.ai/docs) - Auto generate entire codebase documentation for a github codebase
 - [Trelent](https://trelent.net/) — A VS Code extension to generate docstrings. Uses proprietary models.
 - [Docify](https://docify.ai4code.io/) — A VS Code extension to generate docstrings.
 - [Mintlify Writer](https://writer.mintlify.com/) — A VS Code extension to generate docstrings.
@@ -204,6 +206,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 
 ## Search
 
+- [Entelligence](https://entelligence.ai) - Search across all code repositories, pull requests, issues and docs. On prem or cloud.
 - [Bloop](https://bloop.ai/) — Natural language search for repositories.
 - [Greptile](https://greptile.com/) — Natural language search for repositories, on-prem or cloud.
 - [Buildt](https://www.buildt.ai/) — Natural language search for repositories. Waitlist.
