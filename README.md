@@ -176,7 +176,6 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 
 ## Documentation
 
-- [EntelligenceAI](https://entelligence.ai/docs) - Auto generate entire codebase documentation for a github codebase
 - [Trelent](https://trelent.net/) — A VS Code extension to generate docstrings. Uses proprietary models.
 - [Docify](https://docify.ai4code.io/) — A VS Code extension to generate docstrings.
 - [Mintlify Writer](https://writer.mintlify.com/) — A VS Code extension to generate docstrings.
@@ -206,7 +205,6 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 
 ## Search
 
-- [Entelligence](https://entelligence.ai) - Search across all code repositories, pull requests, issues and docs. On prem or cloud.
 - [Bloop](https://bloop.ai/) — Natural language search for repositories.
 - [Greptile](https://greptile.com/) — Natural language search for repositories, on-prem or cloud.
 - [Buildt](https://www.buildt.ai/) — Natural language search for repositories. Waitlist.
