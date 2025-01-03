@@ -148,6 +148,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Marblism](https://marblism.com) — Generate a SaaS boilerplate from a prompt.
 - [Glowbom](https://glowbom.com/) — Generate apps with AI and export to multiple platforms.
 - [Mage](https://usemage.ai/) — Generate full-stack web apps in Wasp, React, Node.js and Prisma.
+- [ScrollHub](https://hub.scroll.pub/) — Generate and publish websites using the Scroll programming language.
 
 ## UI generators
 
