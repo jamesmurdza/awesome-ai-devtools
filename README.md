@@ -119,6 +119,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 
 ## PR agents
 
+- [Greptile](https://greptile.com/code-review-bot) - AI bot that reviews PRs in GitHub/Gitlab with full context of the codebase. 
 - [EntelligenceAI](https://entelligence.ai/pr) - AI powered code reviews for Github and Gitlab that improves over time based on user comments
 - [Sweep](https://github.com/sweepai/sweep) — AI junior dev: GitHub integration to generate, test, and self-review pull requests from issues.
 - [BitBuilder](https://www.bitbuilder.ai/) — A GitHub integration to generate pull requests from issues.
@@ -207,7 +208,6 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 ## Search
 
 - [Bloop](https://bloop.ai/) — Natural language search for repositories.
-- [Greptile](https://greptile.com/) — Natural language search for repositories, on-prem or cloud.
 - [Buildt](https://www.buildt.ai/) — Natural language search for repositories. Waitlist.
 - [SeaGOAT](https://kantord.github.io/SeaGOAT/latest/) — A local search tool leveraging vector embeddings to search your codebase semantically.
 
