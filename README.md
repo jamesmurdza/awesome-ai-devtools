@@ -100,6 +100,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 
 ## Agents
 
+- [Praison AI](https://github.com/MervinPraison/PraisonAI/) — A low-code, and code solution focused on creating and orchestrating multi-agent systems such as PraisonAI Agents, AutoGen and CrewAI.
 - [Smol Developer](https://github.com/smol-ai/developer) — CLI agent that generates a repository from a prompt. Uses OpenAI and Anthropic.
 - [Aider](https://github.com/paul-gauthier/aider) — CLI assistant and agent that generates changes and commits to repositories. Uses OpenAI.
 - [Blinky](https://github.com/seahyinghang8/blinky) — A debugging agent for VS Code that helps to identify and fix backend errors, inspired by SWE-agent.
