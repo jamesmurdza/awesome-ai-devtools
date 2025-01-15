@@ -85,6 +85,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 **Command-line:**
 
 - [talk-codebase](https://github.com/rsaryev/talk-codebase) — CLI chatbot with repository as context. Supports OpenAI as well as locally running LLMs via GPT4All.
+- [gptcomet](https://github.com/belingud/gptcomet) - CLI tool to help you generate commit message and review changes. Support mutiple providers and languages.
 
 **Desktop:**
 
