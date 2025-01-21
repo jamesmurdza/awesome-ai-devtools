@@ -177,8 +177,6 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 ## Documentation
 
 - [Trelent](https://trelent.net/) — A VS Code extension to generate docstrings. Uses proprietary models.
-- [Docify](https://docify.ai4code.io/) — A VS Code extension to generate docstrings.
-- [Mintlify Writer](https://writer.mintlify.com/) — A VS Code extension to generate docstrings.
 - [DiagramGPT](https://www.eraser.io/diagramgpt) — DiagramGPT is a free AI-based web app that converts a schema, infrastructure definition, code snippet or plain language description into diagrams. The tool can generate flow charts, entity relationship diagrams, cloud architecture diagrams and sequence diagrams.
 - [DocuWriter.ai](https://www.docuwriter.ai/) — AI-powered web app to generate automated Code & API documentation from your source code files.
 - [README-AI](https://github.com/eli64s/readme-ai) — Automated README.md file generator, powered by large language model APIs.
