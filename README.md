@@ -18,6 +18,10 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Search](#search)
 - [Testing](#testing)
 
+## PRDs
+
+- [ChatPRD](https://www.chatprd.ai/) — Write product docs—fast.
+
 ## IDEs
 
 - [Cursor](https://www.cursor.com/) — An IDE with chat, edit, generate and debug features. Forked from VSCodium, so the interface is similar to VS Code. Uses OpenAI.
