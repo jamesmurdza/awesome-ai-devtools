@@ -5,6 +5,10 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [IDEs](#ides)
 - [Git clients](#git-clients)
 - [Assistants](#assistants)
+    - [Web-based](#web-based)
+    - [IDE extensions](#ide-extensions)
+    - [Command-line](#command-line)
+    - [Desktop](#desktop)
 - [Shell assistants](#shell-assistants)
 - [Agents](#agents)
 - [PR agents](#pr-agents)
@@ -17,6 +21,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [OpenAI plugins](#openai-plugins)
 - [Search](#search)
 - [Testing](#testing)
+
 
 ## IDEs
 
@@ -38,7 +43,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 
 ## Assistants
 
-**Web-based:**
+### Web-based
 
 - [Replit Ghostwriter Chat](https://replit.com/site/ghostwriter) — Assistant built into [Replit](https://replit.com/) with chat, proactive debugging, and autocomplete. Uses OpenAI for chat and [replit-code-v1-3b](https://huggingface.co/replit/replit-code-v1-3b) (OS) for autocomplete.
 - [Unblocked](https://getunblocked.com/) — Augment source code with relevant existing knowledge in GitHub, Slack, Jira, Confluence, and more. Get answers through chat and IDE file-level context. Available on web, macOS, Slack, VSCode, and JetBrains IDE’s.
@@ -57,7 +62,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [CodeWP](https://codewp.ai/) — AI chat and coding tools specifically trained for WordPress developers. AI code generation for code snippets and plugins in WordPress.
 - [Gru.ai](https://www.gru.ai/) — An AI developer can help you solve technical problems and tackle daily coding tasks, such as building algorithms, debug issues, test solutions, answer programming questions, etc.
 
-**IDE extensions:**
+### IDE extensions
 
 - [GitHub Copilot](https://github.com/features/copilot) — A VS Code extension with chat, pull request text generation, and unit test generation.
 - [Refact AI](https://refact.ai/) [Source](https://github.com/smallcloudai/refact) — Open source assistant with chat, completion, refactoring, and codebase-specific fine-tuning. Extensions for VS Code and JetBrains.
@@ -82,12 +87,12 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [IBM watsonx Code Assistant for Z](https://www.ibm.com/products/watsonx-code-assistant-z) — watsonx Code Assistant for Z is an AI-powered mainframe application modernization product with code generation. Features include application discovery and analysis, automated code refactoring and COBOL to Java conversion.
 - [EasyCode](https://www.easycode.ai/) — VS Code extension with GPT-4 chat.
 
-**Command-line:**
+### Command-line
 
 - [talk-codebase](https://github.com/rsaryev/talk-codebase) — CLI chatbot with repository as context. Supports OpenAI as well as locally running LLMs via GPT4All.
 - [gptcomet](https://github.com/belingud/gptcomet) - CLI tool to help you generate commit message and review changes. Support mutiple providers and languages.
 
-**Desktop:**
+### Desktop
 
 - [Pieces](https://pieces.app/) — AI-enabled desktop application and browser extension designed to assist developers in enhancing productivity.
 
