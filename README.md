@@ -17,7 +17,6 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Snippet generators](#snippet-generators)
 - [Documentation](#documentation)
 - [Foundation models](#code-generation)
-- [Agent platforms](#agent-platforms)
 - [OpenAI plugins](#openai-plugins)
 - [Search](#search)
 - [Testing](#testing)
@@ -208,14 +207,6 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Poolside](https://poolside.ai/) — Company building code generation models through reinforcement learning.
 - [Visual Copilot](https://www.builder.io/m/design-to-code) — Figma plugin that converts designs into clean, responsive code for multiple frameworks and CSS libraries.
 - [LlamaCoder](https://llamacoder.together.ai/) — Open source code generation model fine-tuned on code.
-
-## Agent platforms
-
-- [Composio](https://composio.dev/) — Open source [toolset](https://github.com/composiohq/composio) for AI Agents & LLMs.
-- [E2B](https://www.e2b.dev/) — Open source cloud platform for hosting LLM-based agents. Supports [Smol Developer](https://github.com/smol-ai/developer).
-- [Fragments](https://fragments.e2b.dev/) — Platform for building and deploying AI agents with sandboxed environments.
-- [Morph Rift](https://github.com/morph-labs/rift) — Open source VS Code extension that allows merging the output of code generation agents.
-- [SuperAGI](https://superagi.com/) — Open source platform for hosting LLM-based agents including [SuperCoder](https://superagi.com/supercoder/).
 
 ## OpenAI plugins
 
