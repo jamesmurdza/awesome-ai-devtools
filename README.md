@@ -17,7 +17,6 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Snippet generators](#snippet-generators)
 - [Documentation](#documentation)
 - [Foundation models](#code-generation)
-- [Agent platforms](#agent-platforms)
 - [OpenAI plugins](#openai-plugins)
 - [Search](#search)
 - [Testing](#testing)
@@ -151,6 +150,10 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 ## App generators
 
 - [Pico](https://picoapps.xyz) — End-to-end micro app generator with instant deployment.
+- [Co.dev](https://www.co.dev/) — AI-powered app development platform that helps build and deploy full-stack applications.
+- [SoftGen](https://softgen.ai/) — AI-powered software generation platform for building Web Apps.
+- [LlamaCoder](https://llamacoder.together.ai/) — Open source code generation model for building applications using Opensource LLMs.
+- [e2b_Fragments](https://fragments.e2b.dev/) — Platform for building and deploying AI-powered applications with sandboxed environments.
 - [Bolt.new](https://bolt.new) — AI-powered web development agent that allows you to prompt, run, edit, and deploy full-stack applications directly in the browser using WebContainers. Supports npm packages, Node.js servers, and third-party APIs.
 - [Bolt.diy](https://github.com/stackblitz-labs/bolt.diy) — Open source version of Bolt.new that supports multiple LLM providers including Groq, Anthropic, Ollama, OpenRouter, Gemini, LMStudio, Mistral, xAI, HuggingFace, DeepSeek
 - [Srcbook](https://github.com/srcbookdev/srcbook) — TypeScript-centric app development platform with an AI app builder and TypeScript notebook.
@@ -204,6 +207,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Poolside](https://poolside.ai/) — Company building code generation models through reinforcement learning.
 - [Visual Copilot](https://www.builder.io/m/design-to-code) — Figma plugin that converts designs into clean, responsive code for multiple frameworks and CSS libraries.
 
+
 ## Agent platforms
 
 - [Composio](https://composio.dev/) — Open source [toolset](https://github.com/composiohq/composio) for AI Agents & LLMs.
@@ -211,6 +215,8 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Morph Rift](https://github.com/morph-labs/rift) — Open source VS Code extension that allows merging the output of code generation agents.
 - [SuperAGI](https://superagi.com/) — Open source platform for hosting LLM-based agents including [SuperCoder](https://superagi.com/supercoder/).
 - [MindStudio](https://mindstudio.ai/) — MindStudio lets you rapidly build, deploy, and operate AI Workers — automations, applications, agents. Anyone can build AI Workers rapidly (typically in under 30 minutes). Over 150k AI Workers are deployed across all types of use cases and organizations.
+- [LlamaCoder](https://llamacoder.together.ai/) — Open source code generation model fine-tuned on code.
+
 
 ## OpenAI plugins
 
