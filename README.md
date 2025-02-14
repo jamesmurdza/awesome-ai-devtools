@@ -18,10 +18,6 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Search](#search)
 - [Testing](#testing)
 
-## PRDs
-
-- [ChatPRD](https://www.chatprd.ai/) — Write product docs—fast.
-
 ## IDEs
 
 - [Cursor](https://www.cursor.com/) — An IDE with chat, edit, generate and debug features. Forked from VSCodium, so the interface is similar to VS Code. Uses OpenAI.
@@ -123,7 +119,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 
 ## PR agents
 
-- [Greptile](https://greptile.com/code-review-bot) - AI bot that reviews PRs in GitHub/Gitlab with full context of the codebase. 
+- [Greptile](https://greptile.com/code-review-bot) - AI bot that reviews PRs in GitHub/Gitlab with full context of the codebase.
 - [EntelligenceAI](https://entelligence.ai/pr) - AI powered code reviews for Github and Gitlab that improves over time based on user comments
 - [Sweep](https://github.com/sweepai/sweep) — AI junior dev: GitHub integration to generate, test, and self-review pull requests from issues.
 - [Codegen](https://www.codegen.com/) — GPT-4 based PR agent for enterprise codebases.
@@ -160,7 +156,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [v0](https://v0.dev/) — Create and iterate new UI components in your browser.
 - [Rendition Create ](https://www.renditioncreate.com/) — Create and iterate new UI components in your browser.
 - [Rapidpages](https://github.com/rapidpages/rapidpages) — Open source UI generator.
-- [Magic Patterns](https://www.magicpatterns.com/) — Protoype your product ideas. UI generator website where you can prompt, upload images, or import design inspiration with their [Chrome Extension](https://www.magicpatterns.com/extension). Can export to Figma with a [plugin](https://www.figma.com/community/plugin/1304255855834420274). Supports a number of component systems including Shadcn, ChakraUI, and HTML + Tailwind. 
+- [Magic Patterns](https://www.magicpatterns.com/) — Protoype your product ideas. UI generator website where you can prompt, upload images, or import design inspiration with their [Chrome Extension](https://www.magicpatterns.com/extension). Can export to Figma with a [plugin](https://www.figma.com/community/plugin/1304255855834420274). Supports a number of component systems including Shadcn, ChakraUI, and HTML + Tailwind.
 - [Tempo ](https://www.tempolabs.ai/) — WYSIWYG editor for React interfaces.
 - [Kombai](https://kombai.com/) — AI Tool for generating frontend code from Figma.
 - [CodeParrot](https://www.codeparrot.ai/) — VS code plugin to generate Frontend code from Figma. Reuses existing components, libraries and coding standards to generate code which fits perfectly with your existing codebase. All without any prompting.
@@ -168,8 +164,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Uizard](https://uizard.io/) — Generate multi-screen mockups from text prompts and edit them with a drag-and-drop editor. Scan screenshots of apps or hand-drawn wireframes and transform them into editable app mockups.
 - [Frontly](https://fronty.com/) — Convert the uploaded image to HTML CSS code.
 - [BoringUi](https://www.boringui.xyz/) — Create beautiful UI using your JSON data. The generated UI is in HTML and Tailwind CSS with code which can be copied and UI can be shared with anyone using links.
-- [Polymet](https://polymet.ai) — Create and iterate product design easily. Polymet helps teams create user interfaces and prototypes without any design experience, provides production-ready front-end code.  
-
+- [Polymet](https://polymet.ai) — Create and iterate product design easily. Polymet helps teams create user interfaces and prototypes without any design experience, provides production-ready front-end code.
 
 ## Snippet generators
 
@@ -177,7 +172,6 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [AI Code Convert](https://aicodeconvert.com/) — A web tool for translating code between programming languages.
 - [AI Code Playground](https://aicodeplayground.com/) — A web tool for refactoring and improving code.
 - [AutoRegex](https://www.autoregex.xyz/) — AutoRegex uses OpenAI's GPT-3 to produce regular expressions from plain English.
-
 
 ## Documentation
 
