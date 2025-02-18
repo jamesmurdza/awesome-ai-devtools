@@ -35,6 +35,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Theia IDE](https://theia-ide.org/#theiaide) — An extensible open-source IDE (web and desktop) providing AI-powered features like chat, code completion, terminal assistance and custom agents using arbitrary LLMs. Built on [Theia AI](https://eclipsesource.com/blogs/2024/10/07/introducing-theia-ai/), a platform designed to enable the creation of custom, AI-powered tools and IDEs.
 - [OneCompiler](https://onecompiler.com/) — A free AI Powered online compiler supporting over 70 languages, including Java, Python, MySQL, C++, and HTML, for writing, running, and sharing code.
 - [trae](https://www.trae.ai/) - Trae is an adaptive AI IDE that transforms how you work, collaborating with you to run faster.
+- [Cliprun](https://cliprun.com/) - Free online Python IDE browser extension. Run Python code from ChatGPT, Claude, Google AI Studio, or any other website with a right-click.
 
 ## Git Clients
 
