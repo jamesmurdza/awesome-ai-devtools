@@ -94,6 +94,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 
 ### Desktop
 
+- [Memex](https://memex.tech/) — Build anything in any stack, with just natural language, on your desktop.
 - [Pieces](https://pieces.app/) — AI-enabled desktop application and browser extension designed to assist developers in enhancing productivity.
 
 ## Shell assistants
