@@ -122,6 +122,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Micro Agent by Builder](https://www.builder.io/blog/micro-agent) — An AI agent that writes and fixes code for you.
 - [Fine](https://fine.dev/?ref=awesome) — AI Dev Environment for automating mundane work. Integrate GitHub, Sentry, Linear. Get context-aware answers to questions. Plan, design and implement changes. Automate self-healing CI/CD.
 - [Potpie](https://potpie.ai) — Open Source AI Agents for your codebase in minutes. Use pre-built agents for Q&A, Testing, Debugging and System Design or create your own purpose-built agents.
+- [Calmo](https://getcalmo.com) — Debug Production Issue 10x Faster with an agent able to investigate any alerts.
 
 ## PR agents
 
