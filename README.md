@@ -2,23 +2,24 @@
 
 This is a curated list of AI-powered developer tools. These tools leverage AI to assist developers in tasks such as code completion, refactoring, debugging, documentation, and more.
 
-- [IDEs](#ides)
-- [Git clients](#git-clients)
-- [Assistants](#assistants)
+- [⚡️🧑‍💻 Awesome AI-Powered Developer Tools](#️-awesome-ai-powered-developer-tools)
+  - [IDEs](#ides)
+  - [Git Clients](#git-clients)
+  - [Assistants](#assistants)
     - [Web-based](#web-based)
     - [IDE extensions](#ide-extensions)
     - [Command-line](#command-line)
     - [Desktop](#desktop)
-- [Shell assistants](#shell-assistants)
-- [Agents](#agents)
-- [PR agents](#pr-agents)
-- [App generators](#app-generators)
-- [UI generators](#ui-generators)
-- [Snippet generators](#snippet-generators)
-- [Documentation](#documentation)
-- [OpenAI plugins](#openai-plugins)
-- [Search](#search)
-- [Testing](#testing)
+  - [Shell assistants](#shell-assistants)
+  - [Agents](#agents)
+  - [PR agents](#pr-agents)
+  - [App generators](#app-generators)
+  - [UI generators](#ui-generators)
+  - [Snippet generators](#snippet-generators)
+  - [Documentation](#documentation)
+  - [OpenAI plugins](#openai-plugins)
+  - [Search](#search)
+  - [Testing](#testing)
 
 ## IDEs
 
@@ -30,7 +31,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [CodeStory](https://codestory.ai/) — An IDE with chat, code explanations, auto-generated commits and PR summaries. Forked from VSCodium.
 - [UI Pilot](https://ui-pilot.com/) — Chat-based AI code editor that creates forms using Material UI, using GPT-4.
 - [GitWit](https://gitwit.dev/) — Web-based editor for building ReactJS applications with AI.
-- [Windsurf](https://codeium.com/windsurf) — An IDE with chat, edit, generate and debug features. Forked from VSCodium, so the interface is similar to VS Code. Built by Codeium.
+- [Windsurf](https://windsurf.com) — An IDE with chat, edit, generate and debug features. Forked from VSCodium, so the interface is similar to VS Code. Formerly known as Codeium.
 - [Theia IDE](https://theia-ide.org/#theiaide) — An extensible open-source IDE (web and desktop) providing AI-powered features like chat, code completion, terminal assistance and custom agents using arbitrary LLMs. Built on [Theia AI](https://eclipsesource.com/blogs/2024/10/07/introducing-theia-ai/), a platform designed to enable the creation of custom, AI-powered tools and IDEs.
 - [OneCompiler](https://onecompiler.com/) — A free AI Powered online compiler supporting over 70 languages, including Java, Python, MySQL, C++, and HTML, for writing, running, and sharing code.
 - [trae](https://www.trae.ai/) — Trae is an adaptive AI IDE that transforms how you work, collaborating with you to run faster.
@@ -65,7 +66,6 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [GitHub Copilot](https://github.com/features/copilot) — A VS Code extension with chat, pull request text generation, and unit test generation.
 - [Cline](https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev) — Autonomous coding agent for VS Code that can create/edit files, execute commands, and use the browser with user permission. Supports multiple AI providers including OpenRouter, Anthropic, OpenAI, Google Gemini, AWS Bedrock, Azure, and GCP Vertex.
 - [Refact AI](https://refact.ai/) [Source](https://github.com/smallcloudai/refact) — Open source assistant with chat, completion, refactoring, and codebase-specific fine-tuning. Extensions for VS Code and JetBrains.
-- [Codeium](https://codeium.com/) — Assistant with autocomplete, natural language search and chat. Extensions for 21 editors including VS Code, JetBrains, Neovim, Vim, Emacs, Eclipse, PyCharm, and Xcode. Enterprise version includes codebase-specific fine-tuning.
 - [Continue](https://continue.dev/) — VS Code extension with chat, refactor, and code generation. Edits multiple files and runs commands on your behalf.
 - [Blackbox AI](https://www.useblackbox.io/) — VS Code extension with autocomplete and chat including links to online coding references.
 - [CodeGeeX](https://codegeex.cn/) — Open source assistant based on the CodeGeeX LLM with chat, completion, and refactoring. Extensions for 9 editors including VS Code, and PyCharm.
@@ -135,7 +135,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Sweep](https://github.com/sweepai/sweep) — AI junior dev: GitHub integration to generate, test, and self-review pull requests from issues.
 - [Codegen](https://www.codegen.com/) — GPT-4 based PR agent for enterprise codebases.
 - [Code Review GPT](https://github.com/mattzcarey/code-review-gpt) — An open source tool for reviewing PRs. Works as GitHub action, Gitlab CLI or locally.
-- [Codeium PR Agent](https://github.com/Codium-ai/pr-agent) — Open source tool for automated code reviews.
+- [Qodo PR Agent](https://github.com/qodo-ai/pr-agent) — Open source tool for automated code reviews. Qodo was formerly known as Codium (not to be confused with Codeium with an "E").
 - [Nova](https://www.trynova.ai/) — CI bot to add actions such as summaries and tests to new PRs.
 - [CodeRabbit](https://coderabbit.ai/) — Customizable CI to add summaries and code suggestions to PRs.
 - [SwePT](https://github.com/keerthanpg/SwePT) — Open source PR generator written in 150 lines of Python code.
