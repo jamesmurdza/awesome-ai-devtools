@@ -16,7 +16,6 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [UI generators](#ui-generators)
 - [Snippet generators](#snippet-generators)
 - [Documentation](#documentation)
-- [Foundation models](#code-generation)
 - [OpenAI plugins](#openai-plugins)
 - [Search](#search)
 - [Testing](#testing)
@@ -202,13 +201,6 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [README-AI](https://github.com/eli64s/readme-ai) — Automated README.md file generator, powered by large language model APIs.
 - [Supacodes](https://www.supacodes.com) — An AI tool that automates writing & updating code documentation in Github
 - [CodexAtlas](https://codedocumentation.app/) — Automated code and API documentation using latest AI models
-
-## Code generation
-
-- [Magic](https://magic.dev/) — Company promising two products, an assistant and [LTM-1](https://magic.dev/blog/ltm-1), an underlying foundation model trained on code. Waitlist.
-- [Poolside](https://poolside.ai/) — Company building code generation models through reinforcement learning.
-- [Visual Copilot](https://www.builder.io/m/design-to-code) — Figma plugin that converts designs into clean, responsive code for multiple frameworks and CSS libraries.
-- [LlamaCoder](https://llamacoder.together.ai/) — Open source code generation model fine-tuned on code.
 
 ## OpenAI plugins
 
