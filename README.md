@@ -106,6 +106,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [GitFluence](https://www.gitfluence.com/) — Web-based Git command generator to automatically generate Git commands for terminal or CLI from text description, using an AI-driven solution to suggest the most relevant Git commands.
 - [code-collator](https://github.com/tawandakembo/code-collator) — CLI tool that creates a single markdown file that describes your entire codebase to language models. Useful for AI-coding assistance from the Claude/ChatGPT web interface rather than via the API.
 - [Warp](https://www.warp.dev/) - Warp brings AI and team knowledge together in a single, fast, and intuitive terminal.
+- [TmuxAI](https://tmuxai.dev/) - AI-powered, non-intrusive terminal assistant.
 
 ## Agents
 
