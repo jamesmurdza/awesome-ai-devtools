@@ -86,6 +86,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [IBM watsonx Code Assistant for Z](https://www.ibm.com/products/watsonx-code-assistant-z) — watsonx Code Assistant for Z is an AI-powered mainframe application modernization product with code generation. Features include application discovery and analysis, automated code refactoring and COBOL to Java conversion.
 - [EasyCode](https://www.easycode.ai/) — VS Code extension with GPT-4 chat.
 - [Kilo Code](https://kilocode.ai) - Open Source AI coding assistant for planning, building, and fixing code inside VS Code.
+- [Traycer](https://traycer.ai) - Plan-First Coding Assistant in VS Code.
 
 ### Command-line
 
