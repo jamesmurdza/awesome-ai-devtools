@@ -219,6 +219,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 
 ## Testing
 
+- [TestDriver](https://testdriver.ai) — Next generation framework for powerful, cross-platfom, selectorless End-to-End QA Testing.
 - [Checksum AI](https://checksum.ai) — End-to-end fully autonomous QA Automation agent that generates CI/CD ready Playwright tests directly to the repository
 - [OctoMind](https://octomind.dev) — Auto-maintenance and generated browser-based end-to-end-tests integrated into Github Actions, Azure DevOps and more.
 - [Traceloop](https://traceloop.com/) — Uses OpenTelemetry tracing data with generative AI to improve system reliability.
