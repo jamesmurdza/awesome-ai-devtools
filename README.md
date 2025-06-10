@@ -111,6 +111,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [code-collator](https://github.com/tawandakembo/code-collator) — CLI tool that creates a single markdown file that describes your entire codebase to language models. Useful for AI-coding assistance from the Claude/ChatGPT web interface rather than via the API.
 - [Warp](https://www.warp.dev/) - Warp brings AI and team knowledge together in a single, fast, and intuitive terminal.
 - [TmuxAI](https://tmuxai.dev/) - AI-powered, non-intrusive terminal assistant.
+- [AI Git Narrator](https://github.com/pmusolino/AI-Git-Narrator) - CLI tool that uses AI to automatically generate high-quality Git commit messages and pull request descriptions.
 
 ## Agents
 
