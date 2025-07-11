@@ -133,6 +133,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Potpie](https://potpie.ai) — Open Source AI Agents for your codebase in minutes. Use pre-built agents for Q&A, Testing, Debugging and System Design or create your own purpose-built agents.
 - [Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview) - Anthropic's agentic coding tool.
 - [Leap.new](https://leap.new/) - It builds functional apps with real backend services, APIs, and deploys to your cloud.
+- [Ebiose](https://github.com/ebiose-ai/ebiose) - Agents that craft, test, and evolve other agents in a Darwinian survival-of-the-fittest framework.
 
 ## PR agents
 
