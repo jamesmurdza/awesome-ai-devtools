@@ -109,6 +109,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Butterfish](https://butterfi.sh) — CLI tool that embeds ChatGPT in your shell for easy access. Includes simple agentic capabilities.
 - [Shell Whiz](https://github.com/beimzhan/shell-whiz) — highly configurable CLI assistant to generate shell commands and get explanations for them.
 - [GitFluence](https://www.gitfluence.com/) — Web-based Git command generator to automatically generate Git commands for terminal or CLI from text description, using an AI-driven solution to suggest the most relevant Git commands.
+- [AutoComplete.sh](https://github.com/closedLoop-technologies/autocomplete-sh) - CLI tool that adds AI-powered command-line suggestions directly to your terminal with just type <TAB><TAB> to return the top suggestions for you.
 - [code-collator](https://github.com/tawandakembo/code-collator) — CLI tool that creates a single markdown file that describes your entire codebase to language models. Useful for AI-coding assistance from the Claude/ChatGPT web interface rather than via the API.
 - [Warp](https://www.warp.dev/) - Warp brings AI and team knowledge together in a single, fast, and intuitive terminal.
 - [TmuxAI](https://tmuxai.dev/) - AI-powered, non-intrusive terminal assistant.
