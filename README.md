@@ -179,6 +179,8 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Mage](https://usemage.ai/) — Generate full-stack web apps in Wasp, React, Node.js and Prisma.
 - [ScrollHub](https://hub.scroll.pub/) — Generate and publish websites using the Scroll programming language.
 
+- [Berrry](https://berrry.app) — Twitter app generator that transforms social media posts into functional web applications. Turn tweets and Reddit content into complete apps with unique subdomains.
+
 ## UI generators
 
 - [v0](https://v0.dev/) — Create and iterate new UI components in your browser.
