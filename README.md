@@ -158,6 +158,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [CodeReviewBot](https://codereviewbot.ai/) — AI powered code reviews for GitHub
 - [Callstack.ai Code Reviewer](https://callstack.ai/code-reviewer) — AI-powered PR reviewer for GitHub, designed to identify bugs, security issues, and performance bottlenecks.
 - [Matter AI](https://matterai.dev) - Open Source AI Code Reviewer to help engineering teams release code with confidence.
+- [Gito](https://github.com/Nayjest/Gito) - AI code reviewer that works with any language model, locally or in GitHub Actions.
 
 ## App generators
 
