@@ -137,6 +137,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 
 ## PR agents
 
+- [Kodus](https://kodus.io/) - Open Source Code Review Agent
 - [Greptile](https://greptile.com/code-review-bot) — AI bot that reviews PRs in GitHub/Gitlab with full context of the codebase.
 - [EntelligenceAI](https://entelligence.ai/pr) — AI powered code reviews for Github and Gitlab that improves over time based on user comments
 - [Sweep](https://github.com/sweepai/sweep) — AI junior dev: GitHub integration to generate, test, and self-review pull requests from issues.
