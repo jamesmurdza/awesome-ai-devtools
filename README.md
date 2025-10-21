@@ -97,6 +97,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [poorcoder](https://github.com/vgrichina/poorcoder) — A collection of Bash scripts to extract code context, apply changes from markdown, and generate AI commit messages while using web-based LLMs.
 - [Vibe Compiler (vibec)](https://github.com/Strawberry-Computer/vibe-compiler) — A self-compiling tool that transforms markdown-based prompt stacks into code and tests using LLM generation. Works with any LLM via OpenRouter, including Claude, ChatGPT, and Grok.
 - [cmd-ai](https://github.com/BrodaNoel/cmd-ai) - Turns natural language into executable shell commands (ei.: `ai Tell me the free space on disk`)
+- [Conduit8](https://github.com/alexander-zuev/conduit8) — CLI registry for discovering, installing, and managing Claude Code skills. Search 20+ curated skills by keyword or category, install directly to ~/.claude/skills/ with one command.
 
 ### Desktop
 
