@@ -21,7 +21,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Testing](#testing)
 
 ## IDEs
-
+- [Google Antigravity](https://antigravity.google/) — An agent-first IDE that orchestrates autonomous AI agents to plan, execute, and verify complex coding tasks with deep browser integration.
 - [Crystal](https://github.com/stravu/crystal) — A new type of dev environment to manage, inspect, and test parallel Claude Code sessions.
 - [Cursor](https://www.cursor.com/) — An IDE with chat, edit, generate and debug features. Forked from VSCodium, so the interface is similar to VS Code. Uses OpenAI.
 - [PearAI](https://trypear.ai/) — An open source fork of VS Code with chat and inline code generation.
@@ -89,6 +89,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [EasyCode](https://www.easycode.ai/) — VS Code extension with GPT-4 chat.
 - [Kilo Code](https://kilocode.ai) - Open Source AI coding assistant for planning, building, and fixing code inside VS Code.
 - [FlyonUI MCP](https://flyonui.com/mcp) — Integrate FlyonUI MCP - Tailwind AI Builder directly into your IDE and craft stunning Tailwind CSS Components, Blocks and Pages inspired by FlyonUI.
+- [Traycer](https://traycer.ai) - Plan-First Coding Assistant in VS Code.
 
 ### Command-line
 
@@ -159,6 +160,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [CodeReviewBot](https://codereviewbot.ai/) — AI powered code reviews for GitHub
 - [Callstack.ai Code Reviewer](https://callstack.ai/code-reviewer) — AI-powered PR reviewer for GitHub, designed to identify bugs, security issues, and performance bottlenecks.
 - [Matter AI](https://matterai.dev) - Open Source AI Code Reviewer to help engineering teams release code with confidence.
+- [Gito](https://github.com/Nayjest/Gito) - AI code reviewer that works with any language model, locally or in GitHub Actions.
 
 ## App generators
 
@@ -179,6 +181,8 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Glowbom](https://glowbom.com/) — Generate apps with AI and export to multiple platforms.
 - [Mage](https://usemage.ai/) — Generate full-stack web apps in Wasp, React, Node.js and Prisma.
 - [ScrollHub](https://hub.scroll.pub/) — Generate and publish websites using the Scroll programming language.
+
+- [Berrry](https://berrry.app) — Twitter app generator that transforms social media posts into functional web applications. Turn tweets and Reddit content into complete apps with unique subdomains.
 
 ## UI generators
 
