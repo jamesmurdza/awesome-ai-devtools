@@ -21,7 +21,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Testing](#testing)
 
 ## IDEs
-
+- [Google Antigravity](https://antigravity.google/) — An agent-first IDE that orchestrates autonomous AI agents to plan, execute, and verify complex coding tasks with deep browser integration.
 - [Crystal](https://github.com/stravu/crystal) — A new type of dev environment to manage, inspect, and test parallel Claude Code sessions.
 - [Cursor](https://www.cursor.com/) — An IDE with chat, edit, generate and debug features. Forked from VSCodium, so the interface is similar to VS Code. Uses OpenAI.
 - [PearAI](https://trypear.ai/) — An open source fork of VS Code with chat and inline code generation.
@@ -88,6 +88,8 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [IBM watsonx Code Assistant for Z](https://www.ibm.com/products/watsonx-code-assistant-z) — watsonx Code Assistant for Z is an AI-powered mainframe application modernization product with code generation. Features include application discovery and analysis, automated code refactoring and COBOL to Java conversion.
 - [EasyCode](https://www.easycode.ai/) — VS Code extension with GPT-4 chat.
 - [Kilo Code](https://kilocode.ai) - Open Source AI coding assistant for planning, building, and fixing code inside VS Code.
+- [FlyonUI MCP](https://flyonui.com/mcp) — Integrate FlyonUI MCP - Tailwind AI Builder directly into your IDE and craft stunning Tailwind CSS Components, Blocks and Pages inspired by FlyonUI.
+- [Traycer](https://traycer.ai) - Plan-First Coding Assistant in VS Code.
 
 ### Command-line
 
@@ -98,6 +100,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Vibe Compiler (vibec)](https://github.com/Strawberry-Computer/vibe-compiler) — A self-compiling tool that transforms markdown-based prompt stacks into code and tests using LLM generation. Works with any LLM via OpenRouter, including Claude, ChatGPT, and Grok.
 - [cmd-ai](https://github.com/BrodaNoel/cmd-ai) - Turns natural language into executable shell commands (ei.: `ai Tell me the free space on disk`)
 - [promptext](https://github.com/1broseidon/promptext) — Smart code context extractor for AI assistants with accurate token counting, relevance prioritization, and budget management. Prepares optimized code context within LLM token limits.
+- [Conduit8](https://github.com/conduit8/conduit8) — CLI registry for discovering, installing, and managing Claude Code skills. Search 20+ curated skills by keyword or category, install directly to ~/.claude/skills/ with one command.
 
 ### Desktop
 
@@ -114,6 +117,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [code-collator](https://github.com/tawandakembo/code-collator) — CLI tool that creates a single markdown file that describes your entire codebase to language models. Useful for AI-coding assistance from the Claude/ChatGPT web interface rather than via the API.
 - [Warp](https://www.warp.dev/) - Warp brings AI and team knowledge together in a single, fast, and intuitive terminal.
 - [TmuxAI](https://tmuxai.dev/) - AI-powered, non-intrusive terminal assistant.
+- [intelli-shell](https://github.com/lasantosr/intelli-shell) - Manage command templates/snippets with dynamic completions and AI integration.
 
 ## Agents
 
@@ -133,12 +137,15 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Micro Agent by Builder](https://www.builder.io/blog/micro-agent) — An AI agent that writes and fixes code for you.
 - [Fine](https://fine.dev/?ref=awesome) — AI Dev Environment for automating mundane work. Integrate GitHub, Sentry, Linear. Get context-aware answers to questions. Plan, design and implement changes. Automate self-healing CI/CD.
 - [Potpie](https://potpie.ai) — Open Source AI Agents for your codebase in minutes. Use pre-built agents for Q&A, Testing, Debugging and System Design or create your own purpose-built agents.
+- [Roundtable MCP Server](https://github.com/askbudi/roundtable) — Zero-configuration MCP server that unifies multiple AI coding assistants through intelligent auto-discovery and standardized interface
 - [Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview) - Anthropic's agentic coding tool.
 - [Leap.new](https://leap.new/) - It builds functional apps with real backend services, APIs, and deploys to your cloud.
+- [Recurse ML](https://recurse.ml) - Find bugs in AI Generated Code
 
 ## PR agents
 
 - [Greptile](https://greptile.com/code-review-bot) — AI bot that reviews PRs in GitHub/Gitlab with full context of the codebase.
+- [Macroscope](https://macroscope.com/code-review) - AI-powered code review for GitHub that uses ASTs to build a graph-based representation of your codebase & pulls context from your issue management systems.
 - [EntelligenceAI](https://entelligence.ai/pr) — AI powered code reviews for Github and Gitlab that improves over time based on user comments
 - [Sweep](https://github.com/sweepai/sweep) — AI junior dev: GitHub integration to generate, test, and self-review pull requests from issues.
 - [Codegen](https://www.codegen.com/) — GPT-4 based PR agent for enterprise codebases.
@@ -197,6 +204,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Frontly](https://fronty.com/) — Convert the uploaded image to HTML CSS code.
 - [BoringUi](https://www.boringui.xyz/) — Create beautiful UI using your JSON data. The generated UI is in HTML and Tailwind CSS with code which can be copied and UI can be shared with anyone using links.
 - [Polymet](https://polymet.ai) — Create and iterate product design easily. Polymet helps teams create user interfaces and prototypes without any design experience, provides production-ready front-end code.
+- [CSS Picker](https://csspicker.dev/) - Copy UI from Existing Design and Iterate with AI, support Copy CSS from website (by [CSS Picker Extension](https://chromewebstore.google.com/detail/csspicker-copy-css-from-w/laooinkgdapbcbjchpmihliljfnakkdh)), image to code and text to UI.
 
 ## Snippet generators
 
@@ -204,6 +212,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [AI Code Convert](https://aicodeconvert.com/) — A web tool for translating code between programming languages.
 - [AI Code Playground](https://aicodeplayground.com/) — A web tool for refactoring and improving code.
 - [AutoRegex](https://www.autoregex.xyz/) — AutoRegex uses OpenAI's GPT-3 to produce regular expressions from plain English.
+- [unpkg.ai](https://unpkg.ai/) — Open source AI-powered ESM module generation service. Generate JavaScript modules via URL for rapid prototyping.
 
 ## Documentation
 
@@ -213,6 +222,9 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [README-AI](https://github.com/eli64s/readme-ai) — Automated README.md file generator, powered by large language model APIs.
 - [Supacodes](https://www.supacodes.com) — An AI tool that automates writing & updating code documentation in Github
 - [CodexAtlas](https://codedocumentation.app/) — Automated code and API documentation using latest AI models
+
+## Observability
+- [TraceRoot AI](https://traceroot.ai/) - An AI native observability tool that using AI agents to automatically fix your production bugs.
 
 ## OpenAI plugins
 
