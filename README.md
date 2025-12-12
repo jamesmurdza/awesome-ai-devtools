@@ -251,3 +251,4 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [MutahunterAI](https://github.com/codeintegrity-ai/mutahunter) — Accelerate developer productivity and code security by finding vulnerabilities in code and generating tests for them. Open Source and available as a CLI or CI/CD pipeline.
 - [KushoAI](https://kusho.ai/) — AI agent for API testing which transforms your Postman collections, OpenAPI specs, curl commands, etc. into exhaustive test suites that plug into your CI/CD pipeline.
 - [Test Gru](https://gru.ai/home#test-gru) — Provides enterprise-level unit test automation services.
+- [BitDive](https://bitdive.io) — Zero-code integration testing platform for Java/Kotlin that generates tests from runtime application behavior. Auto-creates mocks from real traffic.
