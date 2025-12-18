@@ -253,3 +253,4 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Test Gru](https://gru.ai/home#test-gru) — Provides enterprise-level unit test automation services.
 
 - [AgentsKB](https://agentskb.com) - Expert knowledge layer for AI assistants. Your AI searches, we research. That's the difference.
+- [sniffbench](https://github.com/AnswerLayer/sniffbench) — Benchmark suite for evaluating coding agents. Compare configurations, track metrics, and A/B test with real issues from your repos.
