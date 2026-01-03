@@ -262,3 +262,4 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 ## Evaluation
 
 - [sniffbench](https://github.com/AnswerLayer/sniffbench) — Benchmark suite for evaluating coding agents. Compare configurations, track metrics, and A/B test with real issues from your repos.
+- [Vedika API](https://vedika.io) — AI-powered Vedic astrology API with multi-agent swarm intelligence.
