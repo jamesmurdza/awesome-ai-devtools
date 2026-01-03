@@ -62,6 +62,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [SQLAI.ai](https://www.sqlai.ai/) — AI generates, fixes, explains and optimizes SQL queries. Ability to add your own database schema and train AI to understand it.
 - [CodeWP](https://codewp.ai/) — AI chat and coding tools specifically trained for WordPress developers. AI code generation for code snippets and plugins in WordPress.
 - [Gru.ai](https://www.gru.ai/) — An AI developer can help you solve technical problems and tackle daily coding tasks, such as building algorithms, debug issues, test solutions, answer programming questions, etc.
+- [Vedika](https://vedika.io/) — AI-powered Vedic astrology API with conversational chatbot. 108+ endpoints for birth charts, horoscopes, compatibility, numerology, and dasha analysis. Supports 22 languages with Python & JavaScript SDKs.
 
 ### IDE extensions
 
