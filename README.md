@@ -142,6 +142,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Potpie](https://potpie.ai) — Open Source AI Agents for your codebase in minutes. Use pre-built agents for Q&A, Testing, Debugging and System Design or create your own purpose-built agents.
 - [Roundtable MCP Server](https://github.com/askbudi/roundtable) — Zero-configuration MCP server that unifies multiple AI coding assistants through intelligent auto-discovery and standardized interface
 - [Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview) - Anthropic's agentic coding tool.
+- [OpenWork](https://github.com/different-ai/openwork) — Desktop GUI for OpenCode with sessions, skills, plugins, and templates in one place.
 - [Agentic Sprint](https://github.com/damienlaine/agentic-sprint) — Spec-driven, self-iterative multi-agent framework for Claude Code with coordinated specialized agents (Python, Next.js, CI/CD, QA, UI Testing).
 - [Leap.new](https://leap.new/) - It builds functional apps with real backend services, APIs, and deploys to your cloud.
 - [Recurse ML](https://recurse.ml) - Find bugs in AI Generated Code
