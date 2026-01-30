@@ -104,6 +104,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [promptext](https://github.com/1broseidon/promptext) — Smart code context extractor for AI assistants with accurate token counting, relevance prioritization, and budget management. Prepares optimized code context within LLM token limits.
 - [Conduit8](https://github.com/conduit8/conduit8) — CLI registry for discovering, installing, and managing Claude Code skills. Search 20+ curated skills by keyword or category, install directly to ~/.claude/skills/ with one command.
 - [Baz CLI](https://github.com/baz-scm/baz-cli) - CLI for AI assisted code review, with access to the actual code, diff etc.
+- [Tokscale](https://github.com/junhoyeo/tokscale) — CLI tool for tracking token usage from AI coding agents (OpenCode, Claude Code, OpenClaw, Codex, Gemini CLI, Cursor IDE, AmpCode, Factory Droid) with a global leaderboard and 2D/3D contribution graphs.
 
 ### Desktop
 
