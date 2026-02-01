@@ -96,6 +96,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 ### Command-line
 
 - [Amazon Q Developer CLI](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/command-line.html?trk=fd6bb27a-13b0-4286-8269-c7b1cfaa29f0&sc_channel=el) - CLI that provides command completion, command translation using generative AI to translate intent to commands, and a full agentic chat interface with context management that helps you write code. It works with many terminals and shells, on MacOS, Linux and Windows (via wsl).
+- [aloc](https://github.com/modern-tooling/aloc) — A modern, AI-augmented lines of code counter built with Rust and Ratatui. Uses AI effort profiles for accurate project estimation.
 - [talk-codebase](https://github.com/rsaryev/talk-codebase) — CLI chatbot with repository as context. Supports OpenAI as well as locally running LLMs via GPT4All.
 - [gptcomet](https://github.com/belingud/gptcomet) — CLI tool to help you generate commit message and review changes. Support mutiple providers and languages.
 - [poorcoder](https://github.com/vgrichina/poorcoder) — A collection of Bash scripts to extract code context, apply changes from markdown, and generate AI commit messages while using web-based LLMs.
