@@ -20,6 +20,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Search](#search)
 - [Testing](#testing)
 - [Evaluation](#evaluation)
+- [Resources](#resources)
 
 ## IDEs
 - [Google Antigravity](https://antigravity.google/) — An agent-first IDE that orchestrates autonomous AI agents to plan, execute, and verify complex coding tasks with deep browser integration.
@@ -242,7 +243,6 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Bloop](https://bloop.ai/) — Natural language search for repositories.
 - [Buildt](https://www.buildt.ai/) — Natural language search for repositories. Waitlist.
 - [SeaGOAT](https://kantord.github.io/SeaGOAT/latest/) — A local search tool leveraging vector embeddings to search your codebase semantically.
-- [Havoptic](https://havoptic.com/) — Free, open-source timeline tracking releases from AI coding tools. Auto-updated daily. [Source](https://github.com/scotthavird/havoptic.com)
 
 ## Testing
 
@@ -263,3 +263,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 ## Evaluation
 
 - [sniffbench](https://github.com/AnswerLayer/sniffbench) — Benchmark suite for evaluating coding agents. Compare configurations, track metrics, and A/B test with real issues from your repos.
+
+## Resources
+
+- [Havoptic](https://havoptic.com/) — Free, open-source timeline tracking releases from AI coding tools. Auto-updated daily. [Source](https://github.com/scotthavird/havoptic.com)
