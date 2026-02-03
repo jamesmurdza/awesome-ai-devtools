@@ -143,6 +143,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Fine](https://fine.dev/?ref=awesome) — AI Dev Environment for automating mundane work. Integrate GitHub, Sentry, Linear. Get context-aware answers to questions. Plan, design and implement changes. Automate self-healing CI/CD.
 - [Potpie](https://potpie.ai) — Open Source AI Agents for your codebase in minutes. Use pre-built agents for Q&A, Testing, Debugging and System Design or create your own purpose-built agents.
 - [Roundtable MCP Server](https://github.com/askbudi/roundtable) — Zero-configuration MCP server that unifies multiple AI coding assistants through intelligent auto-discovery and standardized interface
+- [AgentFund](https://github.com/RioTheGreat-ai/agentfund-mcp) — MCP server for AI agent crowdfunding. Milestone-based escrow on Base chain lets agents create funding proposals, track projects, and receive payments.
 - [Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview) - Anthropic's agentic coding tool.
 - [Open Agent](https://github.com/Th0rgal/openagent) — Self-hosted control plane for Claude Code with isolated container workspaces and real-time mission streaming.
 - [Agentic Sprint](https://github.com/damienlaine/agentic-sprint) — Spec-driven, self-iterative multi-agent framework for Claude Code with coordinated specialized agents (Python, Next.js, CI/CD, QA, UI Testing).
