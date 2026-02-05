@@ -109,6 +109,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 
 ### Desktop
 
+- [berrry-joyful](https://github.com/Strawberry-Computer/berrry-joyful) — Hands-free vibe coding with Nintendo Joy-Con controllers on macOS. Mouse control, keyboard shortcuts, scrolling, and voice dictation without touching the keyboard.
 - [Memex](https://memex.tech/) — Build anything in any stack, with just natural language, on your desktop.
 - [Pieces](https://pieces.app/) — AI-enabled desktop application and browser extension designed to assist developers in enhancing productivity.
 
