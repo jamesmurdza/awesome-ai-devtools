@@ -235,6 +235,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 
 ## Observability
 - [TraceRoot AI](https://traceroot.ai/) - An AI native observability tool that using AI agents to automatically fix your production bugs.
+- [OpenClaw Rate Limit Manager](https://github.com/AtlasPA/openclaw-rate-limit-manager) — Proactive rate limit management for AI agent workflows. Prevents 429 errors with sliding windows, request queuing, and pattern learning. Supports Anthropic, OpenAI, and Google providers with free and Pro tiers.
 
 ## OpenAI plugins
 
