@@ -271,3 +271,6 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 ## Resources
 
 - [Havoptic](https://havoptic.com/) — Free, open-source timeline tracking releases from AI coding tools. Auto-updated daily. [Source](https://github.com/scotthavird/havoptic.com)
+
+## Notah.ai
+- [Notah.ai](https://notah.ai/) - AI meeting assistant with 95%+ accuracy on 12 Arabic dialects
