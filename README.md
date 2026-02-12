@@ -145,6 +145,9 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Roundtable MCP Server](https://github.com/askbudi/roundtable) — Zero-configuration MCP server that unifies multiple AI coding assistants through intelligent auto-discovery and standardized interface
 - [Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview) - Anthropic's agentic coding tool.
 - [Open Agent](https://github.com/Th0rgal/openagent) — Self-hosted control plane for Claude Code with isolated container workspaces and real-time mission streaming.
+- [OpenClaw Context Optimizer](https://github.com/AtlasPA/openclaw-context-optimizer) — Intelligent context compression for AI agents that reduces token usage by 30-70% through deduplication, pruning, and summarization. Features pattern learning, quality scoring, and x402 payment integration.
+- [OpenClaw Cost Governor](https://github.com/AtlasPA/openclaw-cost-governor) — Comprehensive cost tracking and budget management for AI agents with real-time monitoring, multi-tier budgets (hourly/daily/monthly), and automatic request blocking to prevent overruns.
+- [OpenClaw Memory System](https://github.com/AtlasPA/openclaw-memory) — Semantic memory and context management for AI agents using vector embeddings. Features intelligent retrieval, importance scoring, and long-term knowledge persistence with OpenAI embeddings integration.
 - [Agentic Sprint](https://github.com/damienlaine/agentic-sprint) — Spec-driven, self-iterative multi-agent framework for Claude Code with coordinated specialized agents (Python, Next.js, CI/CD, QA, UI Testing).
 - [Leap.new](https://leap.new/) - It builds functional apps with real backend services, APIs, and deploys to your cloud.
 - [Recurse ML](https://recurse.ml) - Find bugs in AI Generated Code
