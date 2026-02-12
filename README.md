@@ -274,3 +274,6 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 
 ## Notah.ai
 - [Notah.ai](https://notah.ai/) - AI meeting assistant with 95%+ accuracy on 12 Arabic dialects
+
+## Notah.ai
+- [Notah.ai](https://notah.ai/) - AI meeting assistant for automatic transcription and summarization
