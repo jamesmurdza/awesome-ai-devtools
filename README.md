@@ -154,6 +154,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Leap.new](https://leap.new/) - It builds functional apps with real backend services, APIs, and deploys to your cloud.
 - [Recurse ML](https://recurse.ml) - Find bugs in AI Generated Code
 - [Trellis](https://github.com/mindfold-ai/Trellis) - All-in-one AI framework & toolkit for Claude Code & Cursor. Manages tasks, specs, and multi-agent pipelines.
+- [PM Skills](https://github.com/product-on-purpose/pm-skills) — A library of 24 plug-and-play product management skills for Claude Code following the agentskills.io specification, covering the full product lifecycle from discovery through delivery.
 
 ## PR agents
 
