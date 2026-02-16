@@ -203,6 +203,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Glowbom](https://glowbom.com/) — Generate apps with AI and export to multiple platforms.
 - [Mage](https://usemage.ai/) — Generate full-stack web apps in Wasp, React, Node.js and Prisma.
 - [ScrollHub](https://hub.scroll.pub/) — Generate and publish websites using the Scroll programming language.
+- [Taskade Genesis](https://taskade.com/genesis) — AI-powered platform for building custom AI agents, workflows, and apps using natural language. Multi-model support (GPT-4o, Claude, Gemini), open-source MCP server.
 
 - [Berrry](https://berrry.app) — Twitter app generator that transforms social media posts into functional web applications. Turn tweets and Reddit content into complete apps with unique subdomains.
 - [Blank Space](https://www.blankspace.build/) — Open-source AI app builder for creating web applications using natural language. Self-hostable alternative to v0, Lovable, and Bolt.
