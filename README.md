@@ -14,6 +14,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [PR agents](#pr-agents)
 - [App generators](#app-generators)
 - [UI generators](#ui-generators)
+- [API generators](#api-generators)
 - [Snippet generators](#snippet-generators)
 - [Documentation](#documentation)
 - [OpenAI plugins](#openai-plugins)
@@ -225,6 +226,9 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Polymet](https://polymet.ai) — Create and iterate product design easily. Polymet helps teams create user interfaces and prototypes without any design experience, provides production-ready front-end code.
 - [CSS Picker](https://csspicker.dev/) - Copy UI from Existing Design and Iterate with AI, support Copy CSS from website (by [CSS Picker Extension](https://chromewebstore.google.com/detail/csspicker-copy-css-from-w/laooinkgdapbcbjchpmihliljfnakkdh)), image to code and text to UI.
 
+## API generators
+- [CentralMind/Gateway](https://github.com/centralmind/gateway) — Generate production ready APIs using AI based on database schema and data, optimized for AI-Agents. Supports PostgreSQL, Clickhouse, MySQL, Snowflake, BigQuery. 
+  
 ## Snippet generators
 
 - [CodePal](https://codepal.ai/) — A web tool for quickly generating or refactoring code.
