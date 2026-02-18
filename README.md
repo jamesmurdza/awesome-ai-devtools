@@ -272,6 +272,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Test Gru](https://gru.ai/home#test-gru) — Provides enterprise-level unit test automation services.
 
 - [AgentsKB](https://agentskb.com) - Expert knowledge layer for AI assistants. Your AI searches, we research. That's the difference.
+- [TestSprite](https://www.testsprite.com/) - The most powerful AI testing tool for testing, fixing, and validating your software in one automated flow.
 
 ## Evaluation
 
