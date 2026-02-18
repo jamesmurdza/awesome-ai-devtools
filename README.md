@@ -279,4 +279,5 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 
 ## Resources
 
+- [API Status Check](https://apistatuscheck.com) - Monitor the status and uptime of 120+ popular developer APIs in real-time
 - [Havoptic](https://havoptic.com/) — Free, open-source timeline tracking releases from AI coding tools. Auto-updated daily. [Source](https://github.com/scotthavird/havoptic.com)
