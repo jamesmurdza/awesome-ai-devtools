@@ -156,6 +156,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Recurse ML](https://recurse.ml) - Find bugs in AI Generated Code
 - [Zenable](https://zenable.io/) — AI guardrails that learn your team's standards and ensure coding agents follow them, maximizing speed and quality.
 - [Trellis](https://github.com/mindfold-ai/Trellis) - All-in-one AI framework & toolkit for Claude Code & Cursor. Manages tasks, specs, and multi-agent pipelines.
+- [MOSS](https://pypi.org/project/moss-sdk/) — Cryptographic signing for AI agents using post-quantum ML-DSA-44 signatures. Creates tamper-proof audit trails for attribution, compliance, and policy enforcement. Integrates with LangChain, LangGraph, CrewAI, AutoGen.
 
 ## PR agents
 
