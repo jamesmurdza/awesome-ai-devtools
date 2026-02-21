@@ -276,6 +276,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 ## Evaluation
 
 - [sniffbench](https://github.com/AnswerLayer/sniffbench) — Benchmark suite for evaluating coding agents. Compare configurations, track metrics, and A/B test with real issues from your repos.
+- [Rival](https://rival.tips) — AI model comparison platform with blind preference voting across 200+ models. Side-by-side output comparison, community-driven rankings, and open preference datasets.
 
 ## Resources
 
