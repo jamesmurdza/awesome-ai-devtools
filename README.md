@@ -117,6 +117,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 
 - [Memex](https://memex.tech/) — Build anything in any stack, with just natural language, on your desktop.
 - [Pieces](https://pieces.app/) — AI-enabled desktop application and browser extension designed to assist developers in enhancing productivity.
+- [Mantra](https://mantra.gonewx.com) — Desktop session time machine for AI coding tools. Captures and restores full conversation state for Claude Code, Cursor, and Windsurf — like quicksave for your AI sessions. Free for macOS.
 
 ## Shell assistants
 
