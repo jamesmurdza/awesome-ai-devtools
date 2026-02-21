@@ -156,7 +156,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Recurse ML](https://recurse.ml) - Find bugs in AI Generated Code
 - [Zenable](https://zenable.io/) — AI guardrails that learn your team's standards and ensure coding agents follow them, maximizing speed and quality.
 - [Trellis](https://github.com/mindfold-ai/Trellis) - All-in-one AI framework & toolkit for Claude Code & Cursor. Manages tasks, specs, and multi-agent pipelines.
-- [NeuroLink](https://github.com/juspay/neurolink) — Open-source TypeScript AI SDK for building AI-powered applications. Provides a unified API for 200+ models, RAG pipelines, AI agent orchestration, and built-in observability — designed for production use.
+- [NeuroLink](https://github.com/juspay/neurolink) — Open-source TypeScript AI SDK for building AI-powered applications. Provides a unified API for 100+ models, RAG pipelines, AI agent orchestration, and built-in observability — designed for production use.
 
 ## PR agents
 
