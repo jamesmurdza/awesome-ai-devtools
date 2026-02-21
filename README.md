@@ -111,6 +111,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [AdaL](https://sylph.ai/) — Self-evolving AI coding agent that lets models collaborate (Claude, GPT, Gemini). Runs locally, learns your codebase patterns.
 - [Tokscale](https://github.com/junhoyeo/tokscale) — CLI tool for tracking token usage from AI coding agents (OpenCode, Claude Code, OpenClaw, Codex, Gemini CLI, Cursor IDE, AmpCode, Factory Droid) with a global leaderboard and 2D/3D contribution graphs.
 - [vsync](https://github.com/nicepkg/vsync) — CLI tool that syncs Skills, MCP servers, Agents & Commands across Claude Code, Cursor, OpenCode, and Codex with automatic format conversion (JSON ↔ TOML ↔ JSONC).
+- [Claude Code Open](https://github.com/kill136/claude-code-open) — Open-source AI coding platform with Web IDE, multi-agent system, 37+ tools, and MCP protocol support. Features browser-based IDE with Monaco editor, Blueprint multi-agent orchestration, and scheduled task daemon.
 - [Arctic](https://github.com/arctic-cli/interface): A terminal-first TUI that unifies multiple AI coding plans and APIs with built-in usage and quota visibility.
 
 ### Desktop
