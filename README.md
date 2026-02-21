@@ -2,6 +2,7 @@
 
 This is a curated list of AI-powered developer tools. These tools leverage AI to assist developers in tasks such as code completion, refactoring, debugging, documentation, and more.
 
+- [changelog-gen](https://github.com/indoor47/changelog-gen) - AI-powered changelog generator that converts git commits into human-readable release notes using Claude
 - [IDEs](#ides)
 - [Git Clients](#git-clients)
 - [Assistants](#assistants)
