@@ -243,6 +243,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [CodexAtlas](https://codedocumentation.app/) — Automated code and API documentation using latest AI models
 
 ## Observability
+- [Manifest](https://manifest.build/) — Cost observability platform for AI agents — tracks token usage, costs, and actions across LLM providers. Privacy-focused, self-hostable. [Source](https://github.com/mnfst/manifest)
 - [TraceRoot AI](https://traceroot.ai/) - An AI native observability tool that using AI agents to automatically fix your production bugs.
 
 ## OpenAI plugins
