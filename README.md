@@ -183,6 +183,8 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Matter AI](https://matterai.dev) - Open Source AI Code Reviewer to help engineering teams release code with confidence.
 - [Gito](https://github.com/Nayjest/Gito) - AI code reviewer that works with any language model, locally or in GitHub Actions.
 - [Baz](https://baz.co) - Ai Code Reviewer that is tailored to your team's guidelines and conventions. Customizable, adaptable, responsive and integrated with the rest of teh developer tooling for context.
+- [Z.ai Code Review](https://github.com/tarmojussila/zai-code-review) - AI-powered GitHub Pull Request code review using Z.ai models.
+- [MiniMax Code Review](https://github.com/tarmojussila/minimax-code-review) - AI-powered GitHub Pull Request code review using MiniMax models.
 
 ## App generators
 
