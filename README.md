@@ -272,6 +272,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Test Gru](https://gru.ai/home#test-gru) — Provides enterprise-level unit test automation services.
 
 - [AgentsKB](https://agentskb.com) - Expert knowledge layer for AI assistants. Your AI searches, we research. That's the difference.
+- [PageGuard](https://pageguard.qiudeqiu.workers.dev) — AI-powered website health scanner that checks SEO, performance (Core Web Vitals), accessibility (WCAG 2.1), and best practices. Generates plain-English AI reports in ~30 seconds using Cloudflare Workers AI. No signup required.
 
 ## Evaluation
 
