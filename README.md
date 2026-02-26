@@ -279,6 +279,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 
 ## Evaluation
 
+- [AgentReflect](https://github.com/eliumusk/agentreflect) — Self-evaluation framework for AI agents. Generates daily scorecards measuring autonomy, output quality, and decision-making from build logs.
 - [sniffbench](https://github.com/AnswerLayer/sniffbench) — Benchmark suite for evaluating coding agents. Compare configurations, track metrics, and A/B test with real issues from your repos.
 
 ## Resources
