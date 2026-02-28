@@ -115,6 +115,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Claude Code Open](https://github.com/kill136/claude-code-open) — Open-source AI coding platform with Web IDE, multi-agent system, 37+ tools, and MCP protocol support. Features browser-based IDE with Monaco editor, Blueprint multi-agent orchestration, and scheduled task daemon.
 - [Arctic](https://github.com/arctic-cli/interface): A terminal-first TUI that unifies multiple AI coding plans and APIs with built-in usage and quota visibility.
 
+- [rule-gen](https://github.com/nedcodes-ok/rule-gen) - Generate AI coding rules from your codebase using Google Gemini. Produces project-specific rules for Cursor, Claude Code, Copilot, and Windsurf. Zero dependencies.
 ### Desktop
 
 - [Memex](https://memex.tech/) — Build anything in any stack, with just natural language, on your desktop.
