@@ -5,6 +5,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [IDEs](#ides)
 - [Git Clients](#git-clients)
 - [Assistants](#assistants)
+- [AI Interview Coach](https://em-tools.io/interview-prep) - Voice-based AI behavioral interview practice for engineering managers and software engineers. 130+ role-specific questions, STAR-format scoring, and 3 interviewer personas.
   - [Web-based](#web-based)
   - [IDE extensions](#ide-extensions)
   - [Command-line](#command-line)
