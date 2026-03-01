@@ -116,6 +116,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [vsync](https://github.com/nicepkg/vsync) — CLI tool that syncs Skills, MCP servers, Agents & Commands across Claude Code, Cursor, OpenCode, and Codex with automatic format conversion (JSON ↔ TOML ↔ JSONC).
 - [rule-porter](https://github.com/nedcodes-ok/rule-porter) — Zero-dependency CLI that converts AI IDE rule files between Cursor (.mdc), CLAUDE.md, AGENTS.md, Copilot, and Windsurf. Bidirectional with lossy-conversion warnings.
 - [Claude Code Open](https://github.com/kill136/claude-code-open) — Open-source AI coding platform with Web IDE, multi-agent system, 37+ tools, and MCP protocol support. Features browser-based IDE with Monaco editor, Blueprint multi-agent orchestration, and scheduled task daemon.
+- [OpenPaw](https://github.com/daxaur/openpaw) — Open-source CLI tool (`npx pawmode`) that turns Claude Code into a personal assistant with 38 skills including email, calendar, Spotify, smart home, Slack, and more. No daemon, no cloud, MIT licensed.
 - [Arctic](https://github.com/arctic-cli/interface): A terminal-first TUI that unifies multiple AI coding plans and APIs with built-in usage and quota visibility.
 
 ### Desktop
