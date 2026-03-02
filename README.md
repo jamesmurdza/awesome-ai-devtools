@@ -291,3 +291,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 
 - [Awesome Code Docs](https://github.com/johnxie/awesome-code-docs) — Curated deep-dive tutorials for open-source AI and developer tooling projects.
 - [Havoptic](https://havoptic.com/) — Free, open-source timeline tracking releases from AI coding tools. Auto-updated daily. [Source](https://github.com/scotthavird/havoptic.com)
+
+## API Gateway Services
+
+- [SkillBoss](https://skillboss.co) - **Backed by OpenAI Startup Fund & Amazon**. Unified API for 100+ AI services with a single key. OpenAI-compatible endpoint supports GPT-5, Claude Opus 4.5, Gemini, video generation (Veo 3.1), image generation, voice synthesis, and infrastructure services. Native integration with Claude Code, Cursor, Windsurf, Kiro, and Gemini CLI.
