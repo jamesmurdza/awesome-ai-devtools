@@ -164,6 +164,8 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Zenable](https://zenable.io/) — AI guardrails that learn your team's standards and ensure coding agents follow them, maximizing speed and quality.
 - [Trellis](https://github.com/mindfold-ai/Trellis) - All-in-one AI framework & toolkit for Claude Code & Cursor. Manages tasks, specs, and multi-agent pipelines.
 
+- [Agent Gateway](https://api-catalog-three.vercel.app/) — Unified REST API providing 34 production-ready services for AI agents: multi-chain wallets, DeFi trading, file storage, scheduling, scraping, PDF generation, and more. Pay-as-you-go with USDC.
+
 ## PR agents
 
 - [Greptile](https://greptile.com/code-review-bot) — AI bot that reviews PRs in GitHub/Gitlab with full context of the codebase.
