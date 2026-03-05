@@ -282,6 +282,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Test Gru](https://gru.ai/home#test-gru) — Provides enterprise-level unit test automation services.
 
 - [AgentsKB](https://agentskb.com) - Expert knowledge layer for AI assistants. Your AI searches, we research. That's the difference.
+- [playwright-skill](https://github.com/testdino-hq/playwright-skill) - 70+ structured Playwright testing skill for AI agents — covers end-to-end tests, page object models, CI/CD setup, Cypress/Selenium migration, and CLI automation.
 
 ## Evaluation
 
