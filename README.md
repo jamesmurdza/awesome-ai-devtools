@@ -280,8 +280,9 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [MutahunterAI](https://github.com/codeintegrity-ai/mutahunter) — Accelerate developer productivity and code security by finding vulnerabilities in code and generating tests for them. Open Source and available as a CLI or CI/CD pipeline.
 - [KushoAI](https://kusho.ai/) — AI agent for API testing which transforms your Postman collections, OpenAPI specs, curl commands, etc. into exhaustive test suites that plug into your CI/CD pipeline.
 - [Test Gru](https://gru.ai/home#test-gru) — Provides enterprise-level unit test automation services.
-
+- [TestDino](https://testdino.com) - Playwright focused test reporting and analytics that centralizes CI runs, classifies failures, and helps teams debug faster.
 - [AgentsKB](https://agentskb.com) - Expert knowledge layer for AI assistants. Your AI searches, we research. That's the difference.
+- [playwright-skill](https://github.com/testdino-hq/playwright-skill) - 70+ structured Playwright testing skill for AI agents — covers end-to-end tests, page object models, CI/CD setup, Cypress/Selenium migration, and CLI automation.
 
 ## Evaluation
 
