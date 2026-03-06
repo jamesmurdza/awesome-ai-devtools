@@ -148,6 +148,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [DemoGPT](https://github.com/melih-unsal/DemoGPT) — Auto Gen-AI App Generator with the Power of Llama 2
 - [DevOpsGPT](https://github.com/kuafuai/DevOpsGPT) — DevOpsGPT: AI-Driven Software Development Automation Solution
 - [Second.dev](https://www.second.dev/) — A platform for adding features to full-stack apps.
+- [DoaCam](https://doacam.com/) — Real-time 3D AI avatar SDK. Video-call a lifelike avatar in your browser with voice, computer vision, lip-synced animation, and persistent memory. Powered by Google Gemini.
 - [Factory](https://www.factory.ai/) — Agents for code generation. Waitlisted.
 - [sudocode](https://sudocode.ai/) — A web based chat assistant for generating projects, similar to Code Interpreter.
 - [CodeFlash AI](https://www.codeflash.ai/) — A CLI and CI tool for optimizing Python code using AI.
