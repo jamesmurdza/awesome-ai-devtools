@@ -39,9 +39,11 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [trae](https://www.trae.ai/) — Trae is an adaptive AI IDE that transforms how you work, collaborating with you to run faster.
 - [Zed](https://zed.dev/) - A high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [Nimbalyst](https://nimbalyst.com) - An agent management environment for Claude Code and Codex. Interactive visual editing of markdown, mockups, excalidraw, code. Parallel session management. 
+- [Parallel Code](https://github.com/johannesjo/parallel-code) - Desktop app that runs multiple AI coding agents (Claude Code, Codex CLI, Gemini CLI) in parallel with automatic git worktree isolation, a unified GUI, and remote monitoring.
 
 ## Git Clients
 
+- [git-lrc](https://github.com/HexmosTech/git-lrc) - Free, unlimited AI code reviews that run on every commit.
 - [GitBrain](https://gitbrain.dev/) — Git client that simplifies the git workflow. Splits code changes, generates summaries & commit messages for code changes. Uses OpenAI.
 - [GitButler](https://gitbutler.com/) — Git client for simultaneous branches on top of your existing workflow. Defaults to OpenAI, can be changed to Perplexity for generating conventional commit messages.
 - [AI Git Narrator](https://github.com/pmusolino/AI-Git-Narrator) - CLI tool that uses AI to automatically generate high-quality Git commit messages and pull request descriptions.
@@ -60,6 +62,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Onboard](https://www.getonboardai.com) — Chat with an AI about public and private codebases.
 - [Code to Flow](https://codetoflow.com) — Visualize, analyze, and understand code with interactive flowcharts.
 - [Pieces](https://pieces.app/) — An on-device copilot that helps you capture, enrich, and reuse code, streamline collaboration, and solve complex problems through a contextual understanding of your workflow.
+- [Poirot](https://github.com/LeonardoCardoso/Poirot) — A macOS app for browsing Claude Code sessions, exploring diffs, and re-running commands. Reads local transcripts, runs offline, open source.
 - [Wren AI](https://getwren.ai/oss) — SQL AI Agent to get results and insights faster by asking questions without writing SQL, and it's open-source!
 - [TEXT2SQL.AI](https://www.text2sql.ai/) — AI-powered SQL query builder. Translate, explain and fix complex SQL queries using plain English.
 - [SQLAI.ai](https://www.sqlai.ai/) — AI generates, fixes, explains and optimizes SQL queries. Ability to add your own database schema and train AI to understand it.
@@ -72,6 +75,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Cline](https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev) — Autonomous coding agent for VS Code that can create/edit files, execute commands, and use the browser with user permission. Supports multiple AI providers including OpenRouter, Anthropic, OpenAI, Google Gemini, AWS Bedrock, Azure, and GCP Vertex.
 - [Refact AI](https://refact.ai/) [Source](https://github.com/smallcloudai/refact) — Open source assistant with chat, completion, refactoring, and codebase-specific fine-tuning. Extensions for VS Code and JetBrains.
 - [Continue](https://continue.dev/) — VS Code extension with chat, refactor, and code generation. Edits multiple files and runs commands on your behalf.
+- [cursor-doctor](https://github.com/nedcodes-ok/cursor-doctor) — Health scanner and diagnostic tool for Cursor AI IDE configuration (.cursor/rules/ files). Scans for broken YAML frontmatter, rule conflicts, redundancies, missing alwaysApply, token budget issues, and stack coverage gaps. Available as CLI (`npx cursor-doctor scan`) and VS Code extension.
 - [Blackbox AI](https://www.useblackbox.io/) — VS Code extension with autocomplete and chat including links to online coding references.
 - [CodeGeeX](https://codegeex.cn/) — Open source assistant based on the CodeGeeX LLM with chat, completion, and refactoring. Extensions for 9 editors including VS Code, and PyCharm.
 - [Quack AI](https://www.quackai.com/) — VS Code extension for adhering to project coding guidelines.
@@ -92,6 +96,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [IBM watsonx Code Assistant for Z](https://www.ibm.com/products/watsonx-code-assistant-z) — watsonx Code Assistant for Z is an AI-powered mainframe application modernization product with code generation. Features include application discovery and analysis, automated code refactoring and COBOL to Java conversion.
 - [EasyCode](https://www.easycode.ai/) — VS Code extension with GPT-4 chat.
 - [Kilo Code](https://kilocode.ai) - Open Source AI coding assistant for planning, building, and fixing code inside VS Code.
+- [Mysti](https://github.com/DeepMyst/Mysti) — Multi-agent AI coding assistant for VS Code. Supports Claude Code, OpenAI Codex, Gemini, Cline, and GitHub Copilot with brainstorm mode where agents debate, red-team, and collaborate on solutions.
 - [FlyonUI MCP](https://flyonui.com/mcp) — Integrate FlyonUI MCP - Tailwind AI Builder directly into your IDE and craft stunning Tailwind CSS Components, Blocks and Pages inspired by FlyonUI.
 - [Traycer](https://traycer.ai) - Plan-First Coding Assistant in VS Code.
 - [shadcn/studio MCP](https://shadcnstudio.com/mcp) - Integrate shadcn/studio MCP Server directly into your favorite IDE and craft stunning shadcn/ui Components, Blocks and Pages inspired by shadcn/studio.
@@ -111,12 +116,17 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [AdaL](https://sylph.ai/) — Self-evolving AI coding agent that lets models collaborate (Claude, GPT, Gemini). Runs locally, learns your codebase patterns.
 - [Tokscale](https://github.com/junhoyeo/tokscale) — CLI tool for tracking token usage from AI coding agents (OpenCode, Claude Code, OpenClaw, Codex, Gemini CLI, Cursor IDE, AmpCode, Factory Droid) with a global leaderboard and 2D/3D contribution graphs.
 - [vsync](https://github.com/nicepkg/vsync) — CLI tool that syncs Skills, MCP servers, Agents & Commands across Claude Code, Cursor, OpenCode, and Codex with automatic format conversion (JSON ↔ TOML ↔ JSONC).
+- [rule-porter](https://github.com/nedcodes-ok/rule-porter) — Zero-dependency CLI that converts AI IDE rule files between Cursor (.mdc), CLAUDE.md, AGENTS.md, Copilot, and Windsurf. Bidirectional with lossy-conversion warnings.
+- [LynxPrompt](https://github.com/GeiserX/LynxPrompt) — Self-hostable platform for managing AI IDE configuration files. Generates, syncs, and shares configs (.cursorrules, CLAUDE.md, copilot-instructions.md, etc.) across 30+ AI coding assistants via web UI, REST API, CLI, and federated blueprint marketplace.
+- [Claude Code Open](https://github.com/kill136/claude-code-open) — Open-source AI coding platform with Web IDE, multi-agent system, 37+ tools, and MCP protocol support. Features browser-based IDE with Monaco editor, Blueprint multi-agent orchestration, and scheduled task daemon.
 - [Arctic](https://github.com/arctic-cli/interface): A terminal-first TUI that unifies multiple AI coding plans and APIs with built-in usage and quota visibility.
 
 ### Desktop
 
 - [Memex](https://memex.tech/) — Build anything in any stack, with just natural language, on your desktop.
 - [Pieces](https://pieces.app/) — AI-enabled desktop application and browser extension designed to assist developers in enhancing productivity.
+- [Poirot](https://github.com/LeonardoCardoso/Poirot) — A macOS app for browsing Claude Code sessions, exploring diffs, and re-running commands. Reads local transcripts, runs offline, open source.
+- [Mantra](https://mantra.gonewx.com) — Desktop session time machine for AI coding tools. Captures and restores full conversation state for Claude Code, Cursor, and Windsurf — like quicksave for your AI sessions. Free for macOS.
 
 ## Shell assistants
 
@@ -152,6 +162,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview) - Anthropic's agentic coding tool.
 - [Open Agent](https://github.com/Th0rgal/openagent) — Self-hosted control plane for Claude Code with isolated container workspaces and real-time mission streaming.
 - [Agentic Sprint](https://github.com/damienlaine/agentic-sprint) — Spec-driven, self-iterative multi-agent framework for Claude Code with coordinated specialized agents (Python, Next.js, CI/CD, QA, UI Testing).
+- [VibeBox](https://vibebox.robcholz.com) — Open-source, per-project micro-VM sandbox for running AI coding agents safely on macOS.
 - [Leap.new](https://leap.new/) - It builds functional apps with real backend services, APIs, and deploys to your cloud.
 - [Recurse ML](https://recurse.ml) - Find bugs in AI Generated Code
 - [Zenable](https://zenable.io/) — AI guardrails that learn your team's standards and ensure coding agents follow them, maximizing speed and quality.
@@ -184,6 +195,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Gito](https://github.com/Nayjest/Gito) - AI code reviewer that works with any language model, locally or in GitHub Actions.
 - [Baz](https://baz.co) - Ai Code Reviewer that is tailored to your team's guidelines and conventions. Customizable, adaptable, responsive and integrated with the rest of teh developer tooling for context.
 - [claude-pr-reviewer](https://github.com/indoor47/claude-pr-reviewer) - GitHub Action + CLI that uses Claude AI to automatically review pull requests, post inline comments, and report token costs. Supports strictness levels (lenient/balanced/strict). Zero dependencies, Python 3.8+.
+- [Revieko](https://synqra.tech/revieko/) — Architecture drift radar for PRs: structural risk scoring and drift hotspots.
 
 ## App generators
 
@@ -233,6 +245,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [AI Code Playground](https://aicodeplayground.com/) — A web tool for refactoring and improving code.
 - [AutoRegex](https://www.autoregex.xyz/) — AutoRegex uses OpenAI's GPT-3 to produce regular expressions from plain English.
 - [unpkg.ai](https://unpkg.ai/) — Open source AI-powered ESM module generation service. Generate JavaScript modules via URL for rapid prototyping.
+- [rule-gen](https://github.com/nedcodes-ok/rule-gen) — CLI tool that generates AI coding rules from your actual codebase using Google Gemini. Feeds source files into Gemini's 1M token context window to produce project-specific rules for Cursor, Claude Code, Copilot, and Windsurf. Zero dependencies.
 
 ## Documentation
 
@@ -240,8 +253,9 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [DiagramGPT](https://www.eraser.io/diagramgpt) — DiagramGPT is a free AI-based web app that converts a schema, infrastructure definition, code snippet or plain language description into diagrams. The tool can generate flow charts, entity relationship diagrams, cloud architecture diagrams and sequence diagrams.
 - [DocuWriter.ai](https://www.docuwriter.ai/) — AI-powered web app to generate automated Code & API documentation from your source code files.
 - [README-AI](https://github.com/eli64s/readme-ai) — Automated README.md file generator, powered by large language model APIs.
-- [Supacodes](https://www.supacodes.com) — An AI tool that automates writing & updating code documentation in Github
-- [CodexAtlas](https://codedocumentation.app/) — Automated code and API documentation using latest AI models
+- [Supacodes](https://www.supacodes.com) — An AI tool that automates writing & updating code documentation in Github.
+- [CodexAtlas](https://codedocumentation.app/) — Automated code and API documentation using latest AI models.
+- [EkLine](https://ekline.io/) — Helps software teams create and maintain high-quality documentation with AI-powered quality checks, style guide enforcement, and automatic doc generation.
 
 ## Observability
 - [TraceRoot AI](https://traceroot.ai/) - An AI native observability tool that using AI agents to automatically fix your production bugs.
@@ -280,5 +294,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 
 ## Resources
 
+- [aiforcode.io](https://aiforcode.io) — Expert-curated directory of 42+ AI coding tools with transparent 100-point scoring, head-to-head comparisons, and an interactive tool recommendation quiz. Verified monthly.
 - [Awesome Code Docs](https://github.com/johnxie/awesome-code-docs) — Curated deep-dive tutorials for open-source AI and developer tooling projects.
+- [Cursor Rules Collection](https://github.com/survivorforge/cursor-rules) — 35+ production-quality .cursorrules files for 16 frameworks including React, Next.js, Python, Go, Rust, SvelteKit, and Django. Configure AI coding assistants with code style, architecture, and testing conventions. MIT licensed.
 - [Havoptic](https://havoptic.com/) — Free, open-source timeline tracking releases from AI coding tools. Auto-updated daily. [Source](https://github.com/scotthavird/havoptic.com)
