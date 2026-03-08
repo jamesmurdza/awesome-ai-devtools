@@ -253,6 +253,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [EkLine](https://ekline.io/) — Helps software teams create and maintain high-quality documentation with AI-powered quality checks, style guide enforcement, and automatic doc generation.
 
 ## Observability
+- [Evolution Engine](https://github.com/alpsla/evolution-engine) - Drift detector for AI-assisted development. Monitors git, CI, dependency, and deployment signals locally.
 - [TraceRoot AI](https://traceroot.ai/) - An AI native observability tool that using AI agents to automatically fix your production bugs.
 
 ## OpenAI plugins
