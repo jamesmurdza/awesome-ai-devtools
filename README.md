@@ -273,6 +273,10 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [SeaGOAT](https://kantord.github.io/SeaGOAT/latest/) — A local search tool leveraging vector embeddings to search your codebase semantically.
 - [ContextMCP](https://contextmcp.ai) — Self-hosted semantic search across documentation from various sources for AI agents.
 
+## SEO & AI Visibility
+
+- [GEOScore](https://geoscoreai.com/) — Free AI search visibility scanner that checks if your site can be discovered by ChatGPT, Perplexity, Claude, and Gemini. Includes free [AI Robots.txt Generator](https://geoscoreai.com/tools/robots-txt-generator) and [AI Crawler Checker](https://geoscoreai.com/tools/ai-crawler-checker).
+
 ## Testing
 
 - [Checksum AI](https://checksum.ai) — End-to-end fully autonomous QA Automation agent that generates CI/CD ready Playwright tests directly to the repository
