@@ -23,6 +23,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Resources](#resources)
 
 ## IDEs
+- [agent101](https://agent101.ventify.ai) - Open directory of 500+ tools for AI agents. Search by task, get structured metadata (auth, pricing, example calls). MCP server + JSON API.
 - [Google Antigravity](https://antigravity.google/) — An agent-first IDE that orchestrates autonomous AI agents to plan, execute, and verify complex coding tasks with deep browser integration.
 - [Crystal](https://github.com/stravu/crystal) — A new type of dev environment to manage, inspect, and test parallel Claude Code sessions.
 - [Cursor](https://www.cursor.com/) — An IDE with chat, edit, generate and debug features. Forked from VSCodium, so the interface is similar to VS Code. Uses OpenAI.
