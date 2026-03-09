@@ -272,6 +272,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Buildt](https://www.buildt.ai/) — Natural language search for repositories. Waitlist.
 - [SeaGOAT](https://kantord.github.io/SeaGOAT/latest/) — A local search tool leveraging vector embeddings to search your codebase semantically.
 - [ContextMCP](https://contextmcp.ai) — Self-hosted semantic search across documentation from various sources for AI agents.
+- [BGPT MCP](https://github.com/connerlambden/bgpt-mcp) — Search scientific papers and retrieve structured experimental data from full-text studies via MCP.
 
 ## Testing
 
