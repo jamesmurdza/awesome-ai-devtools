@@ -171,6 +171,9 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Zenable](https://zenable.io/) — AI guardrails that learn your team's standards and ensure coding agents follow them, maximizing speed and quality.
 - [Stoneforge](https://stoneforge.ai) — Open-source orchestration for AI coding agents. Run multiple agents in parallel with automatic dispatch, merge, and recovery.
 - [Trellis](https://github.com/mindfold-ai/Trellis) - All-in-one AI framework & toolkit for Claude Code & Cursor. Manages tasks, specs, and multi-agent pipelines.
+- [Domain Finder](https://github.com/iscale-llc/domain-finder-claude-code) — Domain brainstorming agent powered by Claude Code with real-time Namecheap API availability checking.
+- [Everflow Offer Sync](https://github.com/iscale-llc/claude-code-everflow-sync) — Affiliate offer sync agent via Claude Code. Pulls offers from Everflow, diffs against local state, applies changes with AI-driven field mapping.
+- [Facebook Ad Builder](https://github.com/iscale-llc/iscale-facebook-ad-builder) — AI agent that scrapes competitor ads, generates creative with Claude, and pushes campaigns to the Facebook Ads API.
 
 ## PR agents
 
@@ -224,6 +227,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 
 - [Berrry](https://berrry.app) — Twitter app generator that transforms social media posts into functional web applications. Turn tweets and Reddit content into complete apps with unique subdomains.
 - [Blank Space](https://www.blankspace.build/) — Open-source AI app builder for creating web applications using natural language. Self-hostable alternative to v0, Lovable, and Bolt.
+- [Agentic React Template](https://github.com/iscale-llc/agentic-react-nextjs-shadcn) — Agent-testable SaaS starter with Next.js 16, shadcn/ui, and Tailwind CSS. Accessibility-first components optimized for AI agent testing.
 - [Fastshot](https://fastshot.ai/) — AI driven no-code platform for building and deploying mobile apps.
 
 ## UI generators
