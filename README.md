@@ -263,6 +263,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Changenotes](https://changenotes.app) — AI-powered changelog generator. Connects to GitHub, auto-generates categorized changelogs from commits and PRs on every release. Free tier available, Pro $9/mo.
 
 ## Observability
+- [Manifest](https://manifest.build/) — Cost observability platform for AI agents — tracks token usage, costs, and actions across LLM providers. Privacy-focused, self-hostable. [Source](https://github.com/mnfst/manifest)
 - [TraceRoot AI](https://traceroot.ai/) - An AI native observability tool that using AI agents to automatically fix your production bugs.
 
 ## OpenAI plugins
