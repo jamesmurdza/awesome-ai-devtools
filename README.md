@@ -167,6 +167,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Agentic Sprint](https://github.com/damienlaine/agentic-sprint) — Spec-driven, self-iterative multi-agent framework for Claude Code with coordinated specialized agents (Python, Next.js, CI/CD, QA, UI Testing).
 - [VibeBox](https://vibebox.robcholz.com) — Open-source, per-project micro-VM sandbox for running AI coding agents safely on macOS.
 - [Leap.new](https://leap.new/) - It builds functional apps with real backend services, APIs, and deploys to your cloud.
+- [Raysurfer](https://raysurfer.com/) — LLM output caching and reuse infrastructure for AI coding agents. Python ([raysurfer](https://pypi.org/project/raysurfer/)) and TypeScript ([raysurfer](https://www.npmjs.com/package/raysurfer)) SDKs. Delivers cached outputs up to 30x faster.
 - [Recurse ML](https://recurse.ml) - Find bugs in AI Generated Code
 - [Zenable](https://zenable.io/) — AI guardrails that learn your team's standards and ensure coding agents follow them, maximizing speed and quality.
 - [Stoneforge](https://stoneforge.ai) — Open-source orchestration for AI coding agents. Run multiple agents in parallel with automatic dispatch, merge, and recovery.
