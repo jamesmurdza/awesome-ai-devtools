@@ -302,4 +302,6 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [aiforcode.io](https://aiforcode.io) — Expert-curated directory of 42+ AI coding tools with transparent 100-point scoring, head-to-head comparisons, and an interactive tool recommendation quiz. Verified monthly.
 - [Awesome Code Docs](https://github.com/johnxie/awesome-code-docs) — Curated deep-dive tutorials for open-source AI and developer tooling projects.
 - [Cursor Rules Collection](https://github.com/survivorforge/cursor-rules) — 35+ production-quality .cursorrules files for 16 frameworks including React, Next.js, Python, Go, Rust, SvelteKit, and Django. Configure AI coding assistants with code style, architecture, and testing conventions. MIT licensed.
+- [CLAUDE.md Writer](https://helloandy.net/claude-md-writer/) — AI-powered generator for Claude agent system prompts (CLAUDE.md files). 3-step OpenRouter pipeline: extract requirements → generate → refine. Free, no account.
+- [SKILL.md Generator](https://helloandy.net/skill-generator/) — Generates SKILL.md instruction files for Claude Code agents from a description. Complementary to CLAUDE.md for configuring Claude Code behavior.
 - [Havoptic](https://havoptic.com/) — Free, open-source timeline tracking releases from AI coding tools. Auto-updated daily. [Source](https://github.com/scotthavird/havoptic.com)
