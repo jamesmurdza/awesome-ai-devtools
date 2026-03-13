@@ -122,6 +122,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [LynxPrompt](https://github.com/GeiserX/LynxPrompt) — Self-hostable platform for managing AI IDE configuration files. Generates, syncs, and shares configs (.cursorrules, CLAUDE.md, copilot-instructions.md, etc.) across 30+ AI coding assistants via web UI, REST API, CLI, and federated blueprint marketplace.
 - [Claude Code Open](https://github.com/kill136/claude-code-open) — Open-source AI coding platform with Web IDE, multi-agent system, 37+ tools, and MCP protocol support. Features browser-based IDE with Monaco editor, Blueprint multi-agent orchestration, and scheduled task daemon.
 - [Arctic](https://github.com/arctic-cli/interface): A terminal-first TUI that unifies multiple AI coding plans and APIs with built-in usage and quota visibility.
+- [pixelmuse](https://github.com/starmorph/pixelmuse-cli) — AI image generation from the terminal with 6 models (Flux, Imagen 3, Recraft V4, Nano Banana). CLI, interactive TUI, and MCP server for AI agents.
 - [models](https://github.com/arimxyer/models) — A TUI for browsing AI models, benchmarks from Artificial Analysis, and coding agents with GitHub integration. Built with Rust and Ratatui.
 
 ### Desktop
