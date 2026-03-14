@@ -105,6 +105,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 ### Command-line
 
 - [Amazon Q Developer CLI](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/command-line.html?trk=fd6bb27a-13b0-4286-8269-c7b1cfaa29f0&sc_channel=el) - CLI that provides command completion, command translation using generative AI to translate intent to commands, and a full agentic chat interface with context management that helps you write code. It works with many terminals and shells, on MacOS, Linux and Windows (via wsl).
+- [Octomind](https://github.com/muvon/octomind) — Session-based AI development assistant with extensible architecture, smart codebase understanding via semantic search and knowledge graphs, and zero AI provider lock-in. Supports 7 LLM providers with instant switching, plan-first multi-step execution, and runs as interactive CLI, WebSocket server, or JSONL pipeline.
 - [aloc](https://github.com/modern-tooling/aloc) — A modern, AI-augmented lines of code counter built with Rust and Ratatui. Uses AI effort profiles for accurate project estimation.
 - [talk-codebase](https://github.com/rsaryev/talk-codebase) — CLI chatbot with repository as context. Supports OpenAI as well as locally running LLMs via GPT4All.
 - [gptcomet](https://github.com/belingud/gptcomet) — CLI tool to help you generate commit message and review changes. Support mutiple providers and languages.
