@@ -241,6 +241,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [BoringUi](https://www.boringui.xyz/) — Create beautiful UI using your JSON data. The generated UI is in HTML and Tailwind CSS with code which can be copied and UI can be shared with anyone using links.
 - [Polymet](https://polymet.ai) — Create and iterate product design easily. Polymet helps teams create user interfaces and prototypes without any design experience, provides production-ready front-end code.
 - [CSS Picker](https://csspicker.dev/) - Copy UI from Existing Design and Iterate with AI, support Copy CSS from website (by [CSS Picker Extension](https://chromewebstore.google.com/detail/csspicker-copy-css-from-w/laooinkgdapbcbjchpmihliljfnakkdh)), image to code and text to UI.
+- [EnigmaEasel](https://enigmaeasel.com/tools/color-palette-generator/) — Generate accessible, production-ready UI design systems from text prompts. Features a Live Preview Mode with multiple layout configurations (3, 5, or 6-color modes) and built-in WCAG 2.1 contrast auditing to instantly visualize and export code for Tailwind CSS and SCSS.
 
 ## Snippet generators
 
