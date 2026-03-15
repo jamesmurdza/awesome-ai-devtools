@@ -101,6 +101,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [FlyonUI MCP](https://flyonui.com/mcp) — Integrate FlyonUI MCP - Tailwind AI Builder directly into your IDE and craft stunning Tailwind CSS Components, Blocks and Pages inspired by FlyonUI.
 - [Traycer](https://traycer.ai) - Plan-First Coding Assistant in VS Code.
 - [shadcn/studio MCP](https://shadcnstudio.com/mcp) - Integrate shadcn/studio MCP Server directly into your favorite IDE and craft stunning shadcn/ui Components, Blocks and Pages inspired by shadcn/studio.
+- [onUI](https://github.com/onllm-dev/onUI) — Open-source browser extension and MCP server for annotation-first UI pair programming with AI agents. Annotate any webpage and bridge UI context to Claude Code, Cursor, Windsurf, or Copilot. [Source](https://github.com/onllm-dev/onUI)
 
 ### Command-line
 
