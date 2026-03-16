@@ -292,6 +292,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Test Gru](https://gru.ai/home#test-gru) — Provides enterprise-level unit test automation services.
 
 - [AgentsKB](https://agentskb.com) - Expert knowledge layer for AI assistants. Your AI searches, we research. That's the difference.
+- [Lingua Universale](https://github.com/rafapra3008/cervellaswarm) — DSL for verifying AI agent communication protocols using session types. Catches deadlocks and protocol violations before runtime.
 
 ## Evaluation
 
