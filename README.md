@@ -290,6 +290,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [MutahunterAI](https://github.com/codeintegrity-ai/mutahunter) — Accelerate developer productivity and code security by finding vulnerabilities in code and generating tests for them. Open Source and available as a CLI or CI/CD pipeline.
 - [KushoAI](https://kusho.ai/) — AI agent for API testing which transforms your Postman collections, OpenAPI specs, curl commands, etc. into exhaustive test suites that plug into your CI/CD pipeline.
 - [Test Gru](https://gru.ai/home#test-gru) — Provides enterprise-level unit test automation services.
+- [Foglift](https://foglift.io) — Free AI-powered SEO + GEO website analyzer. Checks traditional SEO, AI search readiness (GEO), performance, security, and accessibility. Includes REST API, CLI, MCP server, and GitHub Action for CI/CD.
 
 - [AgentsKB](https://agentskb.com) - Expert knowledge layer for AI assistants. Your AI searches, we research. That's the difference.
 
