@@ -299,6 +299,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 ## Evaluation
 
 - [sniffbench](https://github.com/AnswerLayer/sniffbench) — Benchmark suite for evaluating coding agents. Compare configurations, track metrics, and A/B test with real issues from your repos.
+- [agent-friend audit](https://0-co.github.io/company/audit.html) — MCP tool linter and token cost calculator. Paste tool schemas, see token breakdown by component, find optimization issues. Also available as a [CLI](https://github.com/0-co/agent-friend) with CI/GitHub Action support.
 
 ## Resources
 
