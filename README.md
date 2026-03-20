@@ -175,6 +175,8 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Stoneforge](https://stoneforge.ai) — Open-source orchestration for AI coding agents. Run multiple agents in parallel with automatic dispatch, merge, and recovery.
 - [Trellis](https://github.com/mindfold-ai/Trellis) - All-in-one AI framework & toolkit for Claude Code & Cursor. Manages tasks, specs, and multi-agent pipelines.
 
+- [APort](https://aport.io) — Agent identity verification and policy enforcement. Portable passports, sub-100ms policy checks, multi-level assurance, platform-agnostic middleware for any web framework.
+
 ## PR agents
 
 - [Greptile](https://greptile.com/code-review-bot) — AI bot that reviews PRs in GitHub/Gitlab with full context of the codebase.
