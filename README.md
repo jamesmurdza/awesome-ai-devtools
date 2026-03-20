@@ -174,6 +174,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Zenable](https://zenable.io/) — AI guardrails that learn your team's standards and ensure coding agents follow them, maximizing speed and quality.
 - [Stoneforge](https://stoneforge.ai) — Open-source orchestration for AI coding agents. Run multiple agents in parallel with automatic dispatch, merge, and recovery.
 - [Trellis](https://github.com/mindfold-ai/Trellis) - All-in-one AI framework & toolkit for Claude Code & Cursor. Manages tasks, specs, and multi-agent pipelines.
+- [Agent Skill Bus](https://github.com/ShunsukeHayashi/agent-skill-bus) — Self-improving task orchestration framework for AI agent systems. DAG-based task queue with automatic skill quality monitoring. Zero dependencies, framework-agnostic (works with Claude Code, Codex, LangGraph, CrewAI).
 
 ## PR agents
 
