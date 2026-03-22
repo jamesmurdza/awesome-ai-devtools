@@ -312,3 +312,11 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Cursor Rules Collection](https://github.com/survivorforge/cursor-rules) — 35+ production-quality .cursorrules files for 16 frameworks including React, Next.js, Python, Go, Rust, SvelteKit, and Django. Configure AI coding assistants with code style, architecture, and testing conventions. MIT licensed.
 - [AI Coding Compare](https://aicodingcompare.com) — Compare 50+ AI coding assistants with features, pricing, and performance benchmarks.
 - [Havoptic](https://havoptic.com/) — Free, open-source timeline tracking releases from AI coding tools. Auto-updated daily. [Source](https://github.com/scotthavird/havoptic.com)
+
+### Podcasts
+
+- [Chain of Thought](https://chainofthought.show/) — Interviews with AI leaders on inference infrastructure, developer tools, and strategy.
+- [How I AI](https://www.youtube.com/@howiaipodcast) — Claire Vo talks to builders about how they actually use AI day to day.
+- [Latent Space](https://www.latent.space/podcast) — Technical AI engineering podcast focused on LLMs and developer tooling.
+- [Practical AI](https://practicalai.fm/) — AI made practical and accessible, from the Changelog network.
+- [TWIML AI](https://twimlai.com/) — Interviews with researchers and practitioners across ML.
