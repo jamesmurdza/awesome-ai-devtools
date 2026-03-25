@@ -272,6 +272,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 
 ## Observability
 - [TraceRoot AI](https://traceroot.ai/) - An AI native observability tool that using AI agents to automatically fix your production bugs.
+- [burn0](https://github.com/burn0-dev/burn0) — Zero-config cost observability for Node.js. One import tracks per-request costs for 50+ APIs (OpenAI, Anthropic, Stripe, Supabase, etc.) right in your terminal. MIT licensed, privacy-first.
 
 ## OpenAI plugins
 
