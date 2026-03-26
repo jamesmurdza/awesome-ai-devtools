@@ -55,6 +55,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [OneCompiler](https://onecompiler.com/) — A free AI Powered online compiler supporting over 70 languages, including Java, Python, MySQL, C++, and HTML, for writing, running, and sharing code.
 - [trae](https://www.trae.ai/) — Trae is an adaptive AI IDE that transforms how you work, collaborating with you to run faster.
 - [Zed](https://zed.dev/) — A high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+- [Claude Code IDE](https://github.com/Powellga/Claude-Code-IDE) — A full-featured local browser-based IDE wrapping Anthropic's Claude Code CLI with project/session management, real-time terminal emulation, session recording/resume/compare, file upload, screenshot capture, git integration, and MCP tool support.
 
 ### IDE Extensions
 
