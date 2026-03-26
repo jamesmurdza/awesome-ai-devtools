@@ -47,7 +47,6 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Melty](https://melty.sh/) — An open source fork of VS Code with built in chat, change previews, and ability to write commits with AI. Currently only source code is available.
 - [Replit](https://replit.com/) — Web-based IDE with cloud developer environments, code completion, chat, a software development agent and deployments.
 - [Mutable](https://github.com/mutableai/monitors4codegen) — Web-based IDE, integrated with a chatbot and GitHub.
-- [CodeStory](https://codestory.ai/) — An IDE with chat, code explanations, auto-generated commits and PR summaries. Forked from VSCodium.
 - [UI Pilot](https://ui-pilot.com/) — Chat-based AI code editor that creates forms using Material UI, using GPT-4.
 - [GitWit](https://gitwit.dev/) — Web-based editor for building ReactJS applications with AI.
 - [Windsurf](https://windsurf.com) — An IDE with chat, edit, generate and debug features. Forked from VSCodium, so the interface is similar to VS Code. Formerly known as Codeium.
@@ -70,7 +69,6 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [CodeMate](https://www.codemate.ai/) — VS Code extension for debugging and optimizing code.
 - [AskCodi](https://www.askcodi.com/) — AI coding assistant with extensions for VS Code, JetBrains and Sublime Text.
 - [Rubberduck](https://github.com/rubberduck-ai/rubberduck-vscode) — Open source, chat assistant for the Visual Studio Code side bar.
-- [CodeComplete](https://codecomplete.ai/) — Self hosted, enterprise completion assistant.
 - [GoCodeo](https://www.gocodeo.com/) - GoCodeo is an AI agent that lets you build and deploy full-stack apps effortlessly, with one click Vercel deployment and seamless Supabase integration.
 - [JetBrains AI](https://www.jetbrains.com/ai/) — AI assistant available in all JetBrains IDEs.
 - [aiXcoder](https://www.aixcoder.com/en/) — Local or cloud-based assistant with extensions for IntelliJ IDEA, CLion, GoLand, PyCharm, WebStorm, Visual Studio Code, and Eclipse.
@@ -159,7 +157,6 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Literally anything](https://literallyanything.io) — HTML and JavaScript web app generator.
 - [Make Real](https://makereal.tldraw.com/) — Online canvas that can be used to generate HTML/JavaScript apps.
 - [Glowbom](https://glowbom.com/) — Generate apps with AI and export to multiple platforms.
-- [ScrollHub](https://hub.scroll.pub/) — Generate and publish websites using the Scroll programming language.
 - [Taskade Genesis](https://taskade.com/genesis) — AI-powered platform for building custom AI agents, workflows, and apps using natural language. Multi-model support (GPT-4o, Claude, Gemini), open-source MCP server.
 - [Berrry](https://berrry.app) — Twitter app generator that transforms social media posts into functional web applications. Turn tweets and Reddit content into complete apps with unique subdomains.
 - [Blank Space](https://www.blankspace.build/) — Open-source AI app builder for creating web applications using natural language. Self-hostable alternative to v0, Lovable, and Bolt.
@@ -181,7 +178,6 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Uizard](https://uizard.io/) — Generate multi-screen mockups from text prompts and edit them with a drag-and-drop editor. Scan screenshots of apps or hand-drawn wireframes and transform them into editable app mockups.
 - [Polymet](https://polymet.ai) — Create and iterate product design easily. Polymet helps teams create user interfaces and prototypes without any design experience, provides production-ready front-end code.
 - [Kombai](https://kombai.com/) — AI Tool for generating frontend code from Figma.
-- [CodeParrot](https://www.codeparrot.ai/) — VS Code plugin to generate Frontend code from Figma. Reuses existing components, libraries and coding standards to generate code which fits perfectly with your existing codebase. All without any prompting.
 - [Frontly](https://fronty.com/) — Convert the uploaded image to HTML CSS code.
 - [BoringUi](https://www.boringui.xyz/) — Create beautiful UI using your JSON data. The generated UI is in HTML and Tailwind CSS with code which can be copied and UI can be shared with anyone using links.
 - [CSS Picker](https://csspicker.dev/) — Copy UI from Existing Design and Iterate with AI, support Copy CSS from website (by [CSS Picker Extension](https://chromewebstore.google.com/detail/csspicker-copy-css-from-w/laooinkgdapbcbjchpmihliljfnakkdh)), image to code and text to UI.
@@ -211,11 +207,10 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 
 - [CodePal](https://codepal.ai/) — A web tool for quickly generating or refactoring code.
 - [AI Code Convert](https://aicodeconvert.com/) — A web tool for translating code between programming languages.
-- [AI Code Playground](https://aicodeplayground.com/) — A web tool for refactoring and improving code.
 - [AutoRegex](https://www.autoregex.xyz/) — AutoRegex uses OpenAI's GPT-3 to produce regular expressions from plain English.
 - [unpkg.ai](https://unpkg.ai/) — Open source AI-powered ESM module generation service. Generate JavaScript modules via URL for rapid prototyping.
 - [AskCommand](https://www.askcommand.cppexpert.online/) — Web based tool to generate Unix commands from text automatically using AI.
-- [GitFluence](https://www.gitfluence.com/) — Web-based Git command generator to automatically generate Git commands for terminal or CLI from text description, using an AI-driven solution to suggest the most relevant Git commands.
+- [RAG Chunking Playground](https://aiagentsbuzz.com/tools/rag-chunking-playground/) - Online tool to compare RAG chunking strategies with grading, query, and code export
 
 #### ChatGPT Plugins
 
@@ -259,7 +254,6 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Pixee](https://pixee.ai) — Pixeebot finds security and code quality issues in your code and creates merge-ready pull requests with recommended fixes.
 - [CodeAnt AI](https://www.codeant.ai/) — Automatically create PRs to fix code issues.
 - [What The Diff](https://whatthediff.ai/) — AI-powered app that reviews the diff of pull requests and writes a descriptive comment about the changes in plain english.
-- [Trag](https://usetrag.com/) — AI powered code reviews with pre-defined instructions and patterns.
 - [CodeReviewBot](https://codereviewbot.ai/) — AI powered code reviews for GitHub
 - [Callstack.ai Code Reviewer](https://callstack.ai/code-reviewer) — AI-powered PR reviewer for GitHub, designed to identify bugs, security issues, and performance bottlenecks.
 - [Matter AI](https://matterai.dev) - Open Source AI Code Reviewer to help engineering teams release code with confidence.
@@ -282,13 +276,11 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Meticulous.ai](https://www.meticulous.ai/) — Automatically generated, automatically maintained end-to-end tests: as your app evolves so does your test suite.
 - [DiffBlue](https://www.diffblue.com/) — Automatically generated unit tests for Java.
 - [Qodo](https://www.qodo.ai/) — Non-trivial test generation with support for major programming languages. Extensions for VS Code and JetBrains. (formerly Codium)
-- [DeepUnit](https://www.deepunit.ai/) — Thoughtful test cases and generation of complete unit test files. Available as an interactive VS Code extension, npm package, CLI or CI/CD pipeline.
 - [MutahunterAI](https://github.com/codeintegrity-ai/mutahunter) — Accelerate developer productivity and code security by finding vulnerabilities in code and generating tests for them. Open Source and available as a CLI or CI/CD pipeline.
 - [KushoAI](https://kusho.ai/) — AI agent for API testing which transforms your Postman collections, OpenAPI specs, curl commands, etc. into exhaustive test suites that plug into your CI/CD pipeline.
 - [Test Gru](https://gru.ai/home#test-gru) — Provides enterprise-level unit test automation services.
 - [TraceRoot AI](https://traceroot.ai/) — AI-native observability tool that uses AI agents to automatically fix production bugs.
 - [sniffbench](https://github.com/AnswerLayer/sniffbench) — Benchmark suite for evaluating coding agents. Compare configurations, track metrics, and A/B test with real issues from your repos.
-- [Fine](https://fine.dev/?ref=awesome) — AI Dev Environment for automating mundane work. Integrate GitHub, Sentry, Linear. Get context-aware answers to questions. Plan, design and implement changes. Automate self-healing CI/CD.
 - [CodeFlash AI](https://www.codeflash.ai/) — A CLI and CI tool for optimizing Python code using AI.
 - [Recurse ML](https://recurse.ml) — Find bugs in AI-generated code.
 
