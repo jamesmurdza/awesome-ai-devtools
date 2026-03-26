@@ -28,6 +28,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
   - [Sandboxing & Isolation](#sandboxing--isolation)
   - [Configuration & Context Management](#configuration--context-management)
   - [Usage Analytics & Cost Tracking](#usage-analytics--cost-tracking)
+- [Prefactor](https://prefactor.tech/) — AI agent runtime control plane with real-time observability, policy enforcement, and cost attribution for multi-agent workflows in regulated industries.
 - [Specialized Tools](#specialized-tools)
   - [Git & Commit Helpers](#git--commit-helpers)
   - [Documentation Generation](#documentation-generation)
