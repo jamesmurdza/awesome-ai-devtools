@@ -377,3 +377,4 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [AI Coding Compare](https://aicodingcompare.com) — Compare 50+ AI coding assistants with features, pricing, and performance benchmarks.
 - [Havoptic](https://havoptic.com/) — Free, open-source timeline tracking releases from AI coding tools. Auto-updated daily. [Source](https://github.com/scotthavird/havoptic.com)
 - [AI Dev Toolkit](https://github.com/dohko04/awesome-ai-prompts-for-devs) — 198 production-ready AI engineering resources: prompt frameworks, multi-agent configs, MCP setups, RAG pipelines, and automation scripts for Claude Code, Cursor, GPT-5, Copilot, and more. Free samples included.
+- [Related Repos](https://relatedrepos.com/) - Discover related open source projects. Find alternatives and other similar repositories. Updated daily.
