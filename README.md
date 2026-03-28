@@ -281,6 +281,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [GolemBot](https://github.com/0xranx/golembot) — Unified framework wrapping Claude Code, Cursor, OpenCode, and Codex CLIs behind a single streaming API. Adds IM adapters (Slack, Telegram, Discord, Feishu), Skill system, fleet mode, and HTTP embedding.
 - [Shep](https://github.com/shep-ai/cli) — Multi-session SDLC control center that orchestrates AI coding agents (Claude Code, Cursor CLI, Gemini) for autonomous feature development with configurable approval gates and a live web dashboard.
 - [Vibe Kanban](https://bloop.ai/) — AI-powered Kanban platform for orchestrating autonomous coding agents. Manage agent workflows with visual boards for task delegation and progress tracking.
+- [Bernstein AI](https://github.com/farfarawaylabs/bernstein_ai_framework) — Open-source TypeScript framework for building composable "deep research" AI agents. Model-agnostic with pluggable architecture, agent-to-agent delegation, state management, and built-in tools for search and web crawling.
 
 ### Sandboxing & Isolation
 
