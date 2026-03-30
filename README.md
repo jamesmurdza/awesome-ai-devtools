@@ -217,6 +217,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Nimbalyst](https://nimbalyst.com) - An agent management environment for Claude Code and Codex. Interactive visual editing of markdown, mockups, excalidraw, code. Parallel session management.
 - [Parallel Code](https://github.com/johannesjo/parallel-code) - Desktop app that runs multiple AI coding agents (Claude Code, Codex CLI, Gemini CLI) in parallel with automatic git worktree isolation, a unified GUI, and remote monitoring.
 - [PATAPIM](https://patapim.ai) — Terminal IDE for AI coding agents with a 9-terminal grid, AI state detection, built-in Whisper voice dictation, LAN remote access, and embedded MCP browser. Built with Electron.
+- [Locally Uncensored](https://github.com/PurpleDoubleD/locally-uncensored) — Open-source desktop app for running uncensored AI models locally. Chat, image generation, and video generation with full privacy. Built with Tauri, React, Ollama, and ComfyUI.
 
 ---
 
