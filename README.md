@@ -198,6 +198,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [unpkg.ai](https://unpkg.ai/) — Open source AI-powered ESM module generation service. Generate JavaScript modules via URL for rapid prototyping.
 - [EnigmaEasel](https://enigmaeasel.com) — AI-powered engine for generating accessible color palettes and systems, OKLCH gradients, and font pairings with one-click Tailwind CSS and SCSS exports.
 
+- [DevKits](https://devkits.aiforeverthing.com) — 82+ free developer tools including JSON Formatter, JWT Decoder, Base64, Regex Tester. No signup required, works offline.
 #### ChatGPT Plugins
 
 - [ChatWithGit](https://plugins.sdan.io/git) — Enables ChatGPT to search GitHub and return links to relevant repositories.
