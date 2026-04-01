@@ -397,6 +397,10 @@ Semantic search tools that find code using natural language queries and embeddin
 
 ---
 
+### Terminal Coding Agents
+
+- [Darce CLI](https://github.com/AmerSarhan/darce-cli) — Ultralight (14 kB) multi-model terminal coding agent with 7 tools, smart routing, streaming, and session resume. [npm](https://www.npmjs.com/package/darce-cli)
+
 ## Resources
 
 Curated lists, comparison guides, and configuration templates for AI coding tools:
