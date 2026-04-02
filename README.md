@@ -128,6 +128,7 @@ Lightweight command-line tools for AI-assisted commits, shell translation, and w
 - [cmd-ai](https://github.com/BrodaNoel/cmd-ai) - Turns natural language into executable shell commands (ei.: `ai Tell me the free space on disk`)
 - [Baz CLI](https://github.com/baz-scm/baz-cli) - CLI for AI assisted code review, with access to the actual code, diff etc.
 - [models](https://github.com/arimxyer/models) — A TUI for browsing AI models, benchmarks from Artificial Analysis, and coding agents with GitHub integration. Built with Rust and Ratatui.
+- [Jctx](https://github.com/Shashwat-Gupta57/Jctx) — Python-powered CLI that extracts structured, architecture-aware context from Python, Kotlin, and Java codebases for LLMs. Features internal dependency mapping and token estimation. To help you plan and implement features smartly with your LLM.
 - [CCG Workflow](https://github.com/fengshao1227/ccg-workflow) — Multi-model collaboration system for Claude Code. Orchestrates Claude + Codex + Gemini with 28 slash commands, smart routing (Gemini for frontend, Codex for backend), Agent Teams for parallel development, and 6 built-in quality gate skills. One-command install via npx.
 - [aiignore-cli](https://github.com/yjcho9317/aiignore-cli) — Generates ignore configs for 7 AI coding tools based on per-tool bypass testing. Like `npx gitignore` but for Cursor, Claude Code, Gemini, JetBrains, Windsurf, Aider, and Copilot.
 - [Butterfish](https://butterfi.sh) — CLI tool that embeds ChatGPT in your shell for easy access. Includes simple agentic capabilities.
