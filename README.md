@@ -337,6 +337,7 @@ Secure isolated environments for running AI coding agents with controlled access
 
 Tools that manage and sync AI agent configurations, rules, and context across editors:
 
+- [AgentLint](https://github.com/0xmariowu/AgentLint) — 33 evidence-backed checks for AI-friendly repos. Scans file structure, instruction quality, build setup, session continuity, and security posture. Claude Code plugin with auto-fix.
 - [Context7](https://context7.com/) — Documentation platform that provides up-to-date, version-specific documentation and code examples for any library directly into Cursor, Claude Code, Windsurf, and other AI coding tools.
 - [cursor-doctor](https://github.com/nedcodes-ok/cursor-doctor) — Health scanner and diagnostic tool for Cursor AI IDE configuration (.cursor/rules/ files). Scans for broken YAML frontmatter, rule conflicts, redundancies, missing alwaysApply, token budget issues, and stack coverage gaps. Available as CLI (`npx cursor-doctor scan`) and VS Code extension.
 - [Caliber](https://github.com/rely-ai-org/caliber) — Open-source CLI that scans your codebase and generates AI agent configs (CLAUDE.md, .cursorrules, skills, MCPs) for Claude Code, Cursor, and Codex. Scores your setup 0-100 and recommends MCP servers.
