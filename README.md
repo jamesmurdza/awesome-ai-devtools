@@ -223,6 +223,7 @@ Web utilities for quick code generation, language translation, and regex creatio
 - [AutoRegex](https://www.autoregex.xyz/) — AutoRegex uses OpenAI's GPT-3 to produce regular expressions from plain English.
 - [unpkg.ai](https://unpkg.ai/) — Open source AI-powered ESM module generation service. Generate JavaScript modules via URL for rapid prototyping.
 - [EnigmaEasel](https://enigmaeasel.com) — AI-powered engine for generating accessible color palettes and systems, OKLCH gradients, and font pairings with one-click Tailwind CSS and SCSS exports.
+- [ToolPipe](https://toolpipe.dev) — 120+ developer utility tools available as an MCP server or REST API. JSON formatting, code generation, hashing, QR codes, regex testing, DNS lookup, JWT decode, and more. Free tier with 100 calls/day.
 
 #### ChatGPT Plugins
 
