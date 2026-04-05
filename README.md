@@ -248,6 +248,7 @@ Native desktop apps for AI-powered coding, terminal enhancement, and agent orche
 - [Parallel Code](https://github.com/johannesjo/parallel-code) - Desktop app that runs multiple AI coding agents (Claude Code, Codex CLI, Gemini CLI) in parallel with automatic git worktree isolation, a unified GUI, and remote monitoring.
 - [PATAPIM](https://patapim.ai) — Terminal IDE for AI coding agents with a 9-terminal grid, AI state detection, built-in Whisper voice dictation, LAN remote access, and embedded MCP browser. Built with Electron.
 - [IM.codes](https://github.com/im4codes/imcodes) — Mobile/web control layer for Claude Code, Codex, Gemini CLI, and other terminal-based coding agents, built for away-from-desk continuation with terminal access, file browsing, git views, localhost preview, notifications, and multi-agent workflows.
+- [gTabs](https://github.com/vaddisrinivas/gtabs) — AI-powered Chrome extension that organizes browser tabs into smart groups for developers managing tab overload. Supports 8 LLM providers (OpenAI, Anthropic, Groq, xAI, OpenRouter, Ollama, Chrome AI), with editable suggestions, one-click undo, scheduled re-org, pinned groups, and duplicate finder. Open source. [Chrome Web Store](https://chromewebstore.google.com/detail/gtabs-ai-tab-organizer/hcpbchmdcjbgbmjihnenbfalepcdncnb)
 
 ---
 
