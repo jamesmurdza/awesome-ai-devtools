@@ -393,6 +393,7 @@ Tools that auto-generate documentation, diagrams, and changelogs from source cod
 - [README-AI](https://github.com/eli64s/readme-ai) — Automated README.md file generator, powered by large language model APIs.
 - [CodexAtlas](https://codedocumentation.app/) — Automated code and API documentation using latest AI models.
 - [EkLine](https://ekline.io/) — Helps software teams create and maintain high-quality documentation with AI-powered quality checks, style guide enforcement, and automatic doc generation.
+- [framecraft](https://github.com/vaddisrinivas/framecraft) — Claude Code skill and CLI that generates polished demo videos from a single prompt. Orchestrates Playwright, FFmpeg, and Edge TTS to produce 1920x1080 videos with voiceover, transitions, and CSS animations.
 - [Changenotes](https://changenotes.app) — AI-powered changelog generator. Connects to GitHub, auto-generates categorized changelogs from commits and PRs on every release. Free tier available, Pro $9/mo.
 
 ### Code Search & Understanding
