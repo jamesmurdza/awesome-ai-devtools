@@ -311,6 +311,7 @@ Tools that generate unit/e2e tests and integrate AI into CI/CD pipelines:
 
 ### Multi-Agent Orchestration
 
+- [Guardian Agent Prompts](https://github.com/milkomida77/guardian-agent-prompts) — 57 production-tested agent system prompts for multi-agent orchestration with task routing, anti-duplication registry, quality gates, and 30-minute heartbeat monitoring. Battle-tested across 10,000+ tasks.
 Platforms for running multiple AI coding agents in parallel with workspace isolation:
 
 - [Conductor](https://conductor.build/) — macOS app for orchestrating multiple Claude Code and Codex agents working simultaneously in isolated git worktrees. Features a central dashboard for monitoring, code review, and merging.
