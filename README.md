@@ -358,6 +358,7 @@ Tools that manage and sync AI agent configurations, rules, and context across ed
 - [Zenable](https://zenable.io/) — AI guardrails that learn your team's standards and ensure coding agents follow them, maximizing speed and quality.
 - [Gestalt](https://github.com/dwgoldie/gestalt) — Model-agnostic thinking protocol (AGENTS.md) that shapes how AI coding agents reason. Less filler, more substance, honest about limits. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI.
 - [Agentify](https://github.com/koriyoshi2041/agentify) — CLI tool that transforms any OpenAPI spec into 9 agent interface formats (MCP server, AGENTS.md, CLAUDE.md, .cursorrules, Skills, llms.txt, GEMINI.md, A2A Card, CLI) with a single command. Tiered generation strategies for small to large APIs.
+- [ContextKit](https://nova-labs.dev/contextkit/generate) — Free web-based generator for AI coding config files. Creates CLAUDE.md, .cursorrules, codex.md, and GEMINI.md from a single form with framework-specific rules. Client-side, no data sent to servers. [Source](https://github.com/novalabs-dev/contextkit)
 
 ### Usage Analytics & Cost Tracking
 
@@ -370,6 +371,7 @@ Tools for monitoring token usage and API costs across AI providers:
 - [claude-lens](https://github.com/Astro-Han/claude-lens) — Lightweight Bash + jq statusline for Claude Code with rate limit pace tracking. Compares burn rate to time remaining in 5h/7d windows, showing whether usage is ahead or behind sustainable pace. Single file, zero dependencies beyond jq.
 - [ai-coding-tools-pricing](https://github.com/lunacompsia-oss/ai-coding-tools-pricing) — Open JSON dataset of pricing for 8 AI coding tools (Copilot, Cursor, Claude Code, Windsurf, etc.). 30+ tiers, TypeScript types, JSON Schema. CC-BY-4.0. Updated monthly.
 - [CodeCosts](https://codecosts.pages.dev) — Interactive cost calculator and comparison tool for AI coding tools. Uses the ai-coding-tools-pricing dataset to help developers pick the right plan.
+- [CostPilot](https://nova-labs.dev/cost-dashboard/analyze) — Free web-based Claude Code cost analyzer. Parses JSONL usage logs to show per-session token breakdown, cost tracking, and waste detection. Client-side processing, no data uploaded. [Source](https://github.com/novalabs-dev/costpilot)
 
 ---
 
