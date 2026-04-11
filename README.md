@@ -368,6 +368,7 @@ Tools that manage and sync AI agent configurations, rules, and context across ed
 - [Zenable](https://zenable.io/) — AI guardrails that learn your team's standards and ensure coding agents follow them, maximizing speed and quality.
 - [Gestalt](https://github.com/dwgoldie/gestalt) — Model-agnostic thinking protocol (AGENTS.md) that shapes how AI coding agents reason. Less filler, more substance, honest about limits. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI.
 - [Agentify](https://github.com/koriyoshi2041/agentify) — CLI tool that transforms any OpenAPI spec into 9 agent interface formats (MCP server, AGENTS.md, CLAUDE.md, .cursorrules, Skills, llms.txt, GEMINI.md, A2A Card, CLI) with a single command. Tiered generation strategies for small to large APIs.
+- [toprank](https://github.com/nowork-studio/toprank) — Open-source Claude Code plugin that provides 9 SEO and Google Ads skills (SEO audit, keyword research, content writing, meta tags, schema markup, CMS connectors, Google Ads campaign management, RSA copy generation, cross-model review). Pulls real Google Search Console, PageSpeed Insights, and Google Ads API data and ships fixes directly to source or CMS.
 
 ### Usage Analytics & Cost Tracking
 
