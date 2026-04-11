@@ -252,6 +252,7 @@ Native desktop apps for AI-powered coding, terminal enhancement, and agent orche
 - [Parallel Code](https://github.com/johannesjo/parallel-code) - Desktop app that runs multiple AI coding agents (Claude Code, Codex CLI, Gemini CLI) in parallel with automatic git worktree isolation, a unified GUI, and remote monitoring.
 - [PATAPIM](https://patapim.ai) — Terminal IDE for AI coding agents with a 9-terminal grid, AI state detection, built-in Whisper voice dictation, LAN remote access, and embedded MCP browser. Built with Electron.
 - [IM.codes](https://github.com/im4codes/imcodes) — Mobile/web control layer for Claude Code, Codex, Gemini CLI, and other terminal-based coding agents, built for away-from-desk continuation with terminal access, file browsing, git views, localhost preview, notifications, and multi-agent workflows.
+- [RunOnce](https://github.com/Water-Run/RunOnce) — Windows desktop app for running one-off AI-generated scripts from the Windows 11 context menu, with built-in OpenAI-compatible LLM integration.
 
 ---
 
