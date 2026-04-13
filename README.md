@@ -345,6 +345,7 @@ Secure isolated environments for running AI coding agents with controlled access
 - [brood-box](https://github.com/stacklok/brood-box) — Run coding agents (Claude Code, Codex, OpenCode) inside hardware-isolated microVMs with snapshot isolation and egress control.
 - [Open Agent](https://github.com/Th0rgal/openagent) — Self-hosted control plane for Claude Code with isolated container workspaces and real-time mission streaming.
 - [FlyDex](https://flydex.net) — Browser-first remote control plane for local Codex sessions with QR pairing, approvals, and machine continuity.
+- [Northflank Sandboxes](https://northflank.com/product/sandboxes) — Run untrusted code at scale with microVM isolation. Deploy in Northflank's cloud or your own VPC, with sub-second cold starts, horizontal autoscaling, and GPU support.
 
 ### Configuration & Context Management
 
