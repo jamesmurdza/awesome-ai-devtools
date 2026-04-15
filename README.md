@@ -316,6 +316,7 @@ Tools that generate unit/e2e tests and integrate AI into CI/CD pipelines:
 - [sniffbench](https://github.com/AnswerLayer/sniffbench) — Benchmark suite for evaluating coding agents. Compare configurations, track metrics, and A/B test with real issues from your repos.
 - [Fine](https://fine.dev/?ref=awesome) — AI Dev Environment for automating mundane work. Integrate GitHub, Sentry, Linear. Get context-aware answers to questions. Plan, design and implement changes. Automate self-healing CI/CD.
 - [CodeFlash AI](https://www.codeflash.ai/) — A CLI and CI tool for optimizing Python code using AI.
+- [Schema Gateway](https://github.com/sravan27/schema-gateway) — Structured-output schema regression guardrail for OpenAI, Gemini, Anthropic, and Ollama. Includes a CLI, hosted demos, and a GitHub Action to catch portability breakage before merge.
 - [Recurse ML](https://recurse.ml) — Find bugs in AI-generated code.
 
 ---
