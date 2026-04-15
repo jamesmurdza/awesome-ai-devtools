@@ -6,6 +6,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 > Please read the [contribution rules](https://github.com/jamesmurdza/awesome-ai-devtools/blob/7ac2078505606be2dd84c24075744a3643f08241/.github/PULL_REQUEST_TEMPLATE.md?plain=1#L4-L10) before submitting a PR.
 
 ## Categories
+- [Asynkor](https://github.com/asynkor/asynkor) - Coordination layer for AI agent teams. File leasing, shared memory, cross-machine sync. One MCP server for Claude Code, Cursor, Windsurf.
 
 - [Development Environments](#development-environments)
   - [AI-Native IDEs](#ai-native-ides)
