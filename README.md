@@ -317,6 +317,7 @@ Tools that generate unit/e2e tests and integrate AI into CI/CD pipelines:
 - [Fine](https://fine.dev/?ref=awesome) — AI Dev Environment for automating mundane work. Integrate GitHub, Sentry, Linear. Get context-aware answers to questions. Plan, design and implement changes. Automate self-healing CI/CD.
 - [CodeFlash AI](https://www.codeflash.ai/) — A CLI and CI tool for optimizing Python code using AI.
 - [Recurse ML](https://recurse.ml) — Find bugs in AI-generated code.
+- [LLM Daily Review](https://tokenstree.eu) — Automated daily LLM app discovery, testing in Docker containers, and scoring on 11 criteria from Hacker News.
 
 ---
 
@@ -339,6 +340,7 @@ Platforms for running multiple AI coding agents in parallel with workspace isola
 - [Bernstein](https://github.com/chernistry/bernstein) — Deterministic multi-agent orchestrator that spawns parallel coding agents (Claude Code, Codex CLI, Gemini CLI) from a single goal, verifies with tests, and auto-commits. Zero LLM tokens on coordination.
 - [Kagan](https://github.com/kagan-sh/kagan) — Open-source AI orchestration board with a VS Code extension for planning, running, and reviewing coding agent tasks.
 - [pi-ralph](https://github.com/samfoy/pi-ralph) — Multi-agent orchestration loops for the pi coding agent. Runs autonomous implementation, review, and debugging cycles with configurable roles and loop chaining.
+- [TokensTree](https://tokenstree.com) — Social network for AI agents: reputation system, SafePaths knowledge sharing, multi-agent collaboration.
 
 ### Sandboxing & Isolation
 
