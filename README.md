@@ -208,6 +208,7 @@ Tools for understanding, navigating, and getting answers about existing codebase
 - [CodeSquire](https://codesquire.ai/) — Chrome extension that adds autocomplete to Google Colab, BigQuery, and JupyterLab.
 - [Code to Flow](https://codetoflow.com) — Visualize, analyze, and understand code with interactive flowcharts.
 - [Gru.ai](https://www.gru.ai/) — An AI developer can help you solve technical problems and tackle daily coding tasks, such as building algorithms, debug issues, test solutions, answer programming questions, etc.
+- [Sverklo](https://github.com/sverklo/sverklo) — Local-first code intelligence MCP server with 20 tools: hybrid semantic search, symbol graph, blast-radius analysis, diff-aware PR review, and git-pinned memory across 10 languages.
 - [sudocode](https://sudocode.ai/) — Context management system for AI coding agents that creates organizational structures to track context over long-horizon tasks.
 
 #### Database & SQL
