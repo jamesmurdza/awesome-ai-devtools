@@ -321,6 +321,7 @@ Tools that generate unit/e2e tests and integrate AI into CI/CD pipelines:
 - [Recurse ML](https://recurse.ml) — Find bugs in AI-generated code.
 
 ---
+- [PQS (Prompt Quality Score)](https://github.com/OnChainAIIntel/pqs-action) — Score any AI prompt on 8 dimensions before inference. GitHub Action gates prompts in CI. Python SDK, MCP server, REST API. MIT licensed.
 
 ## Agent Infrastructure
 
