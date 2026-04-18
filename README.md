@@ -242,6 +242,7 @@ Plugins that extend ChatGPT with code search and repository context:
 - [Code ChatGPT Plugin](https://github.com/kesor/chatgpt-code-plugin) — Open source example of a ChatGPT plugin that pulls context from a directory of files.
 
 ---
+- [Prompt Estimator](https://tools.modologystudios.com/prompt-estimator/) - Free browser tool: paste any prompt, see live token count and input cost across 8 major AI models simultaneously. No account, no API calls.
 
 ## Desktop Applications
 
