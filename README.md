@@ -242,6 +242,7 @@ Plugins that extend ChatGPT with code search and repository context:
 - [Code ChatGPT Plugin](https://github.com/kesor/chatgpt-code-plugin) — Open source example of a ChatGPT plugin that pulls context from a directory of files.
 
 ---
+- [Context Window Visualizer](https://tools.modologystudios.com/context-visualizer/) - Free browser tool: see how your token count fills each model's context window across 8 models. Fill bars, headroom, fits/over-limit indicator.
 
 ## Desktop Applications
 
