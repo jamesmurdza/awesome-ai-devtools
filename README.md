@@ -54,6 +54,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Magnet](https://www.magnet.run/) — Web-based chatbot with repositories and issues as context.
 - [Adrenaline](https://useadrenaline.com/) — Web-based chatbot using AI and ASTs to answer questions about your codebase.
 - [CodeSquire](https://codesquire.ai/) — Chrome extension that adds autocomplete to Google Colab, BigQuery, and JupyterLab.
+- [OpenMagic](https://github.com/Kalmuraee/OpenMagic) — AI-powered coding toolbar for any web app. Injects a floating toolbar via reverse proxy, captures element context, previews diffs, and applies approved changes in real time.
 - [Incognito Pilot](https://github.com/silvanmelchior/IncognitoPilot) — Open source assistant with built-in Python editor and interpreter.
 - [Onboard](https://www.getonboardai.com) — Chat with an AI about public and private codebases.
 - [Code to Flow](https://codetoflow.com) — Visualize, analyze, and understand code with interactive flowcharts.
