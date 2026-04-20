@@ -396,6 +396,7 @@ Tools for monitoring token usage and API costs across AI providers:
 - [ai-coding-tools-pricing](https://github.com/lunacompsia-oss/ai-coding-tools-pricing) — Open JSON dataset of pricing for 8 AI coding tools (Copilot, Cursor, Claude Code, Windsurf, etc.). 30+ tiers, TypeScript types, JSON Schema. CC-BY-4.0. Updated monthly.
 - [CodeCosts](https://codecosts.pages.dev) — Interactive cost calculator and comparison tool for AI coding tools. Uses the ai-coding-tools-pricing dataset to help developers pick the right plan.
 - [aicost](https://github.com/dwylq/aicost) — Universal AI coding cost analyzer CLI. Scans Claude Code, Cursor, and GitHub Copilot usage with cache-aware pricing, HTML dashboard, and cost alerting. No API key required.
+- [Burnd](https://github.com/garvitsurana/burnd) — Local-first CLI for Claude Code users. Beyond raw totals, runs detectors (retry storms, tool overuse, repeated reads, thrash, tired-coding) over ~/.claude/projects/*.jsonl to pinpoint *which* session patterns are burning money. npx-installable, MIT, zero telemetry, exports shareable report URLs.
 
 ---
 
