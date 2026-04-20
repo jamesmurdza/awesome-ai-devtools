@@ -213,6 +213,7 @@ Tools for understanding, navigating, and getting answers about existing codebase
 - [Code to Flow](https://codetoflow.com) — Visualize, analyze, and understand code with interactive flowcharts.
 - [Gru.ai](https://www.gru.ai/) — An AI developer can help you solve technical problems and tackle daily coding tasks, such as building algorithms, debug issues, test solutions, answer programming questions, etc.
 - [sudocode](https://sudocode.ai/) — Context management system for AI coding agents that creates organizational structures to track context over long-horizon tasks.
+- [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) — AI-powered background code analysis agent with 60+ cognitive modules, infinite memory, and self-evolving intelligence. ([npm](https://www.npmjs.com/package/@theihtisham/agent-shadow-brain))
 
 #### Database & SQL
 
@@ -383,6 +384,7 @@ Tools that manage and sync AI agent configurations, rules, and context across ed
 - [Gestalt](https://github.com/dwgoldie/gestalt) — Model-agnostic thinking protocol (AGENTS.md) that shapes how AI coding agents reason. Less filler, more substance, honest about limits. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI.
 - [Agentify](https://github.com/koriyoshi2041/agentify) — CLI tool that transforms any OpenAPI spec into 9 agent interface formats (MCP server, AGENTS.md, CLAUDE.md, .cursorrules, Skills, llms.txt, GEMINI.md, A2A Card, CLI) with a single command. Tiered generation strategies for small to large APIs.
 - [skill-optimizer](https://github.com/fastxyz/skill-optimizer) — CLI that benchmarks SDK, CLI, and MCP guidance docs (SKILL.md) against multiple LLMs and runs an iterative optimizer to rewrite them until every configured model meets a score floor.
+- [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) — Universal skill/slash-command manager for AI coding assistants. Install, manage, and share custom skills across Claude Code, Cursor, Windsurf, and more. ([npm](https://www.npmjs.com/package/omni-skills-forge))
 
 ### Usage Analytics & Cost Tracking
 
