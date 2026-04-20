@@ -396,6 +396,7 @@ Tools for monitoring token usage and API costs across AI providers:
 - [ai-coding-tools-pricing](https://github.com/lunacompsia-oss/ai-coding-tools-pricing) — Open JSON dataset of pricing for 8 AI coding tools (Copilot, Cursor, Claude Code, Windsurf, etc.). 30+ tiers, TypeScript types, JSON Schema. CC-BY-4.0. Updated monthly.
 - [CodeCosts](https://codecosts.pages.dev) — Interactive cost calculator and comparison tool for AI coding tools. Uses the ai-coding-tools-pricing dataset to help developers pick the right plan.
 - [aicost](https://github.com/dwylq/aicost) — Universal AI coding cost analyzer CLI. Scans Claude Code, Cursor, and GitHub Copilot usage with cache-aware pricing, HTML dashboard, and cost alerting. No API key required.
+- [agent-cost-guardrails](https://github.com/sapph1re/agent-cost-guardrails) — Budget limits and circuit breakers for multi-agent frameworks (CrewAI, AutoGen, LangGraph). Hard token caps, cost guardrails, and automatic agent halting to prevent runaway LLM spend in production pipelines.
 - [Agent Cost Guardrails](https://github.com/sapph1re/agent-cost-guardrails) — Budget limits and circuit breakers for AI agent frameworks (CrewAI, AutoGen, LangGraph). Framework-native hooks with hard token caps, cost alerts, and spend tracking — stop runaway agent costs before they hit your invoice.
 
 ---
