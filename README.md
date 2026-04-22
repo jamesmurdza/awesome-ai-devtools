@@ -218,6 +218,7 @@ Tools for understanding, navigating, and getting answers about existing codebase
 
 Tools that generate, explain, and optimize SQL queries from natural language:
 
+- [Omnigraph](https://github.com/ModernRelay/omnigraph) — Typed graph database where agents branch and merge like Git. S3-native, Rust, traversal + vector + BM25 in one runtime
 - [Wren AI](https://getwren.ai/oss) — SQL AI Agent to get results and insights faster by asking questions without writing SQL, and it's open-source!
 - [TEXT2SQL.AI](https://www.text2sql.ai/) — AI-powered SQL query builder. Translate, explain and fix complex SQL queries using plain English.
 - [SQLAI.ai](https://www.sqlai.ai/) — AI generates, fixes, explains and optimizes SQL queries. Ability to add your own database schema and train AI to understand it.
