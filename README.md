@@ -302,6 +302,7 @@ Integrations that automatically review pull requests and suggest code fixes:
 - [CodeHawk](https://codehawk.crossgen-ai.com) — GitHub App that installs in seconds and reviews pull requests automatically, posting inline comments on bugs, security vulnerabilities, and logic errors.
 - [Grit](https://app.grit.io) — GitHub-integrated agent for automating maintenance tasks and other development work.
 - [PR Triage](https://pr-triage-web.vercel.app) — Open source PR evaluation tool that scores pull requests on six quality dimensions with diff evidence. BYOK, MIT licensed. [Source](https://github.com/Elifterminal/pr-triage-web)
+- [SimpleReview](https://chromewebstore.google.com/detail/baiophhkajldflnpaaijgdigbkomkimm) — Browser extension for visual website code review. Hover any element on a live site, click "Fix it" to get AI-powered fix suggestions in a side panel.
 
 ### CI/CD & Testing Automation
 
