@@ -303,6 +303,8 @@ Integrations that automatically review pull requests and suggest code fixes:
 - [Grit](https://app.grit.io) — GitHub-integrated agent for automating maintenance tasks and other development work.
 - [PR Triage](https://pr-triage-web.vercel.app) — Open source PR evaluation tool that scores pull requests on six quality dimensions with diff evidence. BYOK, MIT licensed. [Source](https://github.com/Elifterminal/pr-triage-web)
 
+- [Asqav](https://github.com/jagmarques/asqav-compliance) — GitHub Action that validates AI agent compliance against EU AI Act and OWASP standards. Runs as a CI check on every PR to catch compliance drift before it ships. TypeScript, open source.
+
 ### CI/CD & Testing Automation
 
 Tools that generate unit/e2e tests and integrate AI into CI/CD pipelines:
