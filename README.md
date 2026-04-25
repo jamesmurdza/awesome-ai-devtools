@@ -31,6 +31,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
   - [Sandboxing & Isolation](#sandboxing--isolation)
   - [Configuration & Context Management](#configuration--context-management)
   - [Usage Analytics & Cost Tracking](#usage-analytics--cost-tracking)
+  - [Model Routing & API Gateways](#model-routing--api-gateways)
 - [Specialized Tools](#specialized-tools)
   - [Git & Commit Helpers](#git--commit-helpers)
   - [Documentation Generation](#documentation-generation)
@@ -396,6 +397,13 @@ Tools for monitoring token usage and API costs across AI providers:
 - [ai-coding-tools-pricing](https://github.com/lunacompsia-oss/ai-coding-tools-pricing) — Open JSON dataset of pricing for 8 AI coding tools (Copilot, Cursor, Claude Code, Windsurf, etc.). 30+ tiers, TypeScript types, JSON Schema. CC-BY-4.0. Updated monthly.
 - [CodeCosts](https://codecosts.pages.dev) — Interactive cost calculator and comparison tool for AI coding tools. Uses the ai-coding-tools-pricing dataset to help developers pick the right plan.
 - [aicost](https://github.com/dwylq/aicost) — Universal AI coding cost analyzer CLI. Scans Claude Code, Cursor, and GitHub Copilot usage with cache-aware pricing, HTML dashboard, and cost alerting. No API key required.
+
+
+### Model Routing & API Gateways
+
+Unified API endpoints for routing requests across multiple AI model providers:
+
+- [FuturMix](https://futurmix.ai) — Unified AI gateway providing OpenAI-compatible access to 22+ models from OpenAI, Anthropic, and Google through a single API endpoint. Features 99.99% SLA, automatic failover, and usage-based pricing. Drop-in replacement for any tool that supports custom base URLs.
 
 ---
 
