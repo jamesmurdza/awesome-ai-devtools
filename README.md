@@ -383,6 +383,7 @@ Tools that manage and sync AI agent configurations, rules, and context across ed
 - [Gestalt](https://github.com/dwgoldie/gestalt) — Model-agnostic thinking protocol (AGENTS.md) that shapes how AI coding agents reason. Less filler, more substance, honest about limits. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI.
 - [Agentify](https://github.com/koriyoshi2041/agentify) — CLI tool that transforms any OpenAPI spec into 9 agent interface formats (MCP server, AGENTS.md, CLAUDE.md, .cursorrules, Skills, llms.txt, GEMINI.md, A2A Card, CLI) with a single command. Tiered generation strategies for small to large APIs.
 - [skill-optimizer](https://github.com/fastxyz/skill-optimizer) — CLI that benchmarks SDK, CLI, and MCP guidance docs (SKILL.md) against multiple LLMs and runs an iterative optimizer to rewrite them until every configured model meets a score floor.
+- [Puppyone](https://github.com/puppyone-ai/puppyone) — Self-hostable file system for AI coding agents. Auto-versioned writes, per-agent ACLs (File Level Security), audit logs, and 15+ OAuth connectors (Notion/GitHub/Drive/Linear) syncing external sources as agent-readable files. Native MCP / REST / CLI / sandbox bindings to one persistent Context Space. Apache 2.0, Docker self-host.
 
 ### Usage Analytics & Cost Tracking
 
