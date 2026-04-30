@@ -50,7 +50,7 @@ Full development environments with AI for code generation, chat, and debugging:
 - [Zed](https://zed.dev/) — A high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [Replit](https://replit.com/) — Web-based IDE with cloud developer environments, code completion, chat, a software development agent and deployments.
 - [Google Antigravity](https://antigravity.google/) — An agent-first IDE that orchestrates autonomous AI agents to plan, execute, and verify complex coding tasks with deep browser integration.
-- [trae](https://www.trae.ai/) — Trae is an adaptive AI IDE that transforms how you work, collaborating with you to run faster.
+- [Trae](https://www.trae.ai/) — Trae is an adaptive AI IDE that transforms how you work, collaborating with you to run faster.
 - [PearAI](https://trypear.ai/) — An open source fork of VS Code with chat and inline code generation.
 - [Crystal](https://github.com/stravu/crystal) — A new type of dev environment to manage, inspect, and test parallel Claude Code sessions.
 - [Theia IDE](https://theia-ide.org/#theiaide) — An extensible open-source IDE (web and desktop) providing AI-powered features like chat, code completion, terminal assistance and custom agents using arbitrary LLMs. Built on [Theia AI](https://eclipsesource.com/blogs/2024/10/07/introducing-theia-ai/), a platform designed to enable the creation of custom, AI-powered tools and IDEs.
@@ -102,7 +102,7 @@ Plugins that add AI-powered completion, chat, and refactoring to existing code e
 
 Autonomous CLI agents that generate code, execute shell commands, and manage multi-file workflows:
 
-- [Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview) - Anthropic's agentic coding tool.
+- [Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview) — Anthropic's agentic coding tool.
 - [OpenAI Codex CLI](https://openai.com/codex/) — OpenAI's official lightweight coding agent that runs in your terminal. Executes code, manipulates files, and iterates with the user. Fully open-source with support for multiple AI providers.
 - [Aider](https://aider.chat/) — Popular CLI assistant and agent that generates changes and commits to repositories. Supports multiple LLM providers with built-in benchmarks. 25k+ GitHub stars.
 - [OpenHands](https://www.all-hands.dev/) — Open-source autonomous AI software developer (formerly OpenDevin). Features a full development environment with code editor, terminal, and browser for end-to-end task completion. 50k+ GitHub stars.
@@ -112,7 +112,7 @@ Autonomous CLI agents that generate code, execute shell commands, and manage mul
 - [GPT-Pilot](https://github.com/Pythagora-io/gpt-pilot) — AI developer that writes entire scalable apps from scratch while the developer oversees the implementation. Creates apps step-by-step with human collaboration. 30k+ GitHub stars.
 - [Goose](https://block.github.io/goose/) — Block's open-source autonomous AI coding agent that operates on your machine. Extensible with MCP, works with multiple LLM providers, and handles complex multi-step development tasks.
 - [Plandex](https://plandex.ai/) — Terminal-based AI coding agent for complex, multi-file tasks. Features built-in version control, iterative planning, and context management across large codebases.
-- [Amazon Q Developer CLI](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/command-line.html?trk=fd6bb27a-13b0-4286-8269-c7b1cfaa29f0&sc_channel=el) - CLI that provides command completion, command translation using generative AI to translate intent to commands, and a full agentic chat interface with context management that helps you write code. It works with many terminals and shells, on macOS, Linux and Windows (via WSL).
+- [Amazon Q Developer CLI](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/command-line.html?trk=fd6bb27a-13b0-4286-8269-c7b1cfaa29f0&sc_channel=el) — CLI that provides command completion, command translation using generative AI to translate intent to commands, and a full agentic chat interface with context management that helps you write code. It works with many terminals and shells, on macOS, Linux and Windows (via WSL).
 - [GPT Engineer](https://github.com/AntonOsika/gpt-engineer) — CLI agent that generates a repository from a prompt, and asks clarifying questions.
 - [Cosine](https://cosine.sh/) — Agentic AI software engineer for enterprise codebases. Handles bug fixes, feature development, refactors, and PR generation with air-gapped and VPC deployment options.
 - [Smol Developer](https://github.com/smol-ai/developer) — CLI agent that generates a repository from a prompt. Uses OpenAI and Anthropic.
@@ -130,14 +130,14 @@ Lightweight command-line tools for AI-assisted commits, shell translation, and w
 
 - [aloc](https://github.com/modern-tooling/aloc) — A modern, AI-augmented lines of code counter built with Rust and Ratatui. Uses AI effort profiles for accurate project estimation.
 - [gptcomet](https://github.com/belingud/gptcomet) — CLI tool to help you generate commit message and review changes. Supports multiple providers and languages.
-- [cmd-ai](https://github.com/BrodaNoel/cmd-ai) - Turns natural language into executable shell commands (e.g., `ai Tell me the free space on disk`)
-- [Baz CLI](https://github.com/baz-scm/baz-cli) - CLI for AI assisted code review, with access to the actual code, diff etc.
+- [cmd-ai](https://github.com/BrodaNoel/cmd-ai) — Turns natural language into executable shell commands (e.g., `ai Tell me the free space on disk`)
+- [Baz CLI](https://github.com/baz-scm/baz-cli) — CLI for AI assisted code review, with access to the actual code, diff etc.
 - [models](https://github.com/arimxyer/models) — A TUI for browsing AI models, benchmarks from Artificial Analysis, and coding agents with GitHub integration. Built with Rust and Ratatui.
 - [CCG Workflow](https://github.com/fengshao1227/ccg-workflow) — Multi-model collaboration system for Claude Code. Orchestrates Claude + Codex + Gemini with 28 slash commands, smart routing (Gemini for frontend, Codex for backend), Agent Teams for parallel development, and 6 built-in quality gate skills. One-command install via npx.
 - [aiignore-cli](https://github.com/yjcho9317/aiignore-cli) — Generates ignore configs for 7 AI coding tools based on per-tool bypass testing. Like `npx gitignore` but for Cursor, Claude Code, Gemini, JetBrains, Windsurf, Aider, and Copilot.
 - [Butterfish](https://butterfi.sh) — CLI tool that embeds ChatGPT in your shell for easy access. Includes simple agentic capabilities.
-- [TmuxAI](https://tmuxai.dev/) - AI-powered, non-intrusive terminal assistant.
-- [intelli-shell](https://github.com/lasantosr/intelli-shell) - Manage command templates/snippets with dynamic completions and AI integration.
+- [TmuxAI](https://tmuxai.dev/) — AI-powered, non-intrusive terminal assistant.
+- [intelli-shell](https://github.com/lasantosr/intelli-shell) — Manage command templates/snippets with dynamic completions and AI integration.
 - [Hermes IDE](https://www.hermes-ide.com) — AI-powered shell wrapper for zsh, bash, and fish that adds ghost-text completions, autonomous task execution, full git management with worktrees, and multi-project sessions. Free and open source.
 - [resume-cli](https://github.com/inevolin/resume-cli) — CLI that aggregates recent sessions from Claude Code, Codex, and GitHub Copilot in one place. Pick a session and resume it in any of the three tools.
 - [codesight](https://github.com/Houseofmvps/codesight) — CLI token optimizer and AI context generator. Scans codebases to extract routes, schema, components, and dependencies for Claude Code, Cursor, Copilot, Codex, and Windsurf. 9x–13x token reduction, built-in MCP server, zero runtime dependencies. `npx codesight`
@@ -211,7 +211,7 @@ Tools for understanding, navigating, and getting answers about existing codebase
 - [Onboard](https://www.getonboardai.com) — Chat with an AI about public and private codebases.
 - [CodeSquire](https://codesquire.ai/) — Chrome extension that adds autocomplete to Google Colab, BigQuery, and JupyterLab.
 - [Code to Flow](https://codetoflow.com) — Visualize, analyze, and understand code with interactive flowcharts.
-- [Gru.ai](https://www.gru.ai/) — An AI developer can help you solve technical problems and tackle daily coding tasks, such as building algorithms, debugging issues, testing solutions, answering programming questions, etc.
+- [Gru.ai](https://www.gru.ai/) — An AI developer that can help you solve technical problems and tackle daily coding tasks, such as building algorithms, debugging issues, testing solutions, answering programming questions, etc.
 - [sudocode](https://sudocode.ai/) — Context management system for AI coding agents that creates organizational structures to track context over long-horizon tasks.
 
 #### Database & SQL
@@ -247,7 +247,7 @@ Plugins that extend ChatGPT with code search and repository context:
 
 Native desktop apps for AI-powered coding, terminal enhancement, and agent orchestration:
 
-- [Warp](https://www.warp.dev/) - Warp brings AI and team knowledge together in a single, fast, and intuitive terminal.
+- [Warp](https://www.warp.dev/) — Warp brings AI and team knowledge together in a single, fast, and intuitive terminal.
 - [Pieces](https://pieces.app/) — AI-enabled desktop application and browser extension designed to assist developers in enhancing productivity.
 - [Memex](https://memex.tech/) — Build anything in any stack, with just natural language, on your desktop.
 - [Poirot](https://github.com/LeonardoCardoso/Poirot) — A macOS app for browsing Claude Code sessions, exploring diffs, and re-running commands. Reads local transcripts, runs offline, open source.
@@ -255,8 +255,8 @@ Native desktop apps for AI-powered coding, terminal enhancement, and agent orche
 - [CCHub](https://github.com/Moresl/cchub) — Claude Code ecosystem management platform with visual GUI for MCP server management, skill management, multi-config switching, custom slash commands, and JSON config editing. Built with Tauri v2.
 - [Mantra](https://mantra.gonewx.com) — Desktop session time machine for AI coding tools. Captures and restores full conversation state for Claude Code, Cursor, and Windsurf — like quicksave for your AI sessions. Free for macOS.
 - [Dorothy](https://github.com/Charlie85270/Dorothy) — Open-source desktop app to orchestrate multiple AI coding agents (Claude Code, Codex, Gemini) simultaneously with automations, Kanban management, and remote control.
-- [Nimbalyst](https://nimbalyst.com) - An agent management environment for Claude Code and Codex. Interactive visual editing of markdown, mockups, excalidraw, code. Parallel session management.
-- [Parallel Code](https://github.com/johannesjo/parallel-code) - Desktop app that runs multiple AI coding agents (Claude Code, Codex CLI, Gemini CLI) in parallel with automatic git worktree isolation, a unified GUI, and remote monitoring.
+- [Nimbalyst](https://nimbalyst.com) — An agent management environment for Claude Code and Codex. Interactive visual editing of markdown, mockups, excalidraw, code. Parallel session management.
+- [Parallel Code](https://github.com/johannesjo/parallel-code) — Desktop app that runs multiple AI coding agents (Claude Code, Codex CLI, Gemini CLI) in parallel with automatic git worktree isolation, a unified GUI, and remote monitoring.
 - [PATAPIM](https://patapim.ai) — Terminal IDE for AI coding agents with a 9-terminal grid, AI state detection, built-in Whisper voice dictation, LAN remote access, and embedded MCP browser. Built with Electron.
 - [IM.codes](https://github.com/im4codes/imcodes) — Mobile/web control layer for Claude Code, Codex, Gemini CLI, and other terminal-based coding agents, built for away-from-desk continuation with terminal access, file browsing, git views, localhost preview, notifications, and multi-agent workflows.
 
@@ -266,7 +266,7 @@ Native desktop apps for AI-powered coding, terminal enhancement, and agent orche
 
 Mobile apps for running AI coding agents and accessing dev environments on the go:
 
-- [Onepilot](https://onepilotapp.com) — iOS app for running AI coding agents (Claude Code, Codex CLI, Gemini CLI) on remote servers via SSH. Provides a full terminal with SwiftTerm, agent session management, and mobile access to your dev machines.
+- [Onepilot](https://onepilotapp.com) — An iOS app for running AI coding agents (Claude Code, Codex CLI, Gemini CLI) on remote servers via SSH. Provides a full terminal with SwiftTerm, agent session management, and mobile access to your dev machines.
 
 ---
 
@@ -279,7 +279,7 @@ Integrations that automatically review pull requests and suggest code fixes:
 - [CodeRabbit](https://coderabbit.ai/) — Customizable CI to add summaries and code suggestions to PRs.
 - [Qodo PR Agent](https://github.com/qodo-ai/pr-agent) — Open source tool for automated code reviews. Qodo was formerly known as Codium (not to be confused with Codeium with an "E").
 - [Greptile](https://greptile.com/code-review-bot) — AI bot that reviews PRs in GitHub/GitLab with full context of the codebase.
-- [Macroscope](https://macroscope.com/code-review) - AI-powered code review for GitHub that uses ASTs to build a graph-based representation of your codebase & pulls context from your issue management systems.
+- [Macroscope](https://macroscope.com/code-review) — AI-powered code review for GitHub that uses ASTs to build a graph-based representation of your codebase & pulls context from your issue management systems.
 - [EntelligenceAI](https://entelligence.ai/pr) — AI powered code reviews for GitHub and GitLab that improves over time based on user comments.
 - [Codegen](https://www.codegen.com/) — GPT-4 based PR agent for enterprise codebases.
 - [Nova](https://www.trynova.ai/) — CI bot to add actions such as summaries and tests to new PRs.
@@ -292,9 +292,9 @@ Integrations that automatically review pull requests and suggest code fixes:
 - [Trag](https://usetrag.com/) — AI powered code reviews with pre-defined instructions and patterns.
 - [CodeReviewBot](https://codereviewbot.ai/) — AI powered code reviews for GitHub.
 - [Callstack.ai Code Reviewer](https://callstack.ai/code-reviewer) — AI-powered PR reviewer for GitHub, designed to identify bugs, security issues, and performance bottlenecks.
-- [Matter AI](https://matterai.dev) - Open Source AI Code Reviewer to help engineering teams release code with confidence.
-- [Gito](https://github.com/Nayjest/Gito) - AI code reviewer that works with any language model, locally or in GitHub Actions.
-- [Baz](https://baz.co) - AI Code Reviewer that is tailored to your team's guidelines and conventions. Customizable, adaptable, responsive and integrated with the rest of the developer tooling for context.
+- [Matter AI](https://matterai.dev) — Open Source AI Code Reviewer to help engineering teams release code with confidence.
+- [Gito](https://github.com/Nayjest/Gito) — AI code reviewer that works with any language model, locally or in GitHub Actions.
+- [Baz](https://baz.co) — AI Code Reviewer that is tailored to your team's guidelines and conventions. Customizable, adaptable, responsive and integrated with the rest of the developer tooling for context.
 - [Z.ai Code Review](https://github.com/tarmojussila/zai-code-review) - AI-powered GitHub Pull Request code review using Z.ai models.
 - [MiniMax Code Review](https://github.com/tarmojussila/minimax-code-review) - AI-powered GitHub Pull Request code review using MiniMax models.
 - [claude-pr-reviewer](https://github.com/indoor47/claude-pr-reviewer) - GitHub Action + CLI that uses Claude AI to automatically review pull requests, post inline comments, and report token costs. Supports strictness levels (lenient/balanced/strict). Zero dependencies, Python 3.8+.
@@ -407,10 +407,10 @@ Tools for monitoring token usage and API costs across AI providers:
 
 Tools that generate commit messages and PR descriptions from diffs:
 
-- [git-lrc](https://github.com/HexmosTech/git-lrc) - Free, unlimited AI code reviews that run on every commit.
+- [git-lrc](https://github.com/HexmosTech/git-lrc) — Free, unlimited AI code reviews that run on every commit.
 - [GitBrain](https://gitbrain.dev/) — Git client that simplifies the git workflow. Splits code changes, generates summaries & commit messages for code changes. Uses OpenAI.
 - [GitButler](https://gitbutler.com/) — Git client for simultaneous branches on top of your existing workflow. Defaults to OpenAI, can be changed to Perplexity for generating conventional commit messages.
-- [AI Git Narrator](https://github.com/pmusolino/AI-Git-Narrator) - CLI tool that uses AI to automatically generate high-quality Git commit messages and pull request descriptions.
+- [AI Git Narrator](https://github.com/pmusolino/AI-Git-Narrator) — CLI tool that uses AI to automatically generate high-quality Git commit messages and pull request descriptions.
 
 ### Documentation Generation
 
