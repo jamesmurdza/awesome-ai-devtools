@@ -321,6 +321,7 @@ Tools that generate unit/e2e tests and integrate AI into CI/CD pipelines:
 - [DiffBlue](https://www.diffblue.com/) — Automatically generated unit tests for Java.
 - [Qodo](https://www.qodo.ai/) — Non-trivial test generation with support for major programming languages. Extensions for VS Code and JetBrains. (formerly Codium)
 - [DeepUnit](https://www.deepunit.ai/) — Thoughtful test cases and generation of complete unit test files. Available as an interactive VS Code extension, npm package, CLI or CI/CD pipeline.
+- [GenOps](https://github.com/neerazz/genops-framework) — Governance-first CI/CD framework for AI-assisted software delivery. Embeds context bridging, semantic drift detection, ethical guardrails, and compliance automation directly into pipelines; peer-reviewed in Scopus-indexed JISEM (2026).
 - [KushoAI](https://kusho.ai/role-wise-use-case/software-engineers) — AI agent for API testing which transforms your Postman collections, OpenAPI specs, curl commands, etc. into exhaustive test suites that plug into your CI/CD pipeline.
 - [Test Gru](https://gru.ai/home#test-gru) — Provides enterprise-level unit test automation services.
 - [TraceRoot AI](https://traceroot.ai/) — AI-native observability tool that uses AI agents to automatically fix production bugs.
