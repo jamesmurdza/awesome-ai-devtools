@@ -391,6 +391,7 @@ Tools that manage and sync AI agent configurations, rules, and context across ed
 - [Agentify](https://github.com/koriyoshi2041/agentify) — CLI tool that transforms any OpenAPI spec into 9 agent interface formats (MCP server, AGENTS.md, CLAUDE.md, .cursorrules, Skills, llms.txt, GEMINI.md, A2A Card, CLI) with a single command. Tiered generation strategies for small to large APIs.
 - [skill-optimizer](https://github.com/fastxyz/skill-optimizer) — CLI that benchmarks SDK, CLI, and MCP guidance docs (SKILL.md) against multiple LLMs and runs an iterative optimizer to rewrite them until every configured model meets a score floor.
 - [KubeStellar Console kc-agent](https://github.com/kubestellar/console) — MCP server that bridges AI coding agents (Claude Code, Copilot, Codex) to multi-cluster Kubernetes APIs. Enables natural language queries across clusters, workload placement, policy enforcement, and real-time observability. CNCF Sandbox project.
+- [SwarmVault](https://github.com/swarmclawai/swarmvault) - Local-first RAG knowledge vault and MCP server. Compiles raw sources (books, notes, transcripts, exports, datasets, slide decks, files, URLs, code) into a durable markdown wiki with a knowledge graph and a hybrid SQLite FTS plus embeddings index. The bundled MCP server (`npx -y @swarmvaultai/cli mcp`) gives Claude Code, Codex, OpenCode, and any MCP client page search, page reads, source listing, query, ingest, compile, and lint tools. MIT.
 
 ### Usage Analytics & Cost Tracking
 
