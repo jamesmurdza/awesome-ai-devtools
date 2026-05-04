@@ -314,6 +314,9 @@ Integrations that automatically review pull requests and suggest code fixes:
 
 Tools that generate unit/e2e tests and integrate AI into CI/CD pipelines:
 
+- [BeLikeNative Grammar Check](https://github.com/theluckystrike/belikenative-grammar-check) — GitHub Action that runs L1-aware grammar and spelling checks on PRs and pushes. 70 local rules, zero API keys.
+- [BeLikeNative i18n Checker](https://github.com/theluckystrike/bln-i18n-checker) — GitHub Action that validates internationalization files for grammar, placeholders, and consistency.
+- [BeLikeNative Writing Assistant](https://github.com/theluckystrike/bln-writing-assistant) — GitHub Action that reviews documentation and markdown files for style, clarity, and grammar.
 - [Checksum AI](https://checksum.ai) — End-to-end fully autonomous QA Automation agent that generates CI/CD ready Playwright tests directly to the repository.
 - [OctoMind](https://octomind.dev) — Auto-maintenance and generated browser-based end-to-end-tests integrated into GitHub Actions, Azure DevOps and more.
 - [Traceloop](https://traceloop.com/) — Uses OpenTelemetry tracing data with generative AI to improve system reliability.
@@ -415,6 +418,7 @@ Tools for monitoring token usage and API costs across AI providers:
 
 Tools that generate commit messages and PR descriptions from diffs:
 
+- [BeLikeNative Commit Lint](https://github.com/theluckystrike/bln-commit-lint) — GitHub Action that checks commit messages for grammar and style using L1-aware rules. Zero API keys needed.
 - [git-lrc](https://github.com/HexmosTech/git-lrc) - Free, unlimited AI code reviews that run on every commit.
 - [GitBrain](https://gitbrain.dev/) — Git client that simplifies the git workflow. Splits code changes, generates summaries & commit messages for code changes. Uses OpenAI.
 - [GitButler](https://gitbutler.com/) — Git client for simultaneous branches on top of your existing workflow. Defaults to OpenAI, can be changed to Perplexity for generating conventional commit messages.
