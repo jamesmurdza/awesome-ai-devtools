@@ -143,6 +143,7 @@ Lightweight command-line tools for AI-assisted commits, shell translation, and w
 - [resume-cli](https://github.com/inevolin/resume-cli) — CLI that aggregates recent sessions from Claude Code, Codex, and GitHub Copilot in one place. Pick a session and resume it in any of the three tools.
 - [codesight](https://github.com/Houseofmvps/codesight) — CLI token optimizer and AI context generator. Scans codebases to extract routes, schema, components, and dependencies for Claude Code, Cursor, Copilot, Codex, and Windsurf. 9x–13x token reduction, built-in MCP server, zero runtime dependencies. `npx codesight`
 - [CLIRank](https://clirank.dev) — API directory scoring 387 APIs on agent-friendliness across 11 signals. Available as an MCP server (`clirank-mcp-server`) and REST API.
+- [Uni-CLI](https://github.com/olo-dot-io/Uni-CLI) — Self-repairing CLI catalog exposing 237+ websites, desktop apps, and external CLIs as deterministic commands for AI agents. 920 declarative YAML adapters; structured error envelopes (`adapter_path`, `step`, `suggestion`) let agents fix failing adapters and retry. Optional MCP server (stdio + Streamable HTTP). Median ~80 tokens per call.
 
 ---
 
