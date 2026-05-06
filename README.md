@@ -406,6 +406,7 @@ Tools for monitoring token usage and API costs across AI providers:
 - [CodeCosts](https://codecosts.pages.dev) — Interactive cost calculator and comparison tool for AI coding tools. Uses the ai-coding-tools-pricing dataset to help developers pick the right plan.
 - [aicost](https://github.com/dwylq/aicost) — Universal AI coding cost analyzer CLI. Scans Claude Code, Cursor, and GitHub Copilot usage with cache-aware pricing, HTML dashboard, and cost alerting. No API key required.
 - [CostGoat](https://costgoat.com) — Privacy-first menubar app for tracking AI agent quotas (Claude Code, Codex, Kimi, Z.ai) and LLM API costs (OpenAI, OpenRouter, Anthropic, ElevenLabs) in real-time. Also covers cloud spend and SaaS subscriptions.
+- [TinyTools AI Cost Calculator](https://tinytools-smoky.vercel.app/) — Free in-browser comparison calculator for token pricing across major LLM providers (Claude, GPT, Gemini). No signup, no API key, fully client-side. Part of TinyTools — a small open-source bundle that also includes an AI robots.txt generator (granular controls for GPTBot, ClaudeBot, PerplexityBot, etc.) and an EU AI Act-compliant AI content disclosure generator.
 
 ---
 
