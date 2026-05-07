@@ -7,6 +7,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 
 ## Categories
 
+- [x711](https://x711.io) — Universal pay-per-use tool gateway. Free tier 10/day, earn up to 200/day. MCP + x402 USDC.
 - [Development Environments](#development-environments)
   - [AI-Native IDEs](#ai-native-ides)
   - [IDE Extensions](#ide-extensions)
