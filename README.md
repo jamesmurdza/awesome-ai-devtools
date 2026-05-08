@@ -94,6 +94,7 @@ Plugins that add AI-powered completion, chat, and refactoring to existing code e
 - [Sweep](https://sweep.dev/) — AI coding plugin for JetBrains IDEs with autocomplete, codebase indexing, and context-aware suggestions. Uses proprietary LLMs with zero data retention.
 - [Antigravity Link](https://github.com/cafeTechne/antigravity-link-extension) — VS Code extension that bridges mobile devices to Google's Antigravity IDE. Mirror active AI chat sessions on your phone, send messages, upload files, stop AI generation, and automate workflows via a local HTTP API or 9 MCP tools. Listed in the official MCP Registry.
 - [Shadcn Space MCP](https://shadcnspace.com/mcp) — Connect Cursor, Claude Code, Antigravity, VS Code, and other AI tools to the Shadcn Space component registry.
+- [ReactUse MCP](https://github.com/childrentime/reactuse) — Integrate the [ReactUse](https://reactuse.com) library (110+ React Hooks, TypeScript-first, SSR-compatible) directly into your IDE. Lets AI assistants discover hook signatures, demos, and usage patterns from the docs.
 
 ---
 
