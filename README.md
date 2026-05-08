@@ -31,6 +31,9 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
   - [Sandboxing & Isolation](#sandboxing--isolation)
   - [Configuration & Context Management](#configuration--context-management)
   - [Usage Analytics & Cost Tracking](#usage-analytics--cost-tracking)
+- **[OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor)** — Real-time AI agent monitoring dashboard. Tracks Gateway status, session metrics, token usage and message trends. | [[flik2002](https://github.com/flik2002)]
+
+
 - [Specialized Tools](#specialized-tools)
   - [Git & Commit Helpers](#git--commit-helpers)
   - [Documentation Generation](#documentation-generation)
