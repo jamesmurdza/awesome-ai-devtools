@@ -391,6 +391,8 @@ Tools that manage and sync AI agent configurations, rules, and context across ed
 - [Agentify](https://github.com/koriyoshi2041/agentify) — CLI tool that transforms any OpenAPI spec into 9 agent interface formats (MCP server, AGENTS.md, CLAUDE.md, .cursorrules, Skills, llms.txt, GEMINI.md, A2A Card, CLI) with a single command. Tiered generation strategies for small to large APIs.
 - [skill-optimizer](https://github.com/fastxyz/skill-optimizer) — CLI that benchmarks SDK, CLI, and MCP guidance docs (SKILL.md) against multiple LLMs and runs an iterative optimizer to rewrite them until every configured model meets a score floor.
 - [KubeStellar Console kc-agent](https://github.com/kubestellar/console) — MCP server that bridges AI coding agents (Claude Code, Copilot, Codex) to multi-cluster Kubernetes APIs. Enables natural language queries across clusters, workload placement, policy enforcement, and real-time observability. CNCF Sandbox project.
+- [claude-code-pro-pack](https://github.com/sisyphusse1-ops/claude-code-pro-pack) — Drop-in 12-rule `CLAUDE.md` + `AGENTS.md` baseline that closes common agent-orchestration failures (token spirals, silent partial failures, two-pattern pollution). Includes PRD generator prompt, browser-skill-graduation workflow, and 5 example skills. ~700 tokens total, MIT.
+- [cc-audit](https://github.com/sisyphusse1-ops/cc-audit) — Single-file Python linter that scores any `CLAUDE.md` / `AGENTS.md` against a 12-rule baseline. Flags leaked secrets (GitHub PATs, AWS keys, PayPal links), the 200-line compliance cliff, and missing project-specifics sections. Zero dependencies, JSON output for CI, MIT.
 
 ### Usage Analytics & Cost Tracking
 
