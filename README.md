@@ -128,6 +128,7 @@ Autonomous CLI agents that generate code, execute shell commands, and manage mul
 ### CLI Utilities
 
 Lightweight command-line tools for AI-assisted commits, shell translation, and workflow automation:
+- [ARC-Neuron LLMBuilder](https://github.com/GareBear99/ARC-Neuron-LLMBuilder) — Local-first AI model lifecycle framework for benchmark receipts, candidate/incumbent model promotion, archive-ready lineage, and governed small-model improvement.
 
 - [aloc](https://github.com/modern-tooling/aloc) — A modern, AI-augmented lines of code counter built with Rust and Ratatui. Uses AI effort profiles for accurate project estimation.
 - [gptcomet](https://github.com/belingud/gptcomet) — CLI tool to help you generate commit message and review changes. Supports multiple providers and languages.
