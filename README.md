@@ -31,6 +31,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
   - [Sandboxing & Isolation](#sandboxing--isolation)
   - [Configuration & Context Management](#configuration--context-management)
   - [Usage Analytics & Cost Tracking](#usage-analytics--cost-tracking)
+  - [Memory & Knowledge](#memory--knowledge)
 - [Specialized Tools](#specialized-tools)
   - [Git & Commit Helpers](#git--commit-helpers)
   - [Documentation Generation](#documentation-generation)
@@ -406,6 +407,12 @@ Tools for monitoring token usage and API costs across AI providers:
 - [CodeCosts](https://codecosts.pages.dev) — Interactive cost calculator and comparison tool for AI coding tools. Uses the ai-coding-tools-pricing dataset to help developers pick the right plan.
 - [aicost](https://github.com/dwylq/aicost) — Universal AI coding cost analyzer CLI. Scans Claude Code, Cursor, and GitHub Copilot usage with cache-aware pricing, HTML dashboard, and cost alerting. No API key required.
 - [CostGoat](https://costgoat.com) — Privacy-first menubar app for tracking AI agent quotas (Claude Code, Codex, Kimi, Z.ai) and LLM API costs (OpenAI, OpenRouter, Anthropic, ElevenLabs) in real-time. Also covers cloud spend and SaaS subscriptions.
+
+### Memory & Knowledge
+
+Tools for giving AI coding agents persistent memory and structured knowledge access:
+
+- [dakera-cli](https://github.com/Dakera-AI/dakera-mcp) — Rust CLI for managing a self-hosted agent memory server during development — inspect memories, manage namespaces, query vectors, and configure decay from the command line.
 
 ---
 
