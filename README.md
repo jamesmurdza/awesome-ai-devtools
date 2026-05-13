@@ -412,7 +412,7 @@ Tools for monitoring token usage and API costs across AI providers:
 
 Tools for giving AI coding agents persistent memory and structured knowledge access:
 
-- [dakera-cli](https://github.com/Dakera-AI/dakera-mcp) — Rust CLI for managing a self-hosted agent memory server during development — inspect memories, manage namespaces, query vectors, and configure decay from the command line.
+- [dakera-cli](https://github.com/Dakera-AI/dakera-cli) — Rust CLI for managing a self-hosted agent memory server during development — inspect memories, manage namespaces, query vectors, and configure decay from the command line.
 
 ---
 
