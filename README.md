@@ -20,9 +20,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
   - [Codebase Intelligence](#codebase-intelligence)
   - [Database & SQL](#database--sql)
   - [Snippet & Utility Tools](#snippet--utility-tools)
-  - [ChatGPT Plugins](#chatgpt-plugins)
-- [Desktop Applications](#desktop-applications)
-- [Mobile Applications](#mobile-applications)
+- [Desktop & Mobile Applications](#desktop--mobile-applications)
 - [Automated Workflows](#automated-workflows)
   - [PR & Code Review Bots](#pr--code-review-bots)
   - [CI/CD & Testing Automation](#cicd--testing-automation)
@@ -34,7 +32,6 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Specialized Tools](#specialized-tools)
   - [Git & Commit Helpers](#git--commit-helpers)
   - [Documentation Generation](#documentation-generation)
-  - [Code Search & Understanding](#code-search--understanding)
 - [Resources](#resources)
 
 ---
@@ -230,6 +227,8 @@ Tools for understanding, navigating, and getting answers about existing codebase
 - [sourcebook](https://github.com/maroondlabs/sourcebook) — CLI and MCP server that generates AGENTS.md/CLAUDE.md from static analysis of codebase structure, git history, and convention detection. Surfaces hub files, co-change coupling, and blast radius. No LLM required.
 - [Grasp](https://github.com/ashfordeOU/grasp) — Code architecture visualizer: paste any GitHub/GitLab URL → interactive dependency graph (9 layouts, 16 colour modes), A–F health score, security scanner (SARIF 2.1 export), blast radius, churn heatmap, ORM query map, and AI chat (15 providers). 116 MCP tools with Kuzu graph DB + SQLite brain. Zero data collection, everything runs locally.
 - [Kasava](https://kasava.dev) - Parses codebases and reads every commit so progress reports cite real changes and feature plans are made with real architecture context.
+- [SeaGOAT](https://kantord.github.io/SeaGOAT/latest/) — A local search tool leveraging vector embeddings to search your codebase semantically.
+- [ContextWire](https://contextwire.dev) — Free search API for AI agents with 105 engines, 22 search profiles, and 94.3% SimpleQA accuracy. MCP server included.
 
 ### Database & SQL
 
@@ -253,19 +252,11 @@ Web utilities for quick code generation, language translation, and regex creatio
 - [CronAI](https://cronai-nu.vercel.app/) — Converts plain English schedule descriptions into correct cron expressions using AI.
 - [RegexAI](https://regexai-six.vercel.app/) — Generates working regular expressions from plain English descriptions with explanations. Supports multiple regex flavors.
 
-
-### ChatGPT Plugins
-
-Plugins that extend ChatGPT with code search and repository context:
-
-- [ChatWithGit](https://plugins.sdan.io/git) — Enables ChatGPT to search GitHub and return links to relevant repositories.
-- [Code ChatGPT Plugin](https://github.com/kesor/chatgpt-code-plugin) — Open source example of a ChatGPT plugin that pulls context from a directory of files.
-
 ---
 
-## Desktop Applications
+## Desktop & Mobile Applications
 
-Native desktop apps for AI-powered coding, terminal enhancement, and agent orchestration:
+Native apps for AI-powered coding, terminal enhancement, and agent orchestration:
 
 - [Warp](https://www.warp.dev/) — AI-powered terminal with team knowledge sharing and command suggestions.
 - [Pieces](https://pieces.app/) — AI-powered snippet manager and context engine with desktop app and browser extension.
@@ -280,13 +271,6 @@ Native desktop apps for AI-powered coding, terminal enhancement, and agent orche
 - [PATAPIM](https://patapim.ai) — Terminal IDE for AI coding agents with a 9-terminal grid, AI state detection, built-in Whisper voice dictation, LAN remote access, and embedded MCP browser. Built with Electron.
 - [IM.codes](https://github.com/im4codes/imcodes) — Mobile/web control layer for Claude Code, Codex, Gemini CLI, and other terminal-based coding agents, built for away-from-desk continuation with terminal access, file browsing, git views, localhost preview, notifications, and multi-agent workflows.
 - [OpenQuack](https://github.com/larryxiao/openquack) - Privacy-first local voice dictation menu bar app for macOS. Pairs with Claude Code, Cursor, Codex, and Aider to dictate long contextual prompts; transcribes via WhisperKit on Apple Silicon, pastes at the cursor, ~8 MB, MIT.
-
----
-
-## Mobile Applications
-
-Mobile apps for running AI coding agents and accessing dev environments on the go:
-
 - [Onepilot](https://onepilotapp.com) — iOS app for running AI coding agents (Claude Code, Codex CLI, Gemini CLI) on remote servers via SSH. Provides a full terminal with SwiftTerm, agent session management, and mobile access to your dev machines.
 
 ---
@@ -471,13 +455,6 @@ Tools that auto-generate documentation, diagrams, and changelogs from source cod
 - [CodexAtlas](https://codedocumentation.app/) — Automated code and API documentation using latest AI models.
 - [EkLine](https://ekline.io/) — AI-powered documentation tool with quality checks, style guide enforcement, and automatic doc generation.
 - [Changenotes](https://changenotes.app) — AI-powered changelog generator. Connects to GitHub, auto-generates categorized changelogs from commits and PRs on every release. Free tier available, Pro $9/mo.
-
-### Code Search & Understanding
-
-Semantic search tools that find code using natural language queries and embeddings:
-
-- [SeaGOAT](https://kantord.github.io/SeaGOAT/latest/) — A local search tool leveraging vector embeddings to search your codebase semantically.
-- [ContextWire](https://contextwire.dev) — Free search API for AI agents with 105 engines, 22 search profiles, and 94.3% SimpleQA accuracy. MCP server included.
 
 ---
 
