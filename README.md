@@ -156,7 +156,7 @@ Lightweight command-line tools for AI-assisted commits, shell translation, and w
 
 ## Web-Based Tools
 
-#### App Builders
+### App Builders
 
 Platforms that scaffold and deploy full-stack applications from natural language prompts:
 
@@ -186,7 +186,7 @@ Platforms that scaffold and deploy full-stack applications from natural language
 - [Fastshot](https://fastshot.ai/) — AI driven no-code platform for building and deploying mobile apps.
 - [ai-vertical-saas-gen](https://github.com/kurtnebiev-elvis4/ai-vertical-saas-gen) — CLI that generates complete vertical SaaS apps (Next.js 14 + Supabase) with industry-specific data models for 20+ niches. Zero dependencies, offline, outputs 20 deployable files in one command.
 
-#### UI Generators
+### UI Generators
 
 Tools that generate components, mockups, and frontend code from text prompts or design files:
 
@@ -204,7 +204,7 @@ Tools that generate components, mockups, and frontend code from text prompts or 
 - [Telex](https://telex.automatica.ai/) — AI-powered WordPress block and theme generator. Describe your idea and it builds WordPress blocks for you.
 - [Frontman](https://frontman.sh/) — Open-source AI coding agent that lives in your browser. Click any element, describe changes in plain English, get real code edits with hot reload. Supports Next.js, Vite (React, Vue, Svelte), and Astro. [Source](https://github.com/frontman-ai/frontman)
 
-#### Coding Agents
+### Coding Agents
 
 Autonomous AI agents that work on existing codebases to fix bugs, refactor code, and create pull requests:
 
@@ -213,7 +213,7 @@ Autonomous AI agents that work on existing codebases to fix bugs, refactor code,
 - [Potpie](https://potpie.ai) — Open Source AI Agents for your codebase in minutes. Use pre-built agents for Q&A, Testing, Debugging and System Design or create your own purpose-built agents.
 - [DemoGPT](https://github.com/melih-unsal/DemoGPT) — Python framework for creating AI agents by combining tools, prompts, and models with RAG capabilities.
 
-#### Codebase Intelligence
+### Codebase Intelligence
 
 Tools for understanding, navigating, and getting answers about existing codebases:
 
@@ -230,7 +230,7 @@ Tools for understanding, navigating, and getting answers about existing codebase
 - [Grasp](https://github.com/ashfordeOU/grasp) — Code architecture visualiser: paste any GitHub/GitLab URL → interactive dependency graph (9 layouts, 16 colour modes), A–F health score, security scanner (SARIF 2.1 export), blast radius, churn heatmap, ORM query map, and AI chat (15 providers). 116 MCP tools with Kuzu graph DB + SQLite brain. Zero data collection, everything runs locally. `npm install -g grasp-mcp-server`
 - [Kasava](https://kasava.dev) - Parses codebases and reads every commit so progress reports cite real changes and feature plans are made with real architecture context.
 
-#### Database & SQL
+### Database & SQL
 
 Tools that generate, explain, and optimize SQL queries from natural language:
 
@@ -238,7 +238,7 @@ Tools that generate, explain, and optimize SQL queries from natural language:
 - [TEXT2SQL.AI](https://www.text2sql.ai/) — AI-powered SQL query builder. Translate, explain and fix complex SQL queries using plain English.
 - [SQLAI.ai](https://www.sqlai.ai/) — AI generates, fixes, explains and optimizes SQL queries. Ability to add your own database schema and train AI to understand it.
 
-#### Snippet & Utility Tools
+### Snippet & Utility Tools
 
 Web utilities for quick code generation, language translation, and regex creation:
 
@@ -253,7 +253,7 @@ Web utilities for quick code generation, language translation, and regex creatio
 - [RegexAI](https://regexai-six.vercel.app/) — Generates working regular expressions from plain English descriptions with explanations. Supports multiple regex flavors.
 
 
-#### ChatGPT Plugins
+### ChatGPT Plugins
 
 Plugins that extend ChatGPT with code search and repository context:
 
@@ -346,7 +346,7 @@ Tools that generate unit/e2e tests and integrate AI into CI/CD pipelines:
 - [Fine](https://fine.dev/?ref=awesome) — AI Dev Environment for automating mundane work. Integrate GitHub, Sentry, Linear. Get context-aware answers to questions. Plan, design and implement changes. Automate self-healing CI/CD.
 - [CodeFlash AI](https://www.codeflash.ai/) — A CLI and CI tool for optimizing Python code using AI.
 - [Recurse ML](https://recurse.ml) — Find bugs in AI-generated code.
-- [TestDriver](https://testdriver.ai) — Next generation framework for powerful, cross-platfom, selectorless End-to-End QA Testing.
+- [TestDriver](https://testdriver.ai) — Next generation framework for powerful, cross-platform, selectorless End-to-End QA Testing.
 
 ---
 
