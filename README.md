@@ -191,7 +191,7 @@ Platforms that scaffold and deploy full-stack applications from natural language
 Tools that generate components, mockups, and frontend code from text prompts or design files:
 
 - [v0](https://v0.dev/) — Create and iterate new UI components in your browser.
-- [Magic Patterns](https://www.magicpatterns.com/) — Prototype your product ideas. UI generator website where you can prompt, upload images, or import design inspiration with their [Chrome Extension](https://www.magicpatterns.com/extension). Can export to Figma with a [plugin](https://www.figma.com/community/plugin/1304255855834420274). Supports a number of component systems including Shadcn, ChakraUI, and HTML + Tailwind.
+- [Magic Patterns](https://www.magicpatterns.com/) — AI UI generator that creates components from prompts, images, or design inspiration. Supports Shadcn, ChakraUI, and Tailwind with Figma export.
 - [Tempo](https://www.tempolabs.ai/) — WYSIWYG editor for React interfaces.
 - [Google Stitch](https://stitch.withgoogle.com/) — Google's AI-powered design tool for creating UI designs. Formerly Galileo AI.
 - [Uizard](https://uizard.io/) — Generate multi-screen mockups from text prompts and edit them with a drag-and-drop editor. Scan screenshots of apps or hand-drawn wireframes and transform them into editable app mockups.
