@@ -220,6 +220,7 @@ Tools for understanding, navigating, and getting answers about existing codebase
 - [Code to Flow](https://codetoflow.com) — Visualize, analyze, and understand code with interactive flowcharts.
 - [Gru.ai](https://www.gru.ai/) — An AI developer can help you solve technical problems and tackle daily coding tasks, such as building algorithms, debugging issues, testing solutions, answering programming questions, etc.
 - [sudocode](https://sudocode.ai/) — Context management system for AI coding agents that creates organizational structures to track context over long-horizon tasks.
+- [sourcebook](https://github.com/maroondlabs/sourcebook) — CLI and MCP server that generates AGENTS.md/CLAUDE.md from static analysis of codebase structure, git history, and convention detection. Surfaces hub files, co-change coupling, and blast radius. No LLM required.
 - [Grasp](https://github.com/ashfordeOU/grasp) — Code architecture visualiser: paste any GitHub/GitLab URL → interactive dependency graph (9 layouts, 16 colour modes), A–F health score, security scanner (SARIF 2.1 export), blast radius, churn heatmap, ORM query map, and AI chat (15 providers). 116 MCP tools with Kuzu graph DB + SQLite brain. Zero data collection, everything runs locally. `npm install -g grasp-mcp-server`
 - [Kasava](https://kasava.dev) - Parses codebases and reads every commit so progress reports cite real changes and feature plans are made with real architecture context.
 
