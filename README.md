@@ -363,6 +363,7 @@ Secure isolated environments for running AI coding agents with controlled access
 - [brood-box](https://github.com/stacklok/brood-box) — Run coding agents (Claude Code, Codex, OpenCode) inside hardware-isolated microVMs with snapshot isolation and egress control.
 - [Open Agent](https://github.com/Th0rgal/openagent) — Self-hosted control plane for Claude Code with isolated container workspaces and real-time mission streaming.
 - [FlyDex](https://flydex.net) — Browser-first remote control plane for local Codex sessions with QR pairing, approvals, and machine continuity.
+- [AgentTier](https://github.com/agenttier/agenttier) — Open-source, Kubernetes-native sandbox runtime for AI coding agents (Claude Code, LangGraph, OpenHands). Each sandbox is a Pod + PVC + default-deny NetworkPolicy with optional gVisor isolation; runs in interactive `mode: code` (browser terminal) or `mode: agent` (REST `/configure` + SSE-streaming `/invoke`). Apache-2.0.
 
 ### Configuration & Context Management
 
