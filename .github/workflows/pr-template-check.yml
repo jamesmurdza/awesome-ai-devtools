@@ -1,0 +1,106 @@
+name: PR Template Check
+on:
+  pull_request_target:
+    types: [opened, edited]
+jobs:
+  check-pr-template:
+    runs-on: ubuntu-latest
+    permissions:
+      pull-requests: write
+    steps:
+      - name: Check PR follows template
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const prBody = context.payload.pull_request.body || '';
+            const prNumber = context.payload.pull_request.number;
+            const prAuthor = context.payload.pull_request.user.login;
+            // Define required sections from the PR template
+            const requiredSections = [
+              '## Description',
+              '## Checklist'
+            ];
+            // Define required checklist items
+            const checklistItems = [
+              'The entry is a tool that uses AI',
+              'The entry is a developer-focused tool',
+              'The description is unambiguous and clear',
+              'The description matches the style of other entries'
+            ];
+            let issues = [];
+            // Check for required sections
+            for (const section of requiredSections) {
+              if (!prBody.includes(section)) {
+                issues.push(`Missing required section: \`${section}\``);
+              }
+            }
+            // Check if checklist section exists and has checked items
+            if (prBody.includes('## Checklist')) {
+              // Check if at least some checklist items are checked
+              const checkedPattern = /- \[x\]/gi;
+              const checkedMatches = prBody.match(checkedPattern) || [];
+              if (checkedMatches.length === 0) {
+                issues.push('No checklist items are checked. Please review and check all applicable items.');
+              }
+              // Verify all required checklist items are present
+              for (const item of checklistItems) {
+                if (!prBody.includes(item)) {
+                  issues.push(`Missing checklist item: \`${item}\``);
+                }
+              }
+            }
+            // Check if description section has actual content (not just the template comments)
+            const descriptionMatch = prBody.match(/## Description\s*([\s\S]*?)(?=## Checklist|$)/);
+            if (descriptionMatch) {
+              // Remove HTML comments and whitespace
+              const descriptionContent = descriptionMatch[1]
+                .replace(/<!--[\s\S]*?-->/g, '')
+                .trim();
+              if (descriptionContent.length < 10) {
+                issues.push('The Description section appears to be empty or too brief. Please describe your changes.');
+              }
+            }
+            if (issues.length > 0) {
+              // Create a comment explaining the issues
+              const commentBody = `👋 Hi @${prAuthor},
+            Thank you for your contribution! However, this PR doesn't follow our PR template requirements.
+            **Issues found:**
+            ${issues.map(issue => `- ${issue}`).join('\n')}
+            **What to do:**
+            1. Please edit your PR description to follow the [PR template](/.github/PULL_REQUEST_TEMPLATE.md)
+            2. Make sure to fill out the Description section
+            3. Check all applicable items in the Checklist
+            This PR will be closed automatically. Once you've updated your PR description, feel free to reopen it or create a new PR.
+            ---
+            *This is an automated message. If you believe this is an error, please comment below.*`;
+              // Post the comment
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: prNumber,
+                body: commentBody
+              });
+              // Close the PR
+              await github.rest.pulls.update({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                pull_number: prNumber,
+                state: 'closed'
+              });
+              // Add a label to indicate why it was closed
+              try {
+                await github.rest.issues.addLabels({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  issue_number: prNumber,
+                  labels: ['invalid-template']
+                });
+              } catch (labelError) {
+                // Label might not exist, that's okay
+                console.log('Could not add label:', labelError.message);
+              }
+              core.setFailed('PR does not follow the template and has been closed.');
+            } else {
+              console.log('PR follows the template requirements! ✅');
+            }
