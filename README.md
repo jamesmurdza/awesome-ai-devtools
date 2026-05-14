@@ -27,7 +27,9 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Agent Infrastructure](#agent-infrastructure)
   - [Multi-Agent Orchestration](#multi-agent-orchestration)
   - [Sandboxing & Isolation](#sandboxing--isolation)
-  - [Configuration & Context Management](#configuration--context-management)
+  - [Configuration & Rules](#configuration--rules)
+  - [Context Optimization](#context-optimization)
+  - [Knowledge Bases & Search](#knowledge-bases--search)
   - [Usage Analytics & Cost Tracking](#usage-analytics--cost-tracking)
 - [Specialized Tools](#specialized-tools)
   - [Git & Commit Helpers](#git--commit-helpers)
@@ -264,9 +266,6 @@ Native apps for AI-powered coding, terminal enhancement, and agent orchestration
 - [Anima](https://github.com/btangonan/anima) — Native macOS companion for Claude Code with per-project ASCII familiars, nim token economy, and cross-session watcher. Tauri v2 + Rust, 4MB.
 - [CCHub](https://github.com/Moresl/cchub) — Claude Code ecosystem management platform with visual GUI for MCP server management, skill management, multi-config switching, custom slash commands, and JSON config editing. Built with Tauri v2.
 - [Mantra](https://mantra.gonewx.com) — Desktop session time machine for AI coding tools. Captures and restores full conversation state for Claude Code, Cursor, and Windsurf — like quicksave for your AI sessions. Free for macOS.
-- [Dorothy](https://github.com/Charlie85270/Dorothy) — Open-source desktop app to orchestrate multiple AI coding agents (Claude Code, Codex, Gemini) simultaneously with automations, Kanban management, and remote control.
-- [Nimbalyst](https://nimbalyst.com) - An agent management environment for Claude Code and Codex. Interactive visual editing of markdown, mockups, excalidraw, code. Parallel session management.
-- [Parallel Code](https://github.com/johannesjo/parallel-code) - Desktop app that runs multiple AI coding agents (Claude Code, Codex CLI, Gemini CLI) in parallel with automatic git worktree isolation, a unified GUI, and remote monitoring.
 - [PATAPIM](https://patapim.ai) — Terminal IDE for AI coding agents with a 9-terminal grid, AI state detection, built-in Whisper voice dictation, LAN remote access, and embedded MCP browser. Built with Electron.
 - [IM.codes](https://github.com/im4codes/imcodes) — Mobile/web control layer for Claude Code, Codex, Gemini CLI, and other terminal-based coding agents, built for away-from-desk continuation with terminal access, file browsing, git views, localhost preview, notifications, and multi-agent workflows.
 - [OpenQuack](https://github.com/larryxiao/openquack) - Privacy-first local voice dictation menu bar app for macOS. Pairs with Claude Code, Cursor, Codex, and Aider to dictate long contextual prompts; transcribes via WhisperKit on Apple Silicon, pastes at the cursor, ~8 MB, MIT.
@@ -359,6 +358,9 @@ Platforms for running multiple AI coding agents in parallel with workspace isola
 - [great_cto](https://github.com/avelikiy/great_cto) — Claude Code plugin with 7 specialized agents (tech-lead, senior-dev, qa-engineer, security-officer, devops, l3-support, project-auditor) running a full SDLC pipeline with 12-angle code review, 10 project archetypes, 13 compliance frameworks, and two-gate approval flow (architecture + deploy).
 - [AgentsMesh](https://agentsmesh.ai) — Self-hostable AI Agent Workforce Platform. Remote AI workstations (AgentPods) with PTY sandbox + git worktree isolation, multi-agent collaboration via channels and pod bindings, built-in Kanban with ticket-pod binding and MR/PR integration, per-pod MCP server. Supports Claude Code, Codex CLI, Gemini CLI, Aider, OpenCode. Multi-Git (GitHub/GitLab/Gitee), multi-tenant (Org > Team > User), SSO/RBAC/audit, air-gapped, BYOK.
 - [osModa](https://github.com/bolivian-peru/os-moda) — NixOS-based AI operating system with multi-agent routing (Opus agent for full system access, Sonnet agent for mobile/concise). Modular runtime swaps Claude Code and OpenClaw drivers per-agent via SIGHUP — no SSH or rebuild. 91 typed MCP tools across 9 Rust daemons, hash-chained audit ledger, atomic NixOS rollback, P2P encrypted mesh (Noise_XX + ML-KEM-768 hybrid PQ), encrypted credential store (AES-256-GCM). Spawn-on-demand via x402-payable API. Apache-2.0.
+- [Dorothy](https://github.com/Charlie85270/Dorothy) — Open-source desktop app to orchestrate multiple AI coding agents (Claude Code, Codex, Gemini) simultaneously with automations, Kanban management, and remote control.
+- [Nimbalyst](https://nimbalyst.com) - An agent management environment for Claude Code and Codex. Interactive visual editing of markdown, mockups, excalidraw, code. Parallel session management.
+- [Parallel Code](https://github.com/johannesjo/parallel-code) - Desktop app that runs multiple AI coding agents (Claude Code, Codex CLI, Gemini CLI) in parallel with automatic git worktree isolation, a unified GUI, and remote monitoring.
 
 ### Sandboxing & Isolation
 
@@ -371,15 +373,12 @@ Secure isolated environments for running AI coding agents with controlled access
 - [mirrord](https://github.com/metalbear-co/mirrord) — Per-agent isolation inside a shared Kubernetes cluster: traffic filters, DB branches, and Kafka queue splits via the mirrord Operator. Six [Claude Code skills](https://github.com/metalbear-co/skills) cover quickstart, config, operator setup, CI, DB branching, and Kafka splitting; install via `/plugin marketplace add metalbear-co/skills`.
 - [AgentTier](https://github.com/agenttier/agenttier) — Open-source, Kubernetes-native sandbox runtime for AI coding agents (Claude Code, LangGraph, OpenHands). Each sandbox is a Pod + PVC + default-deny NetworkPolicy with optional gVisor isolation; runs in interactive `mode: code` (browser terminal) or `mode: agent` (REST `/configure` + SSE-streaming `/invoke`). Apache-2.0.
 
-### Configuration & Context Management
+### Configuration & Rules
 
-Tools that manage and sync AI agent configurations, rules, and context across editors:
+Tools for generating, syncing, and managing AI agent configuration files and coding rules:
 
-- [Context7](https://context7.com/) — Documentation platform that provides up-to-date, version-specific documentation and code examples for any library directly into Cursor, Claude Code, Windsurf, and other AI coding tools.
 - [cursor-doctor](https://github.com/nedcodes-ok/cursor-doctor) — Health scanner and diagnostic tool for Cursor AI IDE configuration (.cursor/rules/ files). Scans for broken YAML frontmatter, rule conflicts, redundancies, missing alwaysApply, token budget issues, and stack coverage gaps. Available as CLI (`npx cursor-doctor scan`) and VS Code extension.
 - [ctxlint](https://github.com/YawLabs/ctxlint) — Open-source linter for AI context files (CLAUDE.md, .cursorrules, copilot-instructions.md) that catches stale paths, wrong commands, and token waste by validating against the real codebase.
-- [Entroly](https://github.com/juyterman1000/entroly) - Open-source context optimization engine that cuts AI token costs by 70-95%. Uses submodular knapsack selection and PRISM reinforcement learning to provide the exact context needed to 65+ supported AI coding agents. Features a built-in MCP server, semantic caching, and SimHash deduplication. Apache-2.0.
-- [lean-ctx](https://leanctx.com) — Open-source context runtime for AI coding agents. MCP server (optional shell hook) that compresses file reads, shell output, and codebase search to reduce token usage, often 60–99% on supported workflows. 46 tools, session caching, AST-aware compression for 18 languages, 90+ shell patterns. Apache-2.0.
 - [Caliber](https://github.com/rely-ai-org/caliber) — Open-source CLI that scans your codebase and generates AI agent configs (CLAUDE.md, .cursorrules, skills, MCPs) for Claude Code, Cursor, and Codex. Scores your setup 0-100 and recommends MCP servers.
 - [claude-snapshot](https://github.com/adhenawer/claude-snapshot) — Export your entire Claude Code setup (settings, plugins, hooks, CLAUDE.md, MCP configs) as a portable `.tar.gz`. Diff before applying, restore on another machine in under 2 minutes. No network, no daemon, `.bak` safety on every overwrite. Node.js 18+, macOS + Linux. Install: `/plugin marketplace add adhenawer/claude-snapshot`
 - [claude-overlay](https://github.com/mzmmoazam/claude-overlay) — CLI for managing Claude Code project configs across custom providers (Databricks, Bedrock, OpenRouter, LiteLLM, Cloudflare). Handles overlay merge/remove, web search MCP setup, and multi-provider switching.
@@ -388,28 +387,41 @@ Tools that manage and sync AI agent configurations, rules, and context across ed
 - [LynxPrompt](https://github.com/GeiserX/LynxPrompt) — Self-hostable platform for managing AI IDE configuration files. Generates, syncs, and shares configs (.cursorrules, CLAUDE.md, copilot-instructions.md, etc.) across 30+ AI coding assistants via web UI, REST API, CLI, and federated blueprint marketplace.
 - [Conduit8](https://github.com/conduit8/conduit8) — CLI registry for discovering, installing, and managing Claude Code skills. Search 20+ curated skills by keyword or category, install directly to ~/.claude/skills/ with one command.
 - [TokRepo](https://github.com/henu-wang/tokrepo) — Cross-agent registry and CLI for discovering and installing 220+ AI assets including skills, prompts, MCP configs, and workflows.
-- [Domscribe](https://www.domscribe.com/) — Pixel-to-code bridge that captures runtime context (props, state, source location) from running web apps and exposes it to AI coding agents via MCP.
 - [faf-cli](https://github.com/Wolfe-Jam/faf-cli) — Foundational AI-context format. Generates persistent project DNA (.faf files) that give any AI instant, structured context. IANA-registered (application/vnd.faf+yaml). Works with Claude, Gemini, Grok, Cursor, and Windsurf.
-- [promptext](https://github.com/1broseidon/promptext) — Smart code context extractor for AI assistants with accurate token counting, relevance prioritization, and budget management. Prepares optimized code context within LLM token limits.
-- [ContextMCP](https://contextmcp.ai) — Self-hosted semantic search across documentation from various sources for AI agents.
-- [Beacon](https://github.com/sagarmk/beacon-plugin) — Semantic code search plugin for Claude Code that combines embedding-based similarity with BM25 keyword matching. Indexes locally via Ollama and stores everything in SQLite.
-- [AgentsKB](https://agentskb.com) — Knowledge base with 39K+ researched technical Q&As accessible via MCP server, REST API, or web search. Integrates with Claude Code, Cursor, and Cline.
-- [Not Human Search](https://nothumansearch.ai) — Search engine for the agentic web. Indexes 2,000+ agent-ready sites ranked 0–100 on agentic readiness (llms.txt, OpenAPI, MCP, ai-plugin.json, structured API). Itself an MCP server with 8 tools (search_agents, verify_mcp, list_categories, get_top_sites, etc.). One-line install: `curl -fsSL https://nothumansearch.ai/install | sh`. Free, no auth, open data.
-- [CLIRank](https://clirank.dev) — Independent scorecard ranking 416+ APIs across 48 categories by how well they work with AI coding agents (Claude Code, Cursor, Codex, Cline, Aider). 8-signal rubric (SDK, env auth, headless, JSON, CLI, rate limits, machine-readable pricing, curl docs). Public REST API at `/api/apis`, MCP server (`npx clirank-mcp-server`), per-API score pages, head-to-head comparisons. Free, no auth, open data.
 - [rule-gen](https://github.com/nedcodes-ok/rule-gen) — CLI tool that generates AI coding rules from your actual codebase using Google Gemini. Feeds source files into Gemini's 1M token context window to produce project-specific rules for Cursor, Claude Code, Copilot, and Windsurf. Zero dependencies.
 - [Zenable](https://zenable.io/) — AI guardrails that learn your team's standards and enforce them on coding agents.
 - [pi-steering-hooks](https://github.com/samfoy/pi-steering-hooks) — Deterministic before-tool-call guardrails for the pi coding agent. Enforces rules (no force push, conventional commits, etc.) via regex pattern matching on tool inputs — zero tokens, 100% reliable. Custom rules via JSON config with override escape hatch.
 - [Gestalt](https://github.com/dwgoldie/gestalt) — Model-agnostic thinking protocol (AGENTS.md) that shapes how AI coding agents reason. Less filler, more substance, honest about limits. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI.
 - [Spartan AI Toolkit](https://github.com/spartan-stratos/spartan-ai-toolkit) — Engineering discipline layer for AI coding agents. 67 slash commands with quality gates enforce TDD, code review, and atomic commits. Configurable rules for any stack. Works with Claude Code, Codex, Cursor, Windsurf, Copilot.
-- [Nex](https://github.com/nex-crm/nex-as-a-skill) — Organizational context and memory for AI agents. Connects email, Slack, CRM, and 100+ tools into one knowledge graph with a 60-tool MCP server and persistent memory across agent sessions.
 - [Agentify](https://github.com/koriyoshi2041/agentify) — CLI tool that transforms any OpenAPI spec into 9 agent interface formats (MCP server, AGENTS.md, CLAUDE.md, .cursorrules, Skills, llms.txt, GEMINI.md, A2A Card, CLI) with a single command. Tiered generation strategies for small to large APIs.
 - [ContextKit](https://nova-labs.dev/contextkit/generate) — Free web-based generator for AI coding config files. Creates CLAUDE.md, .cursorrules, codex.md, and GEMINI.md from a single form with framework-specific rules. Client-side, no data sent to servers.
 - [skill-optimizer](https://github.com/fastxyz/skill-optimizer) — CLI that benchmarks SDK, CLI, and MCP guidance docs (SKILL.md) against multiple LLMs and runs an iterative optimizer to rewrite them until every configured model meets a score floor.
-- [KubeStellar Console kc-agent](https://github.com/kubestellar/console) — MCP server that bridges AI coding agents (Claude Code, Copilot, Codex) to multi-cluster Kubernetes APIs. Enables natural language queries across clusters, workload placement, policy enforcement, and real-time observability. CNCF Sandbox project.
-- [SwarmVault](https://github.com/swarmclawai/swarmvault) - Local-first RAG knowledge vault and MCP server. Compiles raw sources (books, notes, transcripts, exports, datasets, slide decks, files, URLs, code) into a durable markdown wiki with a knowledge graph and a hybrid SQLite FTS plus embeddings index. The bundled MCP server (`npx -y @swarmvaultai/cli mcp`) gives Claude Code, Codex, OpenCode, and any MCP client page search, page reads, source listing, query, ingest, compile, and lint tools. MIT.
 - [claude-code-pro-pack](https://github.com/sisyphusse1-ops/claude-code-pro-pack) — Drop-in 12-rule `CLAUDE.md` + `AGENTS.md` baseline that closes common agent-orchestration failures (token spirals, silent partial failures, two-pattern pollution). Includes PRD generator prompt, browser-skill-graduation workflow, and 5 example skills. ~700 tokens total, MIT.
 - [cc-audit](https://github.com/sisyphusse1-ops/cc-audit) — Single-file Python linter that scores any `CLAUDE.md` / `AGENTS.md` against a 12-rule baseline. Flags leaked secrets (GitHub PATs, AWS keys, PayPal links), the 200-line compliance cliff, and missing project-specifics sections. Zero dependencies, JSON output for CI, MIT.
 - [GAAI Framework](https://github.com/Fr-e-d/GAAI-framework) — Drop-in governance layer for AI coding tools. Backlog-first delivery, cross-session memory, decision tracking, QA gates, and autonomous delivery daemon. Works with Claude Code, Cursor, Codex CLI, Gemini CLI, Windsurf. Markdown + YAML + bash, zero dependencies.
+
+### Context Optimization
+
+Tools that compress, extract, and optimize context to reduce token usage:
+
+- [Entroly](https://github.com/juyterman1000/entroly) - Open-source context optimization engine that cuts AI token costs by 70-95%. Uses submodular knapsack selection and PRISM reinforcement learning to provide the exact context needed to 65+ supported AI coding agents. Features a built-in MCP server, semantic caching, and SimHash deduplication. Apache-2.0.
+- [lean-ctx](https://leanctx.com) — Open-source context runtime for AI coding agents. MCP server (optional shell hook) that compresses file reads, shell output, and codebase search to reduce token usage, often 60–99% on supported workflows. 46 tools, session caching, AST-aware compression for 18 languages, 90+ shell patterns. Apache-2.0.
+- [promptext](https://github.com/1broseidon/promptext) — Smart code context extractor for AI assistants with accurate token counting, relevance prioritization, and budget management. Prepares optimized code context within LLM token limits.
+- [Domscribe](https://www.domscribe.com/) — Pixel-to-code bridge that captures runtime context (props, state, source location) from running web apps and exposes it to AI coding agents via MCP.
+
+### Knowledge Bases & Search
+
+Knowledge bases and search tools that provide documentation and external context to AI agents:
+
+- [Context7](https://context7.com/) — Documentation platform that provides up-to-date, version-specific documentation and code examples for any library directly into Cursor, Claude Code, Windsurf, and other AI coding tools.
+- [ContextMCP](https://contextmcp.ai) — Self-hosted semantic search across documentation from various sources for AI agents.
+- [Beacon](https://github.com/sagarmk/beacon-plugin) — Semantic code search plugin for Claude Code that combines embedding-based similarity with BM25 keyword matching. Indexes locally via Ollama and stores everything in SQLite.
+- [AgentsKB](https://agentskb.com) — Knowledge base with 39K+ researched technical Q&As accessible via MCP server, REST API, or web search. Integrates with Claude Code, Cursor, and Cline.
+- [Not Human Search](https://nothumansearch.ai) — Search engine for the agentic web. Indexes 2,000+ agent-ready sites ranked 0–100 on agentic readiness (llms.txt, OpenAPI, MCP, ai-plugin.json, structured API). Itself an MCP server with 8 tools (search_agents, verify_mcp, list_categories, get_top_sites, etc.). One-line install: `curl -fsSL https://nothumansearch.ai/install | sh`. Free, no auth, open data.
+- [CLIRank](https://clirank.dev) — Independent scorecard ranking 416+ APIs across 48 categories by how well they work with AI coding agents (Claude Code, Cursor, Codex, Cline, Aider). 8-signal rubric (SDK, env auth, headless, JSON, CLI, rate limits, machine-readable pricing, curl docs). Public REST API at `/api/apis`, MCP server (`npx clirank-mcp-server`), per-API score pages, head-to-head comparisons. Free, no auth, open data.
+- [Nex](https://github.com/nex-crm/nex-as-a-skill) — Organizational context and memory for AI agents. Connects email, Slack, CRM, and 100+ tools into one knowledge graph with a 60-tool MCP server and persistent memory across agent sessions.
+- [KubeStellar Console kc-agent](https://github.com/kubestellar/console) — MCP server that bridges AI coding agents (Claude Code, Copilot, Codex) to multi-cluster Kubernetes APIs. Enables natural language queries across clusters, workload placement, policy enforcement, and real-time observability. CNCF Sandbox project.
+- [SwarmVault](https://github.com/swarmclawai/swarmvault) - Local-first RAG knowledge vault and MCP server. Compiles raw sources (books, notes, transcripts, exports, datasets, slide decks, files, URLs, code) into a durable markdown wiki with a knowledge graph and a hybrid SQLite FTS plus embeddings index. The bundled MCP server (`npx -y @swarmvaultai/cli mcp`) gives Claude Code, Codex, OpenCode, and any MCP client page search, page reads, source listing, query, ingest, compile, and lint tools. MIT.
 
 ### Usage Analytics & Cost Tracking
 
