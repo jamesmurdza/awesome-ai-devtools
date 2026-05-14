@@ -484,7 +484,6 @@ Semantic search tools that find code using natural language queries and embeddin
 
 Curated lists, comparison guides, and configuration templates for AI coding tools:
 
-- [Skills Hub](https://skillshub.io) — Community-rated marketplace for GitHub Copilot, Cursor, and Claude AI coding instructions. Browse and share quality-scored `copilot-instructions.md`, `.cursorrules`, and `CLAUDE.md` configurations organized by tech stack.
 - [aiforcode.io](https://aiforcode.io) — Expert-curated directory of 42+ AI coding tools with transparent 100-point scoring, head-to-head comparisons, and an interactive tool recommendation quiz. Verified monthly.
 - [Awesome Code Docs](https://github.com/johnxie/awesome-code-docs) — Curated deep-dive tutorials for open-source AI and developer tooling projects.
 - [Cursor Rules Collection](https://github.com/survivorforge/cursor-rules) — 35+ production-quality .cursorrules files for 16 frameworks including React, Next.js, Python, Go, Rust, SvelteKit, and Django. Configure AI coding assistants with code style, architecture, and testing conventions. MIT licensed.
