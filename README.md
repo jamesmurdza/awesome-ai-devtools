@@ -147,6 +147,7 @@ Lightweight command-line tools for AI-assisted commits, shell translation, and w
 - [CLIRank](https://clirank.dev) — API directory scoring 387 APIs on agent-friendliness across 11 signals. Available as an MCP server (`clirank-mcp-server`) and REST API.
 - [prpack](https://github.com/Lucas2944/prpack) — Zero-dep CLI that packs a pull request (diff + commits + full post-change file contents) into one markdown file optimized for LLM code review. Drop the file into Claude / Cursor / your model. MIT.
 - [Marmot](https://marmot.sh) — Shell-native CLI that gives agents one command shape for AI, web search, scraping, and data enrichment across many providers. Designed for Claude Code, Codex, OpenCode, and similar harnesses; composes via shell pipes.
+- [ORCH](https://github.com/oxgeneral/ORCH) — CLI runtime that coordinates Claude Code, OpenCode, Codex, and Cursor as a typed AI team. State machine (todo→review→done), auto-retry, inter-agent messaging, TUI dashboard.
 
 ---
 
@@ -169,7 +170,8 @@ Platforms that scaffold and deploy full-stack applications from natural language
 - [Forge](https://forge-web.rebaselabs.online) — AI-powered full-stack app creator that generates Next.js apps from natural language. BYOK model — use your own Anthropic, OpenAI, or Google AI key with no markup. Multi-stage pipeline with auto-fix and TypeScript strict mode.
 - [e2b_Fragments](https://fragments.e2b.dev/) — Platform for building and deploying AI-powered applications with sandboxed environments.
 - [Mocha](https://getmocha.com/) — AI-powered no-code application builder for creating web apps without writing code.
-- [Pythagora](https://www.pythagora.ai/) — AI development platform with 14 specialized agents that builds React/Node.js apps from natural language. Integrates with VS Code and Cursor with one-click deployment.
+- [Pythagora](https://www.pythagora.ai/) — AI development platform with 14 specialized agents that builds React/Node.js apps from natural language. Integrates with VS Code and Cursor with one-
+ ck deployment.
 - [Mage](https://usemage.ai/) — Generate full-stack web apps in Wasp, React, Node.js and Prisma.
 - [Literally anything](https://literallyanything.io) — HTML and JavaScript web app generator.
 - [Make Real](https://makereal.tldraw.com/) — Online canvas that can be used to generate HTML/JavaScript apps.
