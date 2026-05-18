@@ -82,6 +82,7 @@ Plugins that add AI-powered completion, chat, and refactoring to existing code e
 - [IBM watsonx Code Assistant for Z](https://www.ibm.com/products/watsonx-code-assistant-z) — AI-powered mainframe modernization tool with COBOL to Java conversion, code refactoring, and application discovery.
 - [EasyCode](https://www.easycode.ai/) — VS Code extension with GPT-4 chat.
 - [Kilo Code](https://kilocode.ai) - Open Source AI coding assistant for planning, building, and fixing code inside VS Code.
+- [LegacyDoc AI](https://www.romanticode.com/legacydoc-ai/) — VS Code extension that generates AI code audit reports, documentation, and Mermaid architecture maps from local workspaces.
 - [FlyonUI MCP](https://flyonui.com/mcp) — MCP server for generating Tailwind CSS components, blocks, and pages using FlyonUI.
 - [Traycer](https://traycer.ai) - Plan-First Coding Assistant in VS Code.
 - [shadcn/studio MCP](https://shadcnstudio.com/mcp) — MCP server for generating shadcn/ui components, blocks, and pages.
