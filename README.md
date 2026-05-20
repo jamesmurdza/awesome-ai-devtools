@@ -116,6 +116,7 @@ Autonomous CLI agents that generate code, execute shell commands, and manage mul
 - [Blueprint](https://github.com/JuliusBrussee/blueprint) — A Claude Code plugin that turns natural language into blueprints, blueprints into parallel build plans, and build plans into working software with automated iteration, validation, and cross-model peer review.
 - [cmux](https://github.com/manaflow-ai/cmux) — A Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Features notification rings, in-app browser, SSH support, and Claude Code Teams integration.
 - [pi](https://pi.dev/) — Minimal, extensible terminal coding agent. TypeScript extensions, skills, prompt templates, and themes — all shareable as npm packages. Supports multiple LLM providers with a unified API.
+- [Ano](https://ano.chat/) - Collaborative team chat and developer workspace featuring a native in-app terminal and integrated AI (like Claude Code).
 
 ### CLI Utilities
 
