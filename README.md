@@ -428,6 +428,7 @@ Curated lists, comparison guides, and configuration templates for AI coding tool
 
 - [aiforcode.io](https://aiforcode.io) — Expert-curated directory of 42+ AI coding tools with transparent 100-point scoring, head-to-head comparisons, and an interactive tool recommendation quiz. Verified monthly.
 - [Awesome Code Docs](https://github.com/johnxie/awesome-code-docs) — Curated deep-dive tutorials for open-source AI and developer tooling projects.
+- [AI Models Catalog](https://github.com/i-need-token/ai-models) — Structured open-source database of 4,587+ AI models across 95 providers with pricing, context windows, modalities, and capabilities. Interactive catalog with model comparison, price calculator, and model picker for choosing the right LLM.
 - [AI Coding Compare](https://aicodingcompare.com) — Compare 50+ AI coding assistants with features, pricing, and performance benchmarks.
 - [ClaudeDown](https://claudedown.com) - Real-time Claude AI complaint tracker and outage detector using Twitter/X sentiment data.
 - [Havoptic](https://havoptic.com/) — Free, open-source timeline tracking releases from AI coding tools. Auto-updated daily.
