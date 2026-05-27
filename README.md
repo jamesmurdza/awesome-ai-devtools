@@ -403,6 +403,11 @@ Tools for monitoring token usage and API costs across AI providers:
 
 ---
 
+### Gateways & API Routing
+
+Tools that route between multiple LLM providers for cost optimization and reliability:
+
+- [A3M Router](https://github.com/Das-rebel/a3m-router) — Open-source LLM router that runs queries across 47+ providers in parallel with confidence scoring. 62% cost savings, 99.5% routing accuracy, independent benchmark validated. 19.5 KB CLI, zero ML dependencies.
 ## Specialized Tools
 
 ### Git & Commit Helpers
