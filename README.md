@@ -254,6 +254,7 @@ Native apps for AI-powered coding, terminal enhancement, and agent orchestration
 - [OpenQuack](https://github.com/larryxiao/openquack) - Privacy-first local voice dictation menu bar app for macOS. Pairs with Claude Code, Cursor, Codex, and Aider to dictate long contextual prompts; transcribes via WhisperKit on Apple Silicon, pastes at the cursor, ~8 MB, MIT.
 - [Onepilot](https://onepilotapp.com) — iOS app for running AI coding agents (Claude Code, Codex CLI, Gemini CLI) on remote servers via SSH. Provides a full terminal with SwiftTerm, agent session management, and mobile access to your dev machines.
 - [Vibe Island](https://vibeisland.app) — Native macOS notch panel for 18 AI coding CLIs (Claude Code, Codex, Gemini, Cursor, Droid, OpenCode, Copilot). Permission prompts appear in the notch, clicking a notification jumps back to the originating terminal pane, and the bar tracks usage limits per provider. Swift 6, AppKit + SwiftUI.
+- [SlimSnap](https://slimsnap.ai/) — Native macOS app that converts annotated screenshots into structured JSON for terminal AI coding agents (Claude Code, Aider, Codex CLI). About 700 tokens per capture vs about 8000 vision tokens for the raw image. Ships with an open MIT Claude Code skill that auto-discovers the latest capture via ~/.slimsnap/config.json.
 
 ---
 
