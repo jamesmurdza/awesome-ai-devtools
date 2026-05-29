@@ -118,6 +118,7 @@ Autonomous CLI agents that generate code, execute shell commands, and manage mul
 - [pi](https://pi.dev/) — Minimal, extensible terminal coding agent. TypeScript extensions, skills, prompt templates, and themes — all shareable as npm packages. Supports multiple LLM providers with a unified API.
 
 ### CLI Utilities
+- [A3M Router](https://github.com/Das-rebel/a3m-router) — CLI and programmatic LLM router that runs 47+ providers in parallel with confidence-scored ensemble voting. Routes every query to the cheapest capable model. #1 on RouterArena benchmark (76.43). Supports deep thinking, code, and creative presets. Open source (MIT), 19.5KB, zero ML dependencies. `npx a3m-router route "your query"`
 
 Lightweight command-line tools for AI-assisted commits, shell translation, and workflow automation:
 
