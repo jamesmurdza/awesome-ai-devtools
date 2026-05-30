@@ -141,6 +141,9 @@ Lightweight command-line tools for AI-assisted commits, shell translation, and w
 
 ## Web-Based Tools
 
+- [Agent Critiq](https://agentcritiq.com) - An independent comparison engine and verified directory tracking coding agents, IDE extensions, and developer automation tools.
+
+
 ### App Builders
 
 Platforms that scaffold and deploy full-stack applications from natural language prompts:
