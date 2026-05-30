@@ -231,6 +231,8 @@ Web utilities for quick code generation, language translation, and regex creatio
 - [JSONFix](https://jsonfix-lake.vercel.app/) — AI-powered JSON repair tool that instantly fixes malformed JSON with missing quotes, trailing commas, and syntax errors.
 - [CronAI](https://cronai-nu.vercel.app/) — Converts plain English schedule descriptions into correct cron expressions using AI.
 - [RegexAI](https://regexai-six.vercel.app/) — Generates working regular expressions from plain English descriptions with explanations. Supports multiple regex flavors.
+- [AI Toolbox](https://tyr1105.github.io/ai-toolbox/) — Free, open-source web tool with 6 AI-powered utilities: email writer, PPT outline generator, video script generator, weekly report generator, Xiaohongshu copywriter, and tool hub. No login required. Pure HTML+CSS+JS with DeepSeek API. ([Source Code](https://github.com/tyr1105/ai-toolbox))
+
 
 ---
 
