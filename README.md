@@ -309,6 +309,7 @@ Tools that generate unit/e2e tests and integrate AI into CI/CD pipelines:
 - [CodeFlash AI](https://www.codeflash.ai/) — A CLI and CI tool for optimizing Python code using AI.
 - [Recurse ML](https://recurse.ml) — Find bugs in AI-generated code.
 - [TestDriver](https://testdriver.ai) — Cross-platform, selectorless end-to-end QA testing framework.
+- [AutoMaxFix](https://github.com/Noumenon-ai/AutoMaxFix) — CLI reliability layer for AI-built projects: turns test failures and runtime drift into tickets, repairs one at a time behind a human approval gate, and validates each fix with targeted and regression tests. Open source (MIT), Python.
 
 ---
 
