@@ -115,6 +115,7 @@ Autonomous CLI agents that generate code, execute shell commands, and manage mul
 - [Mini SWE-Agent](https://mini-swe-agent.com/latest/) — A minimal, hackable software engineering agent built for learning and experimentation. Lightweight implementation demonstrating core SWE-agent concepts with a focus on simplicity and extensibility.
 - [Micro Agent](https://www.builder.io/blog/micro-agent) — An AI agent that writes and fixes code for you.
 - [Blueprint](https://github.com/JuliusBrussee/blueprint) — A Claude Code plugin that turns natural language into blueprints, blueprints into parallel build plans, and build plans into working software with automated iteration, validation, and cross-model peer review.
+- [One-Shot Prompting](https://github.com/usmanmughaltaleemabad/One-Shot-Plugin) — Claude Code plugin for agentic feature generation. Describe a feature → production-ready models, services, endpoints, tests, and migrations in 2-3 minutes. 14-stage pipeline with 8 specialist agents. FastAPI, Django, Spring Boot, Go, NestJS.
 - [cmux](https://github.com/manaflow-ai/cmux) — A Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Features notification rings, in-app browser, SSH support, and Claude Code Teams integration.
 - [pi](https://pi.dev/) — Minimal, extensible terminal coding agent. TypeScript extensions, skills, prompt templates, and themes — all shareable as npm packages. Supports multiple LLM providers with a unified API.
 
