@@ -53,6 +53,7 @@ Full development environments with AI for code generation, chat, and debugging:
 - [UI Pilot](https://ui-pilot.com/) — Chat-based AI code editor that creates forms using Material UI, using GPT-4.
 - [GitWit](https://gitwit.dev/) — Web-based editor for building ReactJS applications with AI.
 - [OneCompiler](https://onecompiler.com/) — A free AI Powered online compiler supporting over 70 languages, including Java, Python, MySQL, C++, and HTML, for writing, running, and sharing code.
+- [BuilderStudio](https://builderstudio.dev) - Native macOS agentic coding workspace from WunderCorp for secure local/cloud AI development, reusable Skills and Pathways, MCP integrations, Hermes-powered container-only execution, Agentic Swarms for parallel specialized agents, app previews, terminal workflows, packaging/deployment, and flexible routing across 380+ AI models.
 
 ### IDE Extensions
 
@@ -401,6 +402,7 @@ Tools for monitoring token usage and API costs across AI providers:
 - [aicost](https://github.com/dwylq/aicost) — Universal AI coding cost analyzer CLI. Scans Claude Code, Cursor, and GitHub Copilot usage with cache-aware pricing, HTML dashboard, and cost alerting. No API key required.
 - [CostGoat](https://costgoat.com) — Privacy-first menubar app for tracking AI agent quotas (Claude Code, Codex, Kimi, Z.ai) and LLM API costs (OpenAI, OpenRouter, Anthropic, ElevenLabs) in real-time. Also covers cloud spend and SaaS subscriptions.
 - [TokenWise](https://github.com/CodeShuX/tokenwise) — Measurement-driven model router for Claude Code. Auto-routes subtasks across Haiku/Sonnet/Opus based on task class, logs every routed task with verified $ saved to a local NDJSON, and includes an A/B test subcommand to validate cheaper tiers before trusting routing. MIT, zero telemetry, Anthropic-only.
+- [CoderPlan](https://coderplan.ai) — Unified LLM API gateway with OpenAI-compatible protocol for AI coding agents (Claude Code, Codex CLI, Gemini CLI). Pay-per-use at ~70% below official rates across Claude, GPT, Gemini, DeepSeek, and Grok models. Supports Alipay/WeChat payments.
 
 ---
 
