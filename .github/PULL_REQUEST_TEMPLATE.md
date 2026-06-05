@@ -14,7 +14,7 @@ See the checklist below for specific requirements.
 
 ## Checklist
 
-- [ ] The entry is a tool that uses AI
+- [ ] The entry is an AI-powered tool
 - [ ] The entry is a developer-focused tool
-- [ ] The description is unambiguous and clear
+- [ ] The description is clear and unambiguous
 - [ ] The description matches the style of other entries
