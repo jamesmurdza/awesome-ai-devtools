@@ -128,6 +128,7 @@ Lightweight command-line tools for AI-assisted commits, shell translation, and w
 - [Jctx](https://github.com/Shashwat-Gupta57/Jctx) — Python CLI that extracts structured, architecture-aware context from Python, Kotlin, and Java codebases for LLMs. Features internal dependency mapping and token estimation.
 - [CCG Workflow](https://github.com/fengshao1227/ccg-workflow) — Multi-model collaboration system for Claude Code. Orchestrates Claude + Codex + Gemini with 28 slash commands, smart routing (Gemini for frontend, Codex for backend), Agent Teams for parallel development, and 6 built-in quality gate skills. One-command install via npx.
 - [Butterfish](https://butterfi.sh) — CLI tool that embeds ChatGPT in your shell for easy access. Includes simple agentic capabilities.
+- [Lacy Shell](https://lacy.sh) — ZSH/Bash plugin that transparently routes natural language to your AI agent and commands to your shell. Real-time color indicator. No prefix, no hotkey — pure lexical analysis, <1ms, works with Claude Code, Gemini CLI, OpenCode, and any custom command.
 - [TmuxAI](https://tmuxai.dev/) - AI-powered, non-intrusive terminal assistant.
 - [IWE](https://github.com/iwe-org/iwe) — Markdown knowledge graph with CLI that gives AI agents structured access to your knowledge base — no vector database required.
 - [Hermes IDE](https://www.hermes-ide.com) — AI-powered shell wrapper for zsh, bash, and fish that adds ghost-text completions, autonomous task execution, full git management with worktrees, and multi-project sessions. Free and open source.
