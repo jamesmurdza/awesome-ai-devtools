@@ -163,6 +163,8 @@ Platforms that scaffold and deploy full-stack applications from natural language
 - [Make Real](https://makereal.tldraw.com/) — Online canvas that can be used to generate HTML/JavaScript apps.
 - [Glowbom](https://glowbom.com/) — Generate apps with AI and export to multiple platforms.
 - [VULK](https://vulk.dev) — AI app builder that generates full-stack React + PostgreSQL apps, Flutter mobile, Three.js games and Shopify themes from natural language. Live preview in Firecracker microVMs, BYOM with 16+ models, EU-hosted with full source code export.
+- [LLMRank](https://llmrank.top/) — AI-powered SEO platform that identifies content gaps and optimizes search visibility using LLMs. CLI-first workflow for developers.
+
 - [Taskade Genesis](https://taskade.com/genesis) — AI-powered platform for building custom AI agents, workflows, and apps using natural language. Multi-model support (GPT-4o, Claude, Gemini), open-source MCP server.
 - [Berrry](https://berrry.app) — Twitter app generator that transforms social media posts into functional web applications. Turn tweets and Reddit content into complete apps with unique subdomains.
 - [Blank Space](https://www.blankspace.build/) — Open-source AI app builder for creating web applications using natural language. Self-hostable alternative to v0, Lovable, and Bolt.
