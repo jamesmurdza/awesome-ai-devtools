@@ -130,6 +130,7 @@ Lightweight command-line tools for AI-assisted commits, shell translation, and w
 - [Butterfish](https://butterfi.sh) — CLI tool that embeds ChatGPT in your shell for easy access. Includes simple agentic capabilities.
 - [TmuxAI](https://tmuxai.dev/) - AI-powered, non-intrusive terminal assistant.
 - [IWE](https://github.com/iwe-org/iwe) — Markdown knowledge graph with CLI that gives AI agents structured access to your knowledge base — no vector database required.
+- [Lacy Shell](https://lacy.sh) — ZSH/Bash plugin that transparently routes natural language to AI agents and shell commands. No prefix, no hotkey — pure lexical analysis, sub-millisecond. Works with Claude Code, Gemini CLI, OpenCode, and more. Open source.
 - [Hermes IDE](https://www.hermes-ide.com) — AI-powered shell wrapper for zsh, bash, and fish that adds ghost-text completions, autonomous task execution, full git management with worktrees, and multi-project sessions. Free and open source.
 - [codesight](https://github.com/Houseofmvps/codesight) — CLI token optimizer and AI context generator. Scans codebases to extract routes, schema, components, and dependencies for Claude Code, Cursor, Copilot, Codex, and Windsurf. 9x–13x token reduction, built-in MCP server, zero runtime dependencies.
 - [CLIRank](https://clirank.dev) — API directory scoring 387 APIs on agent-friendliness across 11 signals. Available as an MCP server (`clirank-mcp-server`) and REST API.
