@@ -168,6 +168,7 @@ Platforms that scaffold and deploy full-stack applications from natural language
 - [Blank Space](https://www.blankspace.build/) — Open-source AI app builder for creating web applications using natural language. Self-hostable alternative to v0, Lovable, and Bolt.
 - [Fastshot](https://fastshot.ai/) — AI driven no-code platform for building and deploying mobile apps.
 - [ai-vertical-saas-gen](https://github.com/kurtnebiev-elvis4/ai-vertical-saas-gen) — CLI that generates complete vertical SaaS apps (Next.js 14 + Supabase) with industry-specific data models for 20+ niches. Zero dependencies, offline, outputs 20 deployable files in one command.
+- [WithVibe](https://withvibe.dev) — Self-hostable, source-available shared AI workspace where anyone on the team (including non-technical people) can vibe-code in the same live environment. An automated agent gate runs security, code review, tests, and policy checks before anything merges.
 
 ### UI Generators
 
