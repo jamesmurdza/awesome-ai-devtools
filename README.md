@@ -28,7 +28,8 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
   - [Multi-Agent Orchestration](#multi-agent-orchestration)
   - [Sandboxing & Isolation](#sandboxing--isolation)
   - [Configuration & Context Management](#configuration--context-management)
-  - [Usage Analytics & Cost Tracking](#usage-analytics--cost-tracking)
+    - [LLM Gateways & Routing](#llm-gateways--routing)
+- [Usage Analytics & Cost Tracking](#usage-analytics--cost-tracking)
 - [Specialized Tools](#specialized-tools)
   - [Git & Commit Helpers](#git--commit-helpers)
   - [Documentation Generation](#documentation-generation)
@@ -383,6 +384,13 @@ Tools that manage and sync AI agent configurations, rules, and context across ed
 - [claude-code-pro-pack](https://github.com/sisyphusse1-ops/claude-code-pro-pack) — Drop-in 12-rule `CLAUDE.md` + `AGENTS.md` baseline that closes common agent-orchestration failures (token spirals, silent partial failures, two-pattern pollution). Includes PRD generator prompt, browser-skill-graduation workflow, and 5 example skills. ~700 tokens total, MIT.
 - [cc-audit](https://github.com/sisyphusse1-ops/cc-audit) — Single-file Python linter that scores any `CLAUDE.md` / `AGENTS.md` against a 12-rule baseline. Flags leaked secrets (GitHub PATs, AWS keys, PayPal links), the 200-line compliance cliff, and missing project-specifics sections. Zero dependencies, JSON output for CI, MIT.
 - [GAAI Framework](https://github.com/Fr-e-d/GAAI-framework) — Drop-in governance layer for AI coding tools. Backlog-first delivery, cross-session memory, decision tracking, QA gates, and autonomous delivery daemon. Works with Claude Code, Cursor, Codex CLI, Gemini CLI, Windsurf. Markdown + YAML + bash, zero dependencies.
+
+### LLM Gateways & Routing
+
+Tools for routing LLM requests across multiple providers with cost optimization, parallel execution, and model selection:
+
+- [A3M Router](https://github.com/Das-rebel/a3m-router) — Open-source LLM router with parallel multi-LLM execution across 47+ providers. Confidence-scored voting (not sequential fallback). 62% cost savings, 99.5% routing accuracy. 19.5 KB CLI, zero ML dependencies. Independently benchmarked.
+
 
 ### Usage Analytics & Cost Tracking
 
