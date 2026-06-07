@@ -137,6 +137,7 @@ Lightweight command-line tools for AI-assisted commits, shell translation, and w
 - [Marmot](https://marmot.sh) — Shell-native CLI that gives agents one command shape for AI, web search, scraping, and data enrichment across many providers. Designed for Claude Code, Codex, OpenCode, and similar harnesses; composes via shell pipes.
 - [ORCH](https://github.com/oxgeneral/ORCH) — CLI runtime that coordinates Claude Code, OpenCode, Codex, and Cursor as a typed AI team. State machine (todo→review→done), auto-retry, inter-agent messaging, TUI dashboard.
 - [Octomind](https://github.com/muvon/octomind) — Session-based AI development assistant with MCP support, 7 LLM providers, and extensible architecture. Features plan-first workflow, semantic code search, and persistent memory.
+- [Badi](https://github.com/fatihkan/badi) — Workflow management CLI for Claude Code with 30 sub-agents, 84 slash commands, 14 safety hooks, and 62 opt-in skill categories. Daily-ritual commands (/start, /sync, /wrap-up), OWASP + secret scans, and a vault architecture that loads zero tokens until activated. Compiles the same source to Cursor and Gemini CLI layouts. MIT.
 
 ---
 
