@@ -117,6 +117,7 @@ Autonomous CLI agents that generate code, execute shell commands, and manage mul
 - [Blueprint](https://github.com/JuliusBrussee/blueprint) — A Claude Code plugin that turns natural language into blueprints, blueprints into parallel build plans, and build plans into working software with automated iteration, validation, and cross-model peer review.
 - [cmux](https://github.com/manaflow-ai/cmux) — A Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Features notification rings, in-app browser, SSH support, and Claude Code Teams integration.
 - [pi](https://pi.dev/) — Minimal, extensible terminal coding agent. TypeScript extensions, skills, prompt templates, and themes — all shareable as npm packages. Supports multiple LLM providers with a unified API.
+- [Loki Mode](https://github.com/asklokesh/loki-mode) - Source-available CLI agent that takes a spec (PRD, GitHub issue, OpenAPI doc, or one-line brief) toward a deployed product. Distinct for its verification gate: a blind-review completion council plus an evidence check can veto "done", so it will not mark work complete on the model's self-report alone. Brownfield healing (`loki heal`), local-first BYO-keys, 26-tool MCP server, reads AGENTS.md. Provider-agnostic (Claude, Codex, Cline, Aider). Source-available (BUSL-1.1).
 
 ### CLI Utilities
 
