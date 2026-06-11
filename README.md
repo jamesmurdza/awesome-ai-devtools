@@ -210,6 +210,7 @@ Tools for understanding, navigating, and getting answers about existing codebase
 - [Kasava](https://kasava.dev) - Parses codebases and reads every commit so progress reports cite real changes and feature plans are made with real architecture context.
 - [SeaGOAT](https://kantord.github.io/SeaGOAT/latest/) — A local search tool leveraging vector embeddings to search your codebase semantically.
 - [ContextWire](https://contextwire.dev) — Free search API for AI agents with 105 engines, 22 search profiles, and 94.3% SimpleQA accuracy. MCP server included.
+- [Kage](https://github.com/kage-core/Kage) — Verified memory + code graph for coding agents (MCP). Memory citing nonexistent files is rejected at write; memory whose cited code changed is withheld from recall and flagged when your diff invalidates it. `kage scan` prints a zero-setup repo truth report (knowledge voids, bus-factor-1 hot files, doc claims vs code), and a value ledger shows tokens/$ saved per recall. Local-first, works with Claude Code, Codex, Cursor, Windsurf.
 - [Reflex](https://github.com/reflex-search/reflex) — Local-first, full-text code search engine built for AI coding agents. Sub-100ms search across 10k+ files via trigram indexing, with structured JSON output and an optional MCP server so agents can query your entire codebase in a single tool call.
 
 ### Database & SQL
