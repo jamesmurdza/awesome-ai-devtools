@@ -295,6 +295,7 @@ Integrations that automatically review pull requests and suggest code fixes:
 Tools that generate unit/e2e tests and integrate AI into CI/CD pipelines:
 
 - [Checksum AI](https://checksum.ai) — End-to-end fully autonomous QA Automation agent that generates CI/CD ready Playwright tests directly to the repository.
+- [Endtest](https://endtest.io) — AI-powered end-to-end testing for web and mobile apps, with self-healing tests, cross-browser execution and CI/CD integrations.
 - [OctoMind](https://octomind.dev) — Auto-maintenance and generated browser-based end-to-end-tests integrated into GitHub Actions, Azure DevOps and more.
 - [Traceloop](https://traceloop.com/) — Uses OpenTelemetry tracing data with generative AI to improve system reliability.
 - [Carbonate](https://carbonate.dev/) — End-to-end testing using natural language. Integrates into your existing test suite (currently Jest, PHPUnit and Python's unittest).
