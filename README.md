@@ -384,6 +384,12 @@ Tools that manage and sync AI agent configurations, rules, and context across ed
 - [cc-audit](https://github.com/sisyphusse1-ops/cc-audit) — Single-file Python linter that scores any `CLAUDE.md` / `AGENTS.md` against a 12-rule baseline. Flags leaked secrets (GitHub PATs, AWS keys, PayPal links), the 200-line compliance cliff, and missing project-specifics sections. Zero dependencies, JSON output for CI, MIT.
 - [GAAI Framework](https://github.com/Fr-e-d/GAAI-framework) — Drop-in governance layer for AI coding tools. Backlog-first delivery, cross-session memory, decision tracking, QA gates, and autonomous delivery daemon. Works with Claude Code, Cursor, Codex CLI, Gemini CLI, Windsurf. Markdown + YAML + bash, zero dependencies.
 
+### AI Service Status Monitoring
+
+Tools for tracking uptime and availability across AI provider APIs:
+
+- [Prismix](https://prismix.dev) � Real-time status dashboard for 75+ AI services (OpenAI, Anthropic, Groq, Cursor, Gemini, etc.) with email and webhook alerts on outages, 30-day uptime history, embeddable SVG badges, and a public REST API. Free to browse; Pro alerts $10/mo.
+
 ### Usage Analytics & Cost Tracking
 
 Tools for monitoring token usage and API costs across AI providers:
