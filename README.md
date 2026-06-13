@@ -383,6 +383,7 @@ Tools that manage and sync AI agent configurations, rules, and context across ed
 - [claude-code-pro-pack](https://github.com/sisyphusse1-ops/claude-code-pro-pack) — Drop-in 12-rule `CLAUDE.md` + `AGENTS.md` baseline that closes common agent-orchestration failures (token spirals, silent partial failures, two-pattern pollution). Includes PRD generator prompt, browser-skill-graduation workflow, and 5 example skills. ~700 tokens total, MIT.
 - [cc-audit](https://github.com/sisyphusse1-ops/cc-audit) — Single-file Python linter that scores any `CLAUDE.md` / `AGENTS.md` against a 12-rule baseline. Flags leaked secrets (GitHub PATs, AWS keys, PayPal links), the 200-line compliance cliff, and missing project-specifics sections. Zero dependencies, JSON output for CI, MIT.
 - [GAAI Framework](https://github.com/Fr-e-d/GAAI-framework) — Drop-in governance layer for AI coding tools. Backlog-first delivery, cross-session memory, decision tracking, QA gates, and autonomous delivery daemon. Works with Claude Code, Cursor, Codex CLI, Gemini CLI, Windsurf. Markdown + YAML + bash, zero dependencies.
+- [agentic-harness](https://github.com/MrBogomips/agentic-harness) — Claude Code plugin that builds, reviews, and maintains a project's agentic harness (the agents, skills, and orchestrator under .claude/), coordinating with existing spec-driven-development systems and issue trackers and optionally syncing a repo-native tracker with Jira/Linear. MIT.
 
 ### Usage Analytics & Cost Tracking
 
