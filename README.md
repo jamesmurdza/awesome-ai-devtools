@@ -383,6 +383,7 @@ Tools that manage and sync AI agent configurations, rules, and context across ed
 - [claude-code-pro-pack](https://github.com/sisyphusse1-ops/claude-code-pro-pack) — Drop-in 12-rule `CLAUDE.md` + `AGENTS.md` baseline that closes common agent-orchestration failures (token spirals, silent partial failures, two-pattern pollution). Includes PRD generator prompt, browser-skill-graduation workflow, and 5 example skills. ~700 tokens total, MIT.
 - [cc-audit](https://github.com/sisyphusse1-ops/cc-audit) — Single-file Python linter that scores any `CLAUDE.md` / `AGENTS.md` against a 12-rule baseline. Flags leaked secrets (GitHub PATs, AWS keys, PayPal links), the 200-line compliance cliff, and missing project-specifics sections. Zero dependencies, JSON output for CI, MIT.
 - [GAAI Framework](https://github.com/Fr-e-d/GAAI-framework) — Drop-in governance layer for AI coding tools. Backlog-first delivery, cross-session memory, decision tracking, QA gates, and autonomous delivery daemon. Works with Claude Code, Cursor, Codex CLI, Gemini CLI, Windsurf. Markdown + YAML + bash, zero dependencies.
+- [agents-md-cookbook](https://github.com/Taiizor/agents-md-cookbook) — Tool-agnostic AGENTS.md kit: 15 stack-specific templates, a tool compatibility matrix, an npm CLI + GitHub Action linter (agents-md-lint), and a migrator (agents-md-migrate) that converts .cursorrules, CLAUDE.md, Copilot, Windsurf, Cline, and Aider configs to AGENTS.md. MIT.
 
 ### Usage Analytics & Cost Tracking
 
