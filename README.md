@@ -419,6 +419,7 @@ Tools that generate commit messages and PR descriptions from diffs:
 
 Tools that auto-generate documentation, diagrams, and changelogs from source code:
 
+- [TopoAI](https://www.topoai.cc/) — AI web app that generates editable network topology, cloud architecture, and security diagram drafts from sanitized text scenarios.
 - [DiagramGPT](https://www.eraser.io/diagramgpt) — Free AI web app that generates flowcharts, ER diagrams, cloud architecture, and sequence diagrams from text or code.
 - [DocuPilot](https://docupilot-alpha.vercel.app) — GitHub App that auto-updates README, CHANGELOG, and API docs on every push using AI.
 - [DocuWriter.ai](https://www.docuwriter.ai/) — AI-powered web app to generate automated Code & API documentation from your source code files.
