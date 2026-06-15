@@ -424,6 +424,7 @@ Tools that auto-generate documentation, diagrams, and changelogs from source cod
 - [DocuWriter.ai](https://www.docuwriter.ai/) — AI-powered web app to generate automated Code & API documentation from your source code files.
 - [EkLine](https://ekline.io/) — AI-powered documentation tool with quality checks, style guide enforcement, and automatic doc generation.
 - [Changenotes](https://changenotes.app) — AI-powered changelog generator. Connects to GitHub, auto-generates categorized changelogs from commits and PRs on every release. Free tier available, Pro $9/mo.
+- [DocPulse](https://github.com/YoniRaviv/DocPulse) — Open-source GitHub Action that detects documentation invalidated by a PR's code changes and commits surgical, style-preserving fixes onto the PR branch. A deterministic tree-sitter link graph picks suspect doc sections; an LLM verifier and repairer handle the rest. Supports Claude, OpenAI, and any LiteLLM model (BYOK). MIT licensed.
 
 ---
 
