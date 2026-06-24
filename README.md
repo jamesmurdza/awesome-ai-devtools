@@ -307,6 +307,7 @@ Tools that generate unit/e2e tests and integrate AI into CI/CD pipelines:
 - [TraceRoot AI](https://traceroot.ai/) — AI-native observability tool that uses AI agents to automatically fix production bugs.
 - [Fine](https://fine.dev/?ref=awesome) — AI Dev Environment for automating mundane work. Integrate GitHub, Sentry, Linear. Get context-aware answers to questions. Plan, design and implement changes. Automate self-healing CI/CD.
 - [CodeFlash AI](https://www.codeflash.ai/) — A CLI and CI tool for optimizing Python code using AI.
+- [Weco](https://github.com/WecoAI/weco-cli) — A CLI that optimizes code (GPU kernels, ML models, prompts) by running autoresearch against an evaluation metric, keeping changes only when the metric improves.
 - [Recurse ML](https://recurse.ml) — Find bugs in AI-generated code.
 - [TestDriver](https://testdriver.ai) — Cross-platform, selectorless end-to-end QA testing framework.
 
