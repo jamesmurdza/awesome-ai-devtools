@@ -96,6 +96,8 @@ Plugins that add AI-powered completion, chat, and refactoring to existing code e
 
 ## Terminal
 
+- [Loopy](https://github.com/arjunkshah/loopy) - Kanban-based agent operating system orchestrating dozens of coding-agent CLIs with complexity-aware routing, named subagents, and verifiable execution receipts. Local-first, open-source.
+
 ### Terminal Agents
 
 Autonomous CLI agents that generate code, execute shell commands, and manage multi-file workflows:
