@@ -314,6 +314,7 @@ Tools that generate unit/e2e tests and integrate AI into CI/CD pipelines:
 
 ## Agent Infrastructure
 
+- [AI Delivery Spec](https://github.com/franklinxkk/ai-delivery-spec) - Product-side SDD framework: PRDs, IA skeletons, FRR records, AC-YAML, coding-agent delivery. v4.9.2
 ### Multi-Agent Orchestration
 
 Platforms for running multiple AI coding agents in parallel with workspace isolation:
