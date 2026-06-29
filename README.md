@@ -82,6 +82,7 @@ Plugins that add AI-powered completion, chat, and refactoring to existing code e
 - [Android Studio Bot](https://developer.android.com/studio/preview/studio-bot) — AI coding assistant integrated in Android Studio for code generation, resource discovery, and best practices.
 - [IBM watsonx Code Assistant for Z](https://www.ibm.com/products/watsonx-code-assistant-z) — AI-powered mainframe modernization tool with COBOL to Java conversion, code refactoring, and application discovery.
 - [EasyCode](https://www.easycode.ai/) — VS Code extension with GPT-4 chat.
+- [PaperClaw](https://github.com/Agnuxo1/CAJAL) — AI VS Code extension for scientific paper generation from documents. Supports BibTeX, LaTeX tables, formatting, and cross-referencing across 10+ scientific document types.
 - [Kilo Code](https://kilocode.ai) - Open Source AI coding assistant for planning, building, and fixing code inside VS Code.
 - [FlyonUI MCP](https://flyonui.com/mcp) — MCP server for generating Tailwind CSS components, blocks, and pages using FlyonUI.
 - [Traycer](https://traycer.ai) - Plan-First Coding Assistant in VS Code.
