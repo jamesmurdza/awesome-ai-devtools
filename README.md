@@ -188,6 +188,8 @@ Tools that generate components, mockups, and frontend code from text prompts or 
 
 ### Coding Agents
 
+
+- [Skill Hub](https://skill.442595.xyz/) — 2800+ AI Agent Skills 分类导航站，支持 Claude Code / Cursor / Codex / Hermes 等多平台技能筛选
 Autonomous AI agents that work on existing codebases to fix bugs, refactor code, and create pull requests:
 
 - [Factory](https://www.factory.ai/) — Agent-native software development platform with "Droids" that work across IDE, terminal, CLI, Slack/Teams, and CI/CD. Handles refactors, incident response, and migrations.
