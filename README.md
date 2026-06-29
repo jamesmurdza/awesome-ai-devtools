@@ -309,6 +309,7 @@ Tools that generate unit/e2e tests and integrate AI into CI/CD pipelines:
 - [CodeFlash AI](https://www.codeflash.ai/) — A CLI and CI tool for optimizing Python code using AI.
 - [Recurse ML](https://recurse.ml) — Find bugs in AI-generated code.
 - [TestDriver](https://testdriver.ai) — Cross-platform, selectorless end-to-end QA testing framework.
+- [podium-mcp](https://github.com/hoainho/podium-mcp) — Mobile + canvas automation MCP server. 51 tools for iOS/Android device control, native UI automation, WebView DOM + network inspection, React Native debugging, and a no-vision canvas/WebGL brain. ~5x fewer tokens than screenshot/vision loops.
 
 ---
 
