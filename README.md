@@ -60,6 +60,7 @@ Full development environments with AI for code generation, chat, and debugging:
 Plugins that add AI-powered completion, chat, and refactoring to existing code editors:
 
 - [GitHub Copilot](https://github.com/features/copilot) — A VS Code extension with chat, pull request text generation, and unit test generation.
+- [Roo Code](https://github.com/RooVetGit/Roo-Code) — Open-source autonomous coding agent for VS Code that gives you a whole dev team of AI agents in your editor. Supports multiple providers, codebase indexing, autonomous file editing, and multi-agent workflows. 24k+ stars.
 - [Cline](https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev) — Autonomous coding agent for VS Code that can create/edit files, execute commands, and use the browser with user permission. Supports multiple AI providers including OpenRouter, Anthropic, OpenAI, Google Gemini, AWS Bedrock, Azure, and GCP Vertex.
 - [Continue](https://continue.dev/) — VS Code extension with chat, refactor, and code generation. Edits multiple files and runs commands on your behalf.
 - [Tabnine](https://www.tabnine.com/) — Open source, self-hosted code completion assistant. Extensions for 15 editors including VS Code, IntelliJ, Neovim, Eclipse, and PyCharm.
