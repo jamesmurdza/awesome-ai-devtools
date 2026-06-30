@@ -1,3 +1,5 @@
+- [SuperCompress](https://github.com/arjunkshah/supercompress) - Open-source learned prompt compression for LLMs. Cuts ~65% of tokens before inference using a ~5K parameter CPU policy with 100% oracle recall. Live demo at https://supercompress.dev. pip install supercompress.
+
 # ⚡️🧑‍💻 Awesome AI-Powered Developer Tools
 
 This is a curated list of AI-powered developer tools. These tools leverage AI to assist developers in tasks such as code completion, refactoring, debugging, documentation, and more.
