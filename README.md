@@ -201,6 +201,7 @@ Tools for understanding, navigating, and getting answers about existing codebase
 - [4DA / @4da/mcp-server](https://www.npmjs.com/package/@4da/mcp-server) — Desktop app + MCP server (36 tools) that gives AI coding assistants awareness of your tech stack, dependencies, and decisions. Scores content from HN, arXiv, Reddit, GitHub against your codebase. Live vulnerability scanning via OSV.dev. Privacy-first — everything stays local.
 - [Sourcegraph Cody](https://about.sourcegraph.com/cody) — Assistant with chat, refactoring, and unit test generation. Extensions for VS Code and IntelliJ. Also available as a web app.
 - [Unblocked](https://getunblocked.com/) — Augment source code with relevant existing knowledge in GitHub, Slack, Jira, Confluence, and more. Get answers through chat and IDE file-level context. Available on web, macOS, Slack, VS Code, and JetBrains IDEs.
+- [FilePilot AI](https://github.com/cuiheng511/filepilot-ai) — Local-first file intelligence for developers and AI agents, with a desktop app, CLI, and scoped MCP server for searching, summarizing, tagging, deduplicating, and organizing local files.
 - [Magnet](https://www.magnet.run/) — AI-native workspace for building software with repositories and issues as context.
 - [Code to Flow](https://codetoflow.com) — Visualize, analyze, and understand code with interactive flowcharts.
 - [Gru.ai](https://www.gru.ai/) — AI coding assistant for algorithms, debugging, testing, and answering programming questions.
