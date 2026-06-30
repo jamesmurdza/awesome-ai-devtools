@@ -130,6 +130,7 @@ Lightweight command-line tools for AI-assisted commits, shell translation, and w
 - [Butterfish](https://butterfi.sh) — CLI tool that embeds ChatGPT in your shell for easy access. Includes simple agentic capabilities.
 - [TmuxAI](https://tmuxai.dev/) - AI-powered, non-intrusive terminal assistant.
 - [IWE](https://github.com/iwe-org/iwe) — Markdown knowledge graph with CLI that gives AI agents structured access to your knowledge base — no vector database required.
+- [Lifeboat](https://github.com/noah-thing/lifeboat) — CLI that gives your coding agent automatic failover: when Claude Code hits a rate limit, ban, or outage, it hands the same task (with your context) to Aider, OpenCode, or a local Ollama model and keeps working. Multi-provider and local-hardware resilience, not account evasion. MIT.
 - [Hermes IDE](https://www.hermes-ide.com) — AI-powered shell wrapper for zsh, bash, and fish that adds ghost-text completions, autonomous task execution, full git management with worktrees, and multi-project sessions. Free and open source.
 - [codesight](https://github.com/Houseofmvps/codesight) — CLI token optimizer and AI context generator. Scans codebases to extract routes, schema, components, and dependencies for Claude Code, Cursor, Copilot, Codex, and Windsurf. 9x–13x token reduction, built-in MCP server, zero runtime dependencies.
 - [CLIRank](https://clirank.dev) — API directory scoring 387 APIs on agent-friendliness across 11 signals. Available as an MCP server (`clirank-mcp-server`) and REST API.
@@ -404,6 +405,7 @@ Tools for monitoring token usage and API costs across AI providers:
 - [aicost](https://github.com/dwylq/aicost) — Universal AI coding cost analyzer CLI. Scans Claude Code, Cursor, and GitHub Copilot usage with cache-aware pricing, HTML dashboard, and cost alerting. No API key required.
 - [CostGoat](https://costgoat.com) — Privacy-first menubar app for tracking AI agent quotas (Claude Code, Codex, Kimi, Z.ai) and LLM API costs (OpenAI, OpenRouter, Anthropic, ElevenLabs) in real-time. Also covers cloud spend and SaaS subscriptions.
 - [TokenWise](https://github.com/CodeShuX/tokenwise) — Measurement-driven model router for Claude Code. Auto-routes subtasks across Haiku/Sonnet/Opus based on task class, logs every routed task with verified $ saved to a local NDJSON, and includes an A/B test subcommand to validate cheaper tiers before trusting routing. MIT, zero telemetry, Anthropic-only.
+- [Receipt](https://github.com/noah-thing/receipt) — Local-first CLI and GitHub Action that posts an itemized AI-cost comment (tokens and dollars, broken down by model) on every pull request, scoped to that branch's commits. Tracks Claude Code, Cursor, Copilot, Aider, Codex, and any OpenAI- or Anthropic-compatible API via a logging proxy or session-log import. Append-only ledger, local dashboard, never stores prompts. MIT.
 
 ---
 
