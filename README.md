@@ -154,6 +154,7 @@ Platforms that scaffold and deploy full-stack applications from natural language
 - [Leap.new](https://leap.new/) — Builds functional apps with real backend services, APIs, and deploys to your cloud.
 - [Pico](https://picoapps.xyz) — End-to-end micro app generator with instant deployment.
 - [SoftGen](https://softgen.ai/) — AI-powered software generation platform for building Web Apps.
+- [Scalekit](https://www.scalekit.com/) - Add 3000+ tools to the AI agent you're building now. 
 - [LlamaCoder](https://llamacoder.together.ai/) — Open source code generation model for building applications using open source LLMs.
 - [Forge](https://forge-web.rebaselabs.online) — AI-powered full-stack app creator that generates Next.js apps from natural language. BYOK model — use your own Anthropic, OpenAI, or Google AI key with no markup. Multi-stage pipeline with auto-fix and TypeScript strict mode.
 - [e2b_Fragments](https://fragments.e2b.dev/) — Platform for building and deploying AI-powered applications with sandboxed environments.
@@ -376,7 +377,6 @@ Tools that manage and sync AI agent configurations, rules, and context across ed
 - [pi-steering-hooks](https://github.com/samfoy/pi-steering-hooks) — Deterministic before-tool-call guardrails for the pi coding agent. Enforces rules (no force push, conventional commits, etc.) via regex pattern matching on tool inputs — zero tokens, 100% reliable. Custom rules via JSON config with override escape hatch.
 - [Spartan AI Toolkit](https://github.com/spartan-stratos/spartan-ai-toolkit) — Engineering discipline layer for AI coding agents. 67 slash commands with quality gates enforce TDD, code review, and atomic commits. Configurable rules for any stack. Works with Claude Code, Codex, Cursor, Windsurf, Copilot.
 - [Nex](https://github.com/nex-crm/nex-as-a-skill) — Organizational context and memory for AI agents. Connects email, Slack, CRM, and 100+ tools into one knowledge graph with a 60-tool MCP server and persistent memory across agent sessions.
-- [Scalekit](https://www.scalekit.com/) — Auth platform for AI agents and agentic apps: OAuth connectors (Gmail, Slack, and more), MCP server authorization, and per-user tool access so agents can call third-party APIs on behalf of users.
 - [Agentify](https://github.com/koriyoshi2041/agentify) — CLI tool that transforms any OpenAPI spec into 9 agent interface formats (MCP server, AGENTS.md, CLAUDE.md, .cursorrules, Skills, llms.txt, GEMINI.md, A2A Card, CLI) with a single command. Tiered generation strategies for small to large APIs.
 - [ContextKit](https://nova-labs.dev/contextkit/generate) — Free web-based generator for AI coding config files. Creates CLAUDE.md, .cursorrules, codex.md, and GEMINI.md from a single form with framework-specific rules. Client-side, no data sent to servers.
 - [skill-optimizer](https://github.com/fastxyz/skill-optimizer) — CLI that benchmarks SDK, CLI, and MCP guidance docs (SKILL.md) against multiple LLMs and runs an iterative optimizer to rewrite them until every configured model meets a score floor.
