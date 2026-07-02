@@ -294,6 +294,7 @@ Integrations that automatically review pull requests and suggest code fixes:
 
 Tools that generate unit/e2e tests and integrate AI into CI/CD pipelines:
 
+- [agent-qa](https://github.com/vostride/agent-qa) — Self-improving QA agent for writing and running natural-language web and mobile tests, with run memory, UI-change adaptation, and regression detection.
 - [Checksum AI](https://checksum.ai) — End-to-end fully autonomous QA Automation agent that generates CI/CD ready Playwright tests directly to the repository.
 - [OctoMind](https://octomind.dev) — Auto-maintenance and generated browser-based end-to-end-tests integrated into GitHub Actions, Azure DevOps and more.
 - [Traceloop](https://traceloop.com/) — Uses OpenTelemetry tracing data with generative AI to improve system reliability.
