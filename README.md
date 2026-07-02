@@ -425,6 +425,7 @@ Tools that auto-generate documentation, diagrams, and changelogs from source cod
 - [DocuPilot](https://docupilot-alpha.vercel.app) — GitHub App that auto-updates README, CHANGELOG, and API docs on every push using AI.
 - [DocuWriter.ai](https://www.docuwriter.ai/) — AI-powered web app to generate automated Code & API documentation from your source code files.
 - [EkLine](https://ekline.io/) — AI-powered documentation tool with quality checks, style guide enforcement, and automatic doc generation.
+- [Moxie Docs](https://moxiedocs.com) — SaaS GitHub App that indexes repositories, generates human-friendly docs, serves citation-backed repo context to AI agents through MCP, and opens scoped documentation PRs when code changes make docs stale.
 - [Changenotes](https://changenotes.app) — AI-powered changelog generator. Connects to GitHub, auto-generates categorized changelogs from commits and PRs on every release. Free tier available, Pro $9/mo.
 
 ---
