@@ -409,6 +409,8 @@ Tools for monitoring token usage and API costs across AI providers:
 
 ## Specialized Tools
 
+- [Shipyard](https://goshipyard.app/?ref=awesome-ai-devtools) — Hosted MCP server, CLI and Claude Code/Cursor skills that let your coding agent ship, review, and distribute vibe-coded apps: post a project, collect and fund honest reviews, and manage launches from your agent.
+
 ### Git & Commit Helpers
 
 Tools that generate commit messages and PR descriptions from diffs:
