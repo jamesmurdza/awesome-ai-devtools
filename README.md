@@ -277,6 +277,7 @@ Integrations that automatically review pull requests and suggest code fixes:
 - [Pixee](https://pixee.ai) — Finds security and code quality issues and creates merge-ready pull requests with fixes.
 - [CodeAnt AI](https://www.codeant.ai/) — Automatically create PRs to fix code issues.
 - [What The Diff](https://whatthediff.ai/) — AI-powered app that reviews the diff of pull requests and writes a descriptive comment about the changes in plain English.
+- [AI Money Stack](https://duct-tape2.github.io/ai-money-stack/) — Local-first AI workflow toolkit for PR review checklists, launch planning, and revenue idea scanning.
 - [CodeReviewBot](https://codereviewbot.ai/) — AI powered code reviews for GitHub.
 - [Gito](https://github.com/Nayjest/Gito) - AI code reviewer that works with any language model, locally or in GitHub Actions.
 - [Baz](https://baz.co) - AI Code Reviewer that is tailored to your team's guidelines and conventions. Customizable, adaptable, responsive and integrated with the rest of the developer tooling for context.
