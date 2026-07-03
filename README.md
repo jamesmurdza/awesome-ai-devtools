@@ -299,3 +299,6 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [Awesome Code Docs](https://github.com/johnxie/awesome-code-docs) — Curated deep-dive tutorials for open-source AI and developer tooling projects.
 - [Cursor Rules Collection](https://github.com/survivorforge/cursor-rules) — 35+ production-quality .cursorrules files for 16 frameworks including React, Next.js, Python, Go, Rust, SvelteKit, and Django. Configure AI coding assistants with code style, architecture, and testing conventions. MIT licensed.
 - [Havoptic](https://havoptic.com/) — Free, open-source timeline tracking releases from AI coding tools. Auto-updated daily. [Source](https://github.com/scotthavird/havoptic.com)
+
+## Helium Open Benchmarks
+- [Market Resolution](https://huggingface.co/datasets/HeliumTrades/helium-market-resolution-benchmark) | [Model Worldview](https://huggingface.co/datasets/HeliumTrades/helium-model-worldview-benchmark) — https://heliumtrades.com/benchmarks/
