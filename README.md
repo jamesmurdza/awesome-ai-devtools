@@ -436,6 +436,7 @@ Curated lists, comparison guides, and configuration templates for AI coding tool
 - [aiforcode.io](https://aiforcode.io) — Expert-curated directory of 42+ AI coding tools with transparent 100-point scoring, head-to-head comparisons, and an interactive tool recommendation quiz. Verified monthly.
 - [Awesome Code Docs](https://github.com/johnxie/awesome-code-docs) — Curated deep-dive tutorials for open-source AI and developer tooling projects.
 - [AI Coding Compare](https://aicodingcompare.com) — Compare 50+ AI coding assistants with features, pricing, and performance benchmarks.
+- [AI Coding Tools Guide](https://ai-coding-tools-guide.vercel.app/) — Compare, configure, and extend Claude Code, Cursor, MCP, Windsurf, Copilot, and other AI coding tools.
 - [ClaudeDown](https://claudedown.com) - Real-time Claude AI complaint tracker and outage detector using Twitter/X sentiment data.
 - [Havoptic](https://havoptic.com/) — Free, open-source timeline tracking releases from AI coding tools. Auto-updated daily.
 - [AI Coding Guide (中文)](https://github.com/jnMetaCode/ai-coding-guide) — Chinese best practices for 8 AI coding tools (Claude Code, Cursor, Copilot, Windsurf, Gemini CLI, Kiro, Aider, Trae) with copy-paste config templates and multi-tool collaboration workflows.
