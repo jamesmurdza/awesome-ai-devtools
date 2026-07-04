@@ -34,6 +34,8 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
   - [Documentation Generation](#documentation-generation)
 - [Resources](#resources)
 
+- **[Context Kit](https://github.com/JDDavenport/context-kit)** — Personal Context Artifacts (PCAs): structured Markdown files + Claude Code skills that give any AI agent deep, longitudinal context about you. 4 templates + 5 skills, MIT licensed.
+
 ---
 
 ## Development Environments
