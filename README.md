@@ -185,6 +185,7 @@ Tools that generate components, mockups, and frontend code from text prompts or 
 - [BoringUi](https://www.boringui.xyz/) — Generate HTML + Tailwind CSS UI from JSON data with shareable links.
 - [CSS Picker](https://csspicker.dev/) — Copy UI from Existing Design and Iterate with AI, support Copy CSS from website (by [CSS Picker Extension](https://chromewebstore.google.com/detail/csspicker-copy-css-from-w/laooinkgdapbcbjchpmihliljfnakkdh)), image to code and text to UI.
 - [Frontman](https://frontman.sh/) — Open-source AI coding agent that lives in your browser. Click any element, describe changes in plain English, get real code edits with hot reload. Supports Next.js, Vite (React, Vue, Svelte), and Astro.
+- [ux-skill](https://github.com/Laith0003/ux-skill) - Design-intelligence engine that turns a brief into a complete design system, then generates branded frontend code and verifies it with a deterministic anti-AI-slop linter that flags generic tells (gradient heroes, equal-card rows, default fonts at display size). Offline, never calls an LLM. Ships as a Claude Code plugin, a Python package (`pip install uxskill`), and an MCP server. MIT.
 
 ### Coding Agents
 
