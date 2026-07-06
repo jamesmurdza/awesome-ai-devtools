@@ -122,21 +122,35 @@ Autonomous CLI agents that generate code, execute shell commands, and manage mul
 
 Lightweight command-line tools for AI-assisted commits, shell translation, and workflow automation:
 
-- [gptcomet](https://github.com/belingud/gptcomet) — CLI tool to help you generate commit message and review changes. Supports multiple providers and languages.
+- [api2prompt](https://github.com/alvabillwu/api2prompt) - OpenAPI spec to LLM prompt converter (markdown+JSON)
 - [Baz CLI](https://github.com/baz-scm/baz-cli) - CLI for AI assisted code review, with access to the actual code, diff etc.
-- [models](https://github.com/arimxyer/models) — A TUI for browsing AI models, benchmarks from Artificial Analysis, and coding agents with GitHub integration. Built with Rust and Ratatui.
-- [Jctx](https://github.com/Shashwat-Gupta57/Jctx) — Python CLI that extracts structured, architecture-aware context from Python, Kotlin, and Java codebases for LLMs. Features internal dependency mapping and token estimation.
-- [CCG Workflow](https://github.com/fengshao1227/ccg-workflow) — Multi-model collaboration system for Claude Code. Orchestrates Claude + Codex + Gemini with 28 slash commands, smart routing (Gemini for frontend, Codex for backend), Agent Teams for parallel development, and 6 built-in quality gate skills. One-command install via npx.
+- [bench2bench](https://github.com/alvabillwu/bench2bench) - Convert between LLM benchmark formats
 - [Butterfish](https://butterfi.sh) — CLI tool that embeds ChatGPT in your shell for easy access. Includes simple agentic capabilities.
-- [TmuxAI](https://tmuxai.dev/) - AI-powered, non-intrusive terminal assistant.
-- [IWE](https://github.com/iwe-org/iwe) — Markdown knowledge graph with CLI that gives AI agents structured access to your knowledge base — no vector database required.
-- [Hermes IDE](https://www.hermes-ide.com) — AI-powered shell wrapper for zsh, bash, and fish that adds ghost-text completions, autonomous task execution, full git management with worktrees, and multi-project sessions. Free and open source.
-- [codesight](https://github.com/Houseofmvps/codesight) — CLI token optimizer and AI context generator. Scans codebases to extract routes, schema, components, and dependencies for Claude Code, Cursor, Copilot, Codex, and Windsurf. 9x–13x token reduction, built-in MCP server, zero runtime dependencies.
+- [CCG Workflow](https://github.com/fengshao1227/ccg-workflow) — Multi-model collaboration system for Claude Code. Orchestrates Claude + Codex + Gemini with 28 slash commands, smart routing (Gemini for frontend, Codex for backend), Agent Teams for parallel development, and 6 built-in quality gate skills. One-command install via npx.
 - [CLIRank](https://clirank.dev) — API directory scoring 387 APIs on agent-friendliness across 11 signals. Available as an MCP server (`clirank-mcp-server`) and REST API.
-- [prpack](https://github.com/Lucas2944/prpack) — Zero-dep CLI that packs a pull request (diff + commits + full post-change file contents) into one markdown file optimized for LLM code review. Drop the file into Claude / Cursor / your model. MIT.
+- [code2prompt-lite](https://github.com/alvabillwu/code2prompt-lite) - Pipe a codebase into an LLM-friendly structured prompt
+- [codesight](https://github.com/Houseofmvps/codesight) — CLI token optimizer and AI context generator. Scans codebases to extract routes, schema, components, and dependencies for Claude Code, Cursor, Copilot, Codex, and Windsurf. 9x–13x token reduction, built-in MCP server, zero runtime dependencies.
+- [config2llm](https://github.com/alvabillwu/config2llm) - Convert config files to LLM prompts (JSON/YAML/TOML)
+- [ctxpack](https://github.com/alvabillwu/ctxpack) - Pack documents into an LLM context-window budget with 3 strategies
+- [dep-graph](https://github.com/alvabillwu/dep-graph) - Dependency-aware context generation for AI agents (Python+Node)
+- [export2llm](https://github.com/alvabillwu/export2llm) - Export data to LLM-friendly markdown (CSV/JSON/XML/SQL)
+- [gptcomet](https://github.com/belingud/gptcomet) — CLI tool to help you generate commit message and review changes. Supports multiple providers and languages.
+- [Hermes IDE](https://www.hermes-ide.com) — AI-powered shell wrapper for zsh, bash, and fish that adds ghost-text completions, autonomous task execution, full git management with worktrees, and multi-project sessions. Free and open source.
+- [IWE](https://github.com/iwe-org/iwe) — Markdown knowledge graph with CLI that gives AI agents structured access to your knowledge base — no vector database required.
+- [Jctx](https://github.com/Shashwat-Gupta57/Jctx) — Python CLI that extracts structured, architecture-aware context from Python, Kotlin, and Java codebases for LLMs. Features internal dependency mapping and token estimation.
+- [json-inspector](https://github.com/alvabillwu/json-inspector) - Browser-based JSON explorer and formatter
+- [llm2json](https://github.com/alvabillwu/llm2json) - Robust JSON parser for LLM outputs with 6 fixers and schema validation
 - [Marmot](https://marmot.sh) — Shell-native CLI that gives agents one command shape for AI, web search, scraping, and data enrichment across many providers. Designed for Claude Code, Codex, OpenCode, and similar harnesses; composes via shell pipes.
-- [ORCH](https://github.com/oxgeneral/ORCH) — CLI runtime that coordinates Claude Code, OpenCode, Codex, and Cursor as a typed AI team. State machine (todo→review→done), auto-retry, inter-agent messaging, TUI dashboard.
+- [models](https://github.com/arimxyer/models) — A TUI for browsing AI models, benchmarks from Artificial Analysis, and coding agents with GitHub integration. Built with Rust and Ratatui.
 - [Octomind](https://github.com/muvon/octomind) — Session-based AI development assistant with MCP support, 7 LLM providers, and extensible architecture. Features plan-first workflow, semantic code search, and persistent memory.
+- [ORCH](https://github.com/oxgeneral/ORCH) — CLI runtime that coordinates Claude Code, OpenCode, Codex, and Cursor as a typed AI team. State machine (todo→review→done), auto-retry, inter-agent messaging, TUI dashboard.
+- [prompt2prompt](https://github.com/alvabillwu/prompt2prompt) - Convert prompts between LLM formats (ChatML/Claude/Gemini/Llama)
+- [prpack](https://github.com/Lucas2944/prpack) — Zero-dep CLI that packs a pull request (diff + commits + full post-change file contents) into one markdown file optimized for LLM code review. Drop the file into Claude / Cursor / your model. MIT.
+- [text2badge](https://github.com/alvabillwu/text2badge) - SVG badge generator with 12 color schemes
+- [text2diagram](https://github.com/alvabillwu/text2diagram) - Text to Mermaid.js diagram generator (web UI)
+- [text2i18n](https://github.com/alvabillwu/text2i18n) - Extract translatable strings and generate i18n templates
+- [TmuxAI](https://tmuxai.dev/) - AI-powered, non-intrusive terminal assistant.
+- [tokencost](https://github.com/alvabillwu/tokencost) - LLM token counter & cost calculator across 20+ models
 
 ---
 
@@ -199,18 +213,22 @@ Autonomous AI agents that work on existing codebases to fix bugs, refactor code,
 Tools for understanding, navigating, and getting answers about existing codebases:
 
 - [4DA / @4da/mcp-server](https://www.npmjs.com/package/@4da/mcp-server) — Desktop app + MCP server (36 tools) that gives AI coding assistants awareness of your tech stack, dependencies, and decisions. Scores content from HN, arXiv, Reddit, GitHub against your codebase. Live vulnerability scanning via OSV.dev. Privacy-first — everything stays local.
-- [Sourcegraph Cody](https://about.sourcegraph.com/cody) — Assistant with chat, refactoring, and unit test generation. Extensions for VS Code and IntelliJ. Also available as a web app.
-- [Unblocked](https://getunblocked.com/) — Augment source code with relevant existing knowledge in GitHub, Slack, Jira, Confluence, and more. Get answers through chat and IDE file-level context. Available on web, macOS, Slack, VS Code, and JetBrains IDEs.
-- [Magnet](https://www.magnet.run/) — AI-native workspace for building software with repositories and issues as context.
 - [Code to Flow](https://codetoflow.com) — Visualize, analyze, and understand code with interactive flowcharts.
-- [Gru.ai](https://www.gru.ai/) — AI coding assistant for algorithms, debugging, testing, and answering programming questions.
-- [sudocode](https://sudocode.ai/) — Context management system for AI coding agents that creates organizational structures to track context over long-horizon tasks.
-- [sourcebook](https://github.com/maroondlabs/sourcebook) — CLI and MCP server that generates AGENTS.md/CLAUDE.md from static analysis of codebase structure, git history, and convention detection. Surfaces hub files, co-change coupling, and blast radius. No LLM required.
-- [Grasp](https://github.com/ashfordeOU/grasp) — Code architecture visualizer: paste any GitHub/GitLab URL → interactive dependency graph (9 layouts, 16 colour modes), A–F health score, security scanner (SARIF 2.1 export), blast radius, churn heatmap, ORM query map, and AI chat (15 providers). 116 MCP tools with Kuzu graph DB + SQLite brain. Zero data collection, everything runs locally.
-- [Kasava](https://kasava.dev) - Parses codebases and reads every commit so progress reports cite real changes and feature plans are made with real architecture context.
-- [SeaGOAT](https://kantord.github.io/SeaGOAT/latest/) — A local search tool leveraging vector embeddings to search your codebase semantically.
 - [ContextWire](https://contextwire.dev) — Free search API for AI agents with 105 engines, 22 search profiles, and 94.3% SimpleQA accuracy. MCP server included.
+- [Grasp](https://github.com/ashfordeOU/grasp) — Code architecture visualizer: paste any GitHub/GitLab URL → interactive dependency graph (9 layouts, 16 colour modes), A–F health score, security scanner (SARIF 2.1 export), blast radius, churn heatmap, ORM query map, and AI chat (15 providers). 116 MCP tools with Kuzu graph DB + SQLite brain. Zero data collection, everything runs locally.
+- [Gru.ai](https://www.gru.ai/) — AI coding assistant for algorithms, debugging, testing, and answering programming questions.
+- [Kasava](https://kasava.dev) - Parses codebases and reads every commit so progress reports cite real changes and feature plans are made with real architecture context.
+- [llm-router](https://github.com/alvabillwu/llm-router) - Task-based LLM request router (10 models, cost-aware)
+- [Magnet](https://www.magnet.run/) — AI-native workspace for building software with repositories and issues as context.
+- [model2model](https://github.com/alvabillwu/model2model) - LLM response format converter (OpenAI/Anthropic/Gemini)
+- [model2sql](https://github.com/alvabillwu/model2sql) - Natural language to SQL converter (pattern-based, schema-aware)
+- [prompt2api](https://github.com/alvabillwu/prompt2api) - Convert NL prompt into typed REST API (FastAPI+Flask)
 - [Reflex](https://github.com/reflex-search/reflex) — Local-first, full-text code search engine built for AI coding agents. Sub-100ms search across 10k+ files via trigram indexing, with structured JSON output and an optional MCP server so agents can query your entire codebase in a single tool call.
+- [SeaGOAT](https://kantord.github.io/SeaGOAT/latest/) — A local search tool leveraging vector embeddings to search your codebase semantically.
+- [Sourcegraph Cody](https://about.sourcegraph.com/cody) — Assistant with chat, refactoring, and unit test generation. Extensions for VS Code and IntelliJ. Also available as a web app.
+- [sourcebook](https://github.com/maroondlabs/sourcebook) — CLI and MCP server that generates AGENTS.md/CLAUDE.md from static analysis of codebase structure, git history, and convention detection. Surfaces hub files, co-change coupling, and blast radius. No LLM required.
+- [sudocode](https://sudocode.ai/) — Context management system for AI coding agents that creates organizational structures to track context over long-horizon tasks.
+- [Unblocked](https://getunblocked.com/) — Augment source code with relevant existing knowledge in GitHub, Slack, Jira, Confluence, and more. Get answers through chat and IDE file-level context. Available on web, macOS, Slack, VS Code, and JetBrains IDEs.
 
 ### Database & SQL
 
@@ -265,50 +283,56 @@ Native apps for AI-powered coding, terminal enhancement, and agent orchestration
 
 Integrations that automatically review pull requests and suggest code fixes:
 
-- [CodeRabbit](https://coderabbit.ai/) — Customizable CI to add summaries and code suggestions to PRs.
-- [Qodo PR Agent](https://github.com/qodo-ai/pr-agent) — Open source tool for automated code reviews. Qodo was formerly known as Codium (not to be confused with Codeium with an "E").
-- [Greptile](https://greptile.com/code-review-bot) — AI bot that reviews PRs in GitHub/GitLab with full context of the codebase.
-- [Macroscope](https://macroscope.com/code-review) - AI-powered code review for GitHub that uses ASTs to build a graph-based representation of your codebase & pulls context from your issue management systems.
-- [Codegen](https://www.codegen.com/) — GPT-4 based PR agent for enterprise codebases.
-- [Nova](https://www.trynova.ai/) — CI bot to add actions such as summaries and tests to new PRs.
-- [PR Explainer Bot](https://pr-explainer-bot.web.app/) — A GitHub integration that adds explanatory text to newly created PRs.
-- [Goast](https://goast.ai/) — A hosted tool that ingests your error logs and suggests fixes.
-- [Corgea](https://corgea.com/) — A GitHub integration that finds and fixes vulnerable code.
-- [Pixee](https://pixee.ai) — Finds security and code quality issues and creates merge-ready pull requests with fixes.
-- [CodeAnt AI](https://www.codeant.ai/) — Automatically create PRs to fix code issues.
-- [What The Diff](https://whatthediff.ai/) — AI-powered app that reviews the diff of pull requests and writes a descriptive comment about the changes in plain English.
-- [CodeReviewBot](https://codereviewbot.ai/) — AI powered code reviews for GitHub.
-- [Gito](https://github.com/Nayjest/Gito) - AI code reviewer that works with any language model, locally or in GitHub Actions.
 - [Baz](https://baz.co) - AI Code Reviewer that is tailored to your team's guidelines and conventions. Customizable, adaptable, responsive and integrated with the rest of the developer tooling for context.
-- [Z.ai Code Review](https://github.com/tarmojussila/zai-code-review) - AI-powered GitHub Pull Request code review using Z.ai models.
-- [MiniMax Code Review](https://github.com/tarmojussila/minimax-code-review) - AI-powered GitHub Pull Request code review using MiniMax models.
-- [Revieko](https://synqra.tech/revieko/) — Architecture drift radar for PRs: structural risk scoring and drift hotspots.
-- [crit](https://crit.md) - Human-in-the-loop review for AI coding agents. Annotate plans, code, or any file with inline comments in a local browser UI; exports structured JSON your agent reads back. Share reviews via URL.
+- [CodeAnt AI](https://www.codeant.ai/) — Automatically create PRs to fix code issues.
+- [Codegen](https://www.codegen.com/) — GPT-4 based PR agent for enterprise codebases.
 - [CodeHawk](https://codehawk.crossgen-ai.com) — GitHub App that installs in seconds and reviews pull requests automatically, posting inline comments on bugs, security vulnerabilities, and logic errors.
+- [CodeRabbit](https://coderabbit.ai/) — Customizable CI to add summaries and code suggestions to PRs.
+- [CodeReviewBot](https://codereviewbot.ai/) — AI powered code reviews for GitHub.
+- [Corgea](https://corgea.com/) — A GitHub integration that finds and fixes vulnerable code.
+- [crit](https://crit.md) - Human-in-the-loop review for AI coding agents. Annotate plans, code, or any file with inline comments in a local browser UI; exports structured JSON your agent reads back. Share reviews via URL.
+- [Gito](https://github.com/Nayjest/Gito) - AI code reviewer that works with any language model, locally or in GitHub Actions.
+- [Goast](https://goast.ai/) — A hosted tool that ingests your error logs and suggests fixes.
+- [Greptile](https://greptile.com/code-review-bot) — AI bot that reviews PRs in GitHub/GitLab with full context of the codebase.
 - [Grit](https://app.grit.io) — GitHub-integrated agent for automating maintenance tasks and other development work.
+- [Issue AI Agent](https://github.com/alexyan0431/issue-ai-agent) — Open source GitHub Action that auto-classifies, labels, and replies to issues using AI. Detects duplicates and handles follow-up comments. Supports Claude, OpenAI, and OpenAI-compatible APIs (BYOK). MIT licensed.
+- [Macroscope](https://macroscope.com/code-review) - AI-powered code review for GitHub that uses ASTs to build a graph-based representation of your codebase & pulls context from your issue management systems.
+- [mcp-guard](https://github.com/alvabillwu/mcp-guard) - MCP tool security scanner with risk scoring
+- [MiniMax Code Review](https://github.com/tarmojussila/minimax-code-review) - AI-powered GitHub Pull Request code review using MiniMax models.
+- [Nova](https://www.trynova.ai/) — CI bot to add actions such as summaries and tests to new PRs.
+- [Pixee](https://pixee.ai) — Finds security and code quality issues and creates merge-ready pull requests with fixes.
+- [PR Explainer Bot](https://pr-explainer-bot.web.app/) — A GitHub integration that adds explanatory text to newly created PRs.
 - [PR Triage](https://pr-triage-web.vercel.app) — Open source PR evaluation tool that scores pull requests on six quality dimensions with diff evidence. BYOK, MIT licensed.
 - [prpack-action](https://github.com/Lucas2944/prpack-action) — GitHub Action that runs prpack on every PR, uploads the packed markdown as an artifact, and posts a summary comment. MIT.
-- [Issue AI Agent](https://github.com/alexyan0431/issue-ai-agent) — Open source GitHub Action that auto-classifies, labels, and replies to issues using AI. Detects duplicates and handles follow-up comments. Supports Claude, OpenAI, and OpenAI-compatible APIs (BYOK). MIT licensed.
+- [Qodo PR Agent](https://github.com/qodo-ai/pr-agent) — Open source tool for automated code reviews. Qodo was formerly known as Codium (not to be confused with Codeium with an "E").
+- [Revieko](https://synqra.tech/revieko/) — Architecture drift radar for PRs: structural risk scoring and drift hotspots.
+- [skill-audit](https://github.com/alvabillwu/skill-audit) - Security audit for AI agent Skills (12 rules, 4 categories)
+- [What The Diff](https://whatthediff.ai/) — AI-powered app that reviews the diff of pull requests and writes a descriptive comment about the changes in plain English.
+- [Z.ai Code Review](https://github.com/tarmojussila/zai-code-review) - AI-powered GitHub Pull Request code review using Z.ai models.
 
 ### CI/CD & Testing Automation
 
 Tools that generate unit/e2e tests and integrate AI into CI/CD pipelines:
 
-- [Checksum AI](https://checksum.ai) — End-to-end fully autonomous QA Automation agent that generates CI/CD ready Playwright tests directly to the repository.
-- [OctoMind](https://octomind.dev) — Auto-maintenance and generated browser-based end-to-end-tests integrated into GitHub Actions, Azure DevOps and more.
-- [Traceloop](https://traceloop.com/) — Uses OpenTelemetry tracing data with generative AI to improve system reliability.
+- [agent2ci](https://github.com/alvabillwu/agent2ci) - CI/CD pipeline for AI agents (regression testing, drift gates)
+- [agentest](https://github.com/alvabillwu/agentest) - Lightweight test framework for AI agents
 - [Carbonate](https://carbonate.dev/) — End-to-end testing using natural language. Integrates into your existing test suite (currently Jest, PHPUnit and Python's unittest).
-- [Meticulous.ai](https://www.meticulous.ai/) — Automatically generated, automatically maintained end-to-end tests: as your app evolves so does your test suite.
-- [DiffBlue](https://www.diffblue.com/) — Automatically generated unit tests for Java.
-- [Qodo](https://www.qodo.ai/) — Non-trivial test generation with support for major programming languages. Extensions for VS Code and JetBrains. (formerly Codium)
-- [KushoAI](https://kusho.ai/) — AI agent for API testing which transforms your Postman collections, OpenAPI specs, curl commands, etc. into exhaustive test suites that plug into your CI/CD pipeline.
-- [Wopee.io](https://wopee.io) — Autonomous visual regression testing platform with AI-powered test agents. Integrates with Playwright, Cypress, and Robot Framework.
-- [Test Gru](https://gru.ai/home#test-gru) — Provides enterprise-level unit test automation services.
-- [TraceRoot AI](https://traceroot.ai/) — AI-native observability tool that uses AI agents to automatically fix production bugs.
-- [Fine](https://fine.dev/?ref=awesome) — AI Dev Environment for automating mundane work. Integrate GitHub, Sentry, Linear. Get context-aware answers to questions. Plan, design and implement changes. Automate self-healing CI/CD.
+- [Checksum AI](https://checksum.ai) — End-to-end fully autonomous QA Automation agent that generates CI/CD ready Playwright tests directly to the repository.
 - [CodeFlash AI](https://www.codeflash.ai/) — A CLI and CI tool for optimizing Python code using AI.
+- [DiffBlue](https://www.diffblue.com/) — Automatically generated unit tests for Java.
+- [eval-suite](https://github.com/alvabillwu/eval-suite) - Lightweight LLM output evaluation with 5 metrics, zero dependencies
+- [Fine](https://fine.dev/?ref=awesome) — AI Dev Environment for automating mundane work. Integrate GitHub, Sentry, Linear. Get context-aware answers to questions. Plan, design and implement changes. Automate self-healing CI/CD.
+- [judgekit](https://github.com/alvabillwu/judgekit) - Reusable LLM-as-judge harness with rubrics, ensembling, and calibration
+- [KushoAI](https://kusho.ai/) — AI agent for API testing which transforms your Postman collections, OpenAPI specs, curl commands, etc. into exhaustive test suites that plug into your CI/CD pipeline.
+- [Meticulous.ai](https://www.meticulous.ai/) — Automatically generated, automatically maintained end-to-end tests: as your app evolves so does your test suite.
+- [OctoMind](https://octomind.dev) — Auto-maintenance and generated browser-based end-to-end-tests integrated into GitHub Actions, Azure DevOps and more.
+- [Qodo](https://www.qodo.ai/) — Non-trivial test generation with support for major programming languages. Extensions for VS Code and JetBrains. (formerly Codium)
 - [Recurse ML](https://recurse.ml) — Find bugs in AI-generated code.
+- [Test Gru](https://gru.ai/home#test-gru) — Provides enterprise-level unit test automation services.
 - [TestDriver](https://testdriver.ai) — Cross-platform, selectorless end-to-end QA testing framework.
+- [TraceRoot AI](https://traceroot.ai/) — AI-native observability tool that uses AI agents to automatically fix production bugs.
+- [Traceloop](https://traceloop.com/) — Uses OpenTelemetry tracing data with generative AI to improve system reliability.
+- [Wopee.io](https://wopee.io) — Autonomous visual regression testing platform with AI-powered test agents. Integrates with Playwright, Cypress, and Robot Framework.
 
 ---
 
@@ -318,28 +342,34 @@ Tools that generate unit/e2e tests and integrate AI into CI/CD pipelines:
 
 Platforms for running multiple AI coding agents in parallel with workspace isolation:
 
-- [Conductor](https://conductor.build/) — macOS app for orchestrating multiple Claude Code and Codex agents working simultaneously in isolated git worktrees. Features a central dashboard for monitoring, code review, and merging.
-- [Superset](https://superset.sh/) — Code editor for AI agents that orchestrates swarms of Claude Code, Codex, and other CLI-based agents in parallel. Uses isolated git worktrees with universal IDE integration.
-- [Sidecar](https://github.com/marcus/sidecar) — Terminal UI companion for CLI-based coding agents (Claude Code, Cursor, Gemini) with unified conversation history, git integration, task management, and workspace control.
-- [Vibe Kanban](https://vibekanban.com/) — AI-powered Kanban platform for orchestrating autonomous coding agents. Manage agent workflows with visual boards for task delegation and progress tracking.
-- [OpenASE](https://github.com/pacificstudio/openase) — Open-source ticket-driven platform for orchestrating Claude Code, Codex, and Gemini CLI agents across isolated workspaces and status-based workflows.
-- [Trellis](https://github.com/mindfold-ai/Trellis) — All-in-one AI framework & toolkit for Claude Code & Cursor. Manages tasks, specs, and multi-agent pipelines.
-- [Codex on ChatGPT](https://chatgpt.com/codex) - Web-based multi-agent orchestration, connected to GitHub repositories. Each thread runs in its own sandbox. When tests pass, creates PR for you. Uses OpenAI models.
-- [GolemBot](https://github.com/0xranx/golembot) — Unified framework wrapping Claude Code, Cursor, OpenCode, and Codex CLIs behind a single streaming API. Adds IM adapters (Slack, Telegram, Discord, Feishu), Skill system, fleet mode, and HTTP embedding.
-- [Stoneforge](https://stoneforge.ai) — Open-source orchestration for AI coding agents. Run multiple agents in parallel with automatic dispatch, merge, and recovery.
-- [Shep](https://github.com/shep-ai/cli) — Multi-session SDLC control center that orchestrates AI coding agents (Claude Code, Cursor CLI, Gemini) for autonomous feature development with configurable approval gates and a live web dashboard.
+- [agent-drift](https://github.com/alvabillwu/agent-drift) - LLM output drift detector with 4 metrics
+- [agent-memory](https://github.com/alvabillwu/agent-memory) - Standardized agent memory layer (JSONL+TF-IDF)
+- [agent-trace](https://github.com/alvabillwu/agent-trace) - OTLP-compatible tracer for AI agents
+- [agent2agent](https://github.com/alvabillwu/agent2agent) - Cross-agent delegation protocol (task envelopes, routing)
+- [agentlog](https://github.com/alvabillwu/agentlog) - Structured logging + replay for AI agent runs (JSONL)
+- [AgentsMesh](https://agentsmesh.ai) — Self-hostable AI Agent Workforce Platform. Remote AI workstations (AgentPods) with PTY sandbox + git worktree isolation, multi-agent collaboration via channels and pod bindings, built-in Kanban with ticket-pod binding and MR/PR integration, per-pod MCP server. Supports Claude Code, Codex CLI, Gemini CLI, Aider, OpenCode. Multi-Git (GitHub/GitLab/Gitee), multi-tenant (Org > Team > User), SSO/RBAC/audit, air-gapped, BYOK.
 - [Bernstein](https://github.com/chernistry/bernstein) — Deterministic multi-agent orchestrator that spawns parallel coding agents (Claude Code, Codex CLI, Gemini CLI) from a single goal, verifies with tests, and auto-commits. Zero LLM tokens on coordination.
+- [Codex on ChatGPT](https://chatgpt.com/codex) - Web-based multi-agent orchestration, connected to GitHub repositories. Each thread runs in its own sandbox. When tests pass, creates PR for you. Uses OpenAI models.
+- [Conductor](https://conductor.build/) — macOS app for orchestrating multiple Claude Code and Codex agents working simultaneously in isolated git worktrees. Features a central dashboard for monitoring, code review, and merging.
+- [CueAPI](https://github.com/cueapi/cueapi-core) — Open-source scheduler and verification gate for AI coding agents. Cues trigger agent runs on a schedule, and each execution must return evidence (external ID, result URL, or artifact) before the cycle closes. Works with Claude Code, Codex, and Gemini CLI via SDK. Self-hosted, Apache-2.0.
+- [Forge](https://github.com/LucasDuys/forge) — Autonomous spec-driven development loop for Claude Code. Three-command pipeline (brainstorm, plan, execute) that turns ideas into shipped code with context survival, backpropagation, and Claude-on-Claude code review.
+- [GolemBot](https://github.com/0xranx/golembot) — Unified framework wrapping Claude Code, Cursor, OpenCode, and Codex CLIs behind a single streaming API. Adds IM adapters (Slack, Telegram, Discord, Feishu), Skill system, fleet mode, and HTTP embedding.
+- [great_cto](https://github.com/avelikiy/great_cto) — Claude Code plugin with 7 specialized agents (tech-lead, senior-dev, qa-engineer, security-officer, devops, l3-support, project-auditor) running a full SDLC pipeline with 12-angle code review, 10 project archetypes, 13 compliance frameworks, and two-gate approval flow (architecture + deploy).
 - [GreatCTO](https://github.com/avelikiy/great_cto) — Multi-agent SDLC orchestrator running above Claude Code, Cursor, Codex, Aider, and Continue. 34 specialist agents (architect → reviewers → devops), 25 archetype overlays (fintech, healthcare, agent-product, voice-AI), and 10 compliance packs (PCI/HIPAA/EU AI Act/TCPA) auto-wired by repo detection. Two human gates per feature.
 - [Kagan](https://github.com/kagan-sh/kagan) — Open-source AI orchestration board with a VS Code extension for planning, running, and reviewing coding agent tasks.
 - [LoopTroop](https://github.com/looptroop-ai/LoopTroop) — Local GUI orchestrator for AI coding agents with multi-model planning (LLM councils), iterative retry loops, and isolated git worktrees for long-running, correctness-first multi-file work.
 - [MartinLoop](https://martinloop.com/) — Open-source control plane for AI coding agents. Adds hard budget stops, verifier gates, and inspectable audit records so autonomous loops stop cleanly.
-- [Forge](https://github.com/LucasDuys/forge) — Autonomous spec-driven development loop for Claude Code. Three-command pipeline (brainstorm, plan, execute) that turns ideas into shipped code with context survival, backpropagation, and Claude-on-Claude code review.
-- [SwarmClaw](https://github.com/swarmclawai/swarmclaw) - Self-hosted AI runtime that orchestrates Claude Code, Codex, Gemini CLI, OpenCode, Copilot CLI, Cursor Agent, Goose, Qwen Code, and Droid with heartbeats, schedules, delegation, runtime skills, and an org chart view. Ships as a desktop app (Electron) and CLI. MIT licensed, TypeScript.
-- [CueAPI](https://github.com/cueapi/cueapi-core) — Open-source scheduler and verification gate for AI coding agents. Cues trigger agent runs on a schedule, and each execution must return evidence (external ID, result URL, or artifact) before the cycle closes. Works with Claude Code, Codex, and Gemini CLI via SDK. Self-hosted, Apache-2.0.
-- [pi-ralph](https://github.com/samfoy/pi-ralph) — Multi-agent orchestration loops for the pi coding agent. Runs autonomous implementation, review, and debugging cycles with configurable roles and loop chaining.
-- [great_cto](https://github.com/avelikiy/great_cto) — Claude Code plugin with 7 specialized agents (tech-lead, senior-dev, qa-engineer, security-officer, devops, l3-support, project-auditor) running a full SDLC pipeline with 12-angle code review, 10 project archetypes, 13 compliance frameworks, and two-gate approval flow (architecture + deploy).
-- [AgentsMesh](https://agentsmesh.ai) — Self-hostable AI Agent Workforce Platform. Remote AI workstations (AgentPods) with PTY sandbox + git worktree isolation, multi-agent collaboration via channels and pod bindings, built-in Kanban with ticket-pod binding and MR/PR integration, per-pod MCP server. Supports Claude Code, Codex CLI, Gemini CLI, Aider, OpenCode. Multi-Git (GitHub/GitLab/Gitee), multi-tenant (Org > Team > User), SSO/RBAC/audit, air-gapped, BYOK.
+- [mcp-factory](https://github.com/alvabillwu/mcp-factory) - MCP server scaffolding CLI
+- [OpenASE](https://github.com/pacificstudio/openase) — Open-source ticket-driven platform for orchestrating Claude Code, Codex, and Gemini CLI agents across isolated workspaces and status-based workflows.
 - [osModa](https://github.com/bolivian-peru/os-moda) — NixOS-based AI operating system with multi-agent routing (Opus agent for full system access, Sonnet agent for mobile/concise). Modular runtime swaps Claude Code and OpenClaw drivers per-agent via SIGHUP — no SSH or rebuild. 91 typed MCP tools across 9 Rust daemons, hash-chained audit ledger, atomic NixOS rollback, P2P encrypted mesh (Noise_XX + ML-KEM-768 hybrid PQ), encrypted credential store (AES-256-GCM). Spawn-on-demand via x402-payable API. Apache-2.0.
+- [pi-ralph](https://github.com/samfoy/pi-ralph) — Multi-agent orchestration loops for the pi coding agent. Runs autonomous implementation, review, and debugging cycles with configurable roles and loop chaining.
+- [Shep](https://github.com/shep-ai/cli) — Multi-session SDLC control center that orchestrates AI coding agents (Claude Code, Cursor CLI, Gemini) for autonomous feature development with configurable approval gates and a live web dashboard.
+- [Sidecar](https://github.com/marcus/sidecar) — Terminal UI companion for CLI-based coding agents (Claude Code, Cursor, Gemini) with unified conversation history, git integration, task management, and workspace control.
+- [Stoneforge](https://stoneforge.ai) — Open-source orchestration for AI coding agents. Run multiple agents in parallel with automatic dispatch, merge, and recovery.
+- [Superset](https://superset.sh/) — Code editor for AI agents that orchestrates swarms of Claude Code, Codex, and other CLI-based agents in parallel. Uses isolated git worktrees with universal IDE integration.
+- [SwarmClaw](https://github.com/swarmclawai/swarmclaw) - Self-hosted AI runtime that orchestrates Claude Code, Codex, Gemini CLI, OpenCode, Copilot CLI, Cursor Agent, Goose, Qwen Code, and Droid with heartbeats, schedules, delegation, runtime skills, and an org chart view. Ships as a desktop app (Electron) and CLI. MIT licensed, TypeScript.
+- [Trellis](https://github.com/mindfold-ai/Trellis) — All-in-one AI framework & toolkit for Claude Code & Cursor. Manages tasks, specs, and multi-agent pipelines.
+- [Vibe Kanban](https://vibekanban.com/) — AI-powered Kanban platform for orchestrating autonomous coding agents. Manage agent workflows with visual boards for task delegation and progress tracking.
 
 ### Sandboxing & Isolation
 
