@@ -269,6 +269,7 @@ Integrations that automatically review pull requests and suggest code fixes:
 - [Qodo PR Agent](https://github.com/qodo-ai/pr-agent) — Open source tool for automated code reviews. Qodo was formerly known as Codium (not to be confused with Codeium with an "E").
 - [Greptile](https://greptile.com/code-review-bot) — AI bot that reviews PRs in GitHub/GitLab with full context of the codebase.
 - [Macroscope](https://macroscope.com/code-review) - AI-powered code review for GitHub that uses ASTs to build a graph-based representation of your codebase & pulls context from your issue management systems.
+- [mcp-guard](https://github.com/alvabillwu/mcp-guard) - Security scanner for MCP server tool manifests with 10 risk rules, 0-100 scoring, and safe/caution/dangerous verdicts
 - [Codegen](https://www.codegen.com/) — GPT-4 based PR agent for enterprise codebases.
 - [Nova](https://www.trynova.ai/) — CI bot to add actions such as summaries and tests to new PRs.
 - [PR Explainer Bot](https://pr-explainer-bot.web.app/) — A GitHub integration that adds explanatory text to newly created PRs.
