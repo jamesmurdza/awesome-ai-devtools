@@ -426,6 +426,7 @@ Tools that auto-generate documentation, diagrams, and changelogs from source cod
 - [DocuWriter.ai](https://www.docuwriter.ai/) — AI-powered web app to generate automated Code & API documentation from your source code files.
 - [EkLine](https://ekline.io/) — AI-powered documentation tool with quality checks, style guide enforcement, and automatic doc generation.
 - [Changenotes](https://changenotes.app) — AI-powered changelog generator. Connects to GitHub, auto-generates categorized changelogs from commits and PRs on every release. Free tier available, Pro $9/mo.
+- [PolicyAI](https://policy-ai-alpha.vercel.app) — AI-powered legal document generator. Creates GDPR & CCPA compliant Privacy Policy, Terms of Service, and Cookie Policy for your product in 60 seconds. Free tier available, Pro $19/mo.
 
 ---
 
