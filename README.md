@@ -290,6 +290,8 @@ Integrations that automatically review pull requests and suggest code fixes:
 - [prpack-action](https://github.com/Lucas2944/prpack-action) — GitHub Action that runs prpack on every PR, uploads the packed markdown as an artifact, and posts a summary comment. MIT.
 - [Issue AI Agent](https://github.com/alexyan0431/issue-ai-agent) — Open source GitHub Action that auto-classifies, labels, and replies to issues using AI. Detects duplicates and handles follow-up comments. Supports Claude, OpenAI, and OpenAI-compatible APIs (BYOK). MIT licensed.
 
+- [Independent Review Toolkit](https://github.com/redamancy231-create/independent-review-toolkit) — Multi-model independent code review toolkit with SOP templates, adversarial challenge framework, and prompts validated across 5 LLM backends. CC BY 4.0.
+
 ### CI/CD & Testing Automation
 
 Tools that generate unit/e2e tests and integrate AI into CI/CD pipelines:
