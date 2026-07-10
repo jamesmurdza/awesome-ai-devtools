@@ -289,6 +289,7 @@ Integrations that automatically review pull requests and suggest code fixes:
 - [PR Triage](https://pr-triage-web.vercel.app) — Open source PR evaluation tool that scores pull requests on six quality dimensions with diff evidence. BYOK, MIT licensed.
 - [prpack-action](https://github.com/Lucas2944/prpack-action) — GitHub Action that runs prpack on every PR, uploads the packed markdown as an artifact, and posts a summary comment. MIT.
 - [Issue AI Agent](https://github.com/alexyan0431/issue-ai-agent) — Open source GitHub Action that auto-classifies, labels, and replies to issues using AI. Detects duplicates and handles follow-up comments. Supports Claude, OpenAI, and OpenAI-compatible APIs (BYOK). MIT licensed.
+- [Nika](https://github.com/supernovae-st/nika) — Workflow engine for AI in one Rust binary: repeated agent work as reviewable YAML DAGs, statically checked (schema, permits, honest cost floor) before any token is spent, tamper-evident traces after.
 
 ### CI/CD & Testing Automation
 
