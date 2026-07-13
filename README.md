@@ -308,6 +308,7 @@ Tools that generate unit/e2e tests and integrate AI into CI/CD pipelines:
 - [Fine](https://fine.dev/?ref=awesome) — AI Dev Environment for automating mundane work. Integrate GitHub, Sentry, Linear. Get context-aware answers to questions. Plan, design and implement changes. Automate self-healing CI/CD.
 - [CodeFlash AI](https://www.codeflash.ai/) — A CLI and CI tool for optimizing Python code using AI.
 - [Recurse ML](https://recurse.ml) — Find bugs in AI-generated code.
+- [Crucible](https://github.com/Jott2121/crucible) — Measures whether AI-written tests actually catch bugs: injects real defects and reports how many the suite misses. Runs as a GitHub Action; the diagnose needs no model or API key. Open source.
 - [TestDriver](https://testdriver.ai) — Cross-platform, selectorless end-to-end QA testing framework.
 
 ---
