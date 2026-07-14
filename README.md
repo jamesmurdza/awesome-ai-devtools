@@ -211,6 +211,7 @@ Tools for understanding, navigating, and getting answers about existing codebase
 - [SeaGOAT](https://kantord.github.io/SeaGOAT/latest/) — A local search tool leveraging vector embeddings to search your codebase semantically.
 - [ContextWire](https://contextwire.dev) — Free search API for AI agents with 105 engines, 22 search profiles, and 94.3% SimpleQA accuracy. MCP server included.
 - [Reflex](https://github.com/reflex-search/reflex) — Local-first, full-text code search engine built for AI coding agents. Sub-100ms search across 10k+ files via trigram indexing, with structured JSON output and an optional MCP server so agents can query your entire codebase in a single tool call.
+- [CodeTrain](https://codetrain.ai/) — AI tutor that teaches developers on their own codebase in small graded steps. It plans the lesson, runs and reviews the learner's code, but never writes it. Free in-browser tier; repo mode with a local agent; BYOK for Anthropic, Bedrock, Vertex, and Ollama.
 
 ### Database & SQL
 
