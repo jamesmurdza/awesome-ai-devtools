@@ -416,6 +416,7 @@ Tools that generate commit messages and PR descriptions from diffs:
 - [git-lrc](https://github.com/HexmosTech/git-lrc) - Free, unlimited AI code reviews that run on every commit.
 - [GitBrain](https://gitbrain.dev/) — Git client that splits changes and generates commit messages using OpenAI.
 - [GitButler](https://gitbutler.com/) — Git client for simultaneous branches on top of your existing workflow. Defaults to OpenAI, can be changed to Perplexity for generating conventional commit messages.
+- [Alpheon](https://github.com/BravoAlphaSix/alpheon) — Dependency-free CLI that turns your git diff into a reviewable "handoff note" (what changed, why, what was tried and rejected, what's next) saved as `HANDOFF.md` in your repo, preserving the reasoning behind changes across AI coding sessions and tools. Free tier is a template generator; AI-drafted notes are on the roadmap. MIT.
 
 ### Documentation Generation
 
