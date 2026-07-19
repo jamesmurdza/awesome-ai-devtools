@@ -356,6 +356,7 @@ Secure isolated environments for running AI coding agents with controlled access
 
 Tools that manage and sync AI agent configurations, rules, and context across editors:
 
+- [constitution-lint-action](https://github.com/joeyycli/constitution-lint-action) — GitHub Action (and pre-commit hook) that lints CLAUDE.md-style agent constitution files for missing operational guardrails — authority order, injection-defense, spend limits, escalation path, secrets handling — so a gap is caught in CI instead of at 3am by an unattended agent. Zero dependencies, single stdlib-only Python script.
 - [Context7](https://context7.com/) — Documentation platform that provides up-to-date, version-specific documentation and code examples for any library directly into Cursor, Claude Code, Windsurf, and other AI coding tools.
 - [ctxlint](https://github.com/YawLabs/ctxlint) — Open-source linter for AI context files (CLAUDE.md, .cursorrules, copilot-instructions.md) that catches stale paths, wrong commands, and token waste by validating against the real codebase.
 - [Entroly](https://github.com/juyterman1000/entroly) - Open-source context optimization engine that cuts AI token costs by 70-95%. Uses submodular knapsack selection and PRISM reinforcement learning to provide the exact context needed to 65+ supported AI coding agents. Features a built-in MCP server, semantic caching, and SimHash deduplication. Apache-2.0.
