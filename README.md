@@ -137,6 +137,8 @@ Lightweight command-line tools for AI-assisted commits, shell translation, and w
 - [Marmot](https://marmot.sh) — Shell-native CLI that gives agents one command shape for AI, web search, scraping, and data enrichment across many providers. Designed for Claude Code, Codex, OpenCode, and similar harnesses; composes via shell pipes.
 - [ORCH](https://github.com/oxgeneral/ORCH) — CLI runtime that coordinates Claude Code, OpenCode, Codex, and Cursor as a typed AI team. State machine (todo→review→done), auto-retry, inter-agent messaging, TUI dashboard.
 - [Octomind](https://github.com/muvon/octomind) — Session-based AI development assistant with MCP support, 7 LLM providers, and extensible architecture. Features plan-first workflow, semantic code search, and persistent memory.
+- [grokscope](https://github.com/Booyaka101/grokscope) — CLI that asks Grok 4.5's live X search what developers are actually saying about a tool or topic right now, with every claim cited to a real X post (clickable, recency-tagged). Try it with no API key: `npx grokscope demo`. MIT.
+- [gemcatch](https://github.com/Booyaka101/gemcatch) — Fire-and-forget research on the free Gemini tier: submit a long prompt, close your laptop, collect the answer later. Batches a whole file of questions and can export or synthesize the results into one document. MIT.
 
 ---
 
