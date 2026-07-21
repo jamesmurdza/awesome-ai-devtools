@@ -141,7 +141,8 @@ Lightweight command-line tools for AI-assisted commits, shell translation, and w
 ---
 
 ## Web-Based Tools
-
+- [Fixzi](https://fixzi.ai/) — Browser-based developer toolkit with AI Validator, API Contracts, JSON Schema validation, and JSON developer tools.
+  
 ### App Builders
 
 Platforms that scaffold and deploy full-stack applications from natural language prompts:
