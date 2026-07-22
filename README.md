@@ -309,6 +309,7 @@ Tools that generate unit/e2e tests and integrate AI into CI/CD pipelines:
 - [CodeFlash AI](https://www.codeflash.ai/) — A CLI and CI tool for optimizing Python code using AI.
 - [Recurse ML](https://recurse.ml) — Find bugs in AI-generated code.
 - [TestDriver](https://testdriver.ai) — Cross-platform, selectorless end-to-end QA testing framework.
+- [SDKProof](https://sdkproof.dev) — Type-checks how well AI coding agents use your SDK's current API by compiling model-generated code against the real installed package (no LLM judge). Open-source scorecards for Prisma, the Vercel AI SDK, and Zod.
 
 ---
 
