@@ -351,6 +351,7 @@ Secure isolated environments for running AI coding agents with controlled access
 - [FlyDex](https://flydex.net) — Browser-first remote control plane for local Codex sessions with QR pairing, approvals, and machine continuity.
 - [mirrord](https://github.com/metalbear-co/mirrord) — Per-agent isolation inside a shared Kubernetes cluster: traffic filters, DB branches, and Kafka queue splits via the mirrord Operator. Six [Claude Code skills](https://github.com/metalbear-co/skills) cover quickstart, config, operator setup, CI, DB branching, and Kafka splitting; install via `/plugin marketplace add metalbear-co/skills`.
 - [AgentTier](https://github.com/agenttier/agenttier) — Open-source, Kubernetes-native sandbox runtime for AI coding agents (Claude Code, LangGraph, OpenHands). Each sandbox is a Pod + PVC + default-deny NetworkPolicy with optional gVisor isolation; runs in interactive `mode: code` (browser terminal) or `mode: agent` (REST `/configure` + SSE-streaming `/invoke`). Apache-2.0.
+- [Cleat](https://github.com/cleatdev/cleat) - Runs Claude Code in a per-project Docker container so you can leave it on with permissions off. Your SSH keys and cloud credentials never enter the box. A bad command only reaches the project you mounted. Free, MIT, a single Bash file. macOS and Linux.
 
 ### Configuration & Context Management
 
