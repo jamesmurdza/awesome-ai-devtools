@@ -341,6 +341,8 @@ Platforms for running multiple AI coding agents in parallel with workspace isola
 - [AgentsMesh](https://agentsmesh.ai) — Self-hostable AI Agent Workforce Platform. Remote AI workstations (AgentPods) with PTY sandbox + git worktree isolation, multi-agent collaboration via channels and pod bindings, built-in Kanban with ticket-pod binding and MR/PR integration, per-pod MCP server. Supports Claude Code, Codex CLI, Gemini CLI, Aider, OpenCode. Multi-Git (GitHub/GitLab/Gitee), multi-tenant (Org > Team > User), SSO/RBAC/audit, air-gapped, BYOK.
 - [osModa](https://github.com/bolivian-peru/os-moda) — NixOS-based AI operating system with multi-agent routing (Opus agent for full system access, Sonnet agent for mobile/concise). Modular runtime swaps Claude Code and OpenClaw drivers per-agent via SIGHUP — no SSH or rebuild. 91 typed MCP tools across 9 Rust daemons, hash-chained audit ledger, atomic NixOS rollback, P2P encrypted mesh (Noise_XX + ML-KEM-768 hybrid PQ), encrypted credential store (AES-256-GCM). Spawn-on-demand via x402-payable API. Apache-2.0.
 
+- [fractal](https://github.com/plasma-ai/fractal) — Open-source orchestrator for hierarchical agent loops. Each node runs an AI coding agent in its own git worktree, can spawn child agents for separable subtasks, and stays bounded by hard caps on iterations, depth, children, cost, and time. Supports Claude Code, Codex, Grok Build, OpenCode, and Oh My Pi. Apache-2.0.
+
 ### Sandboxing & Isolation
 
 Secure isolated environments for running AI coding agents with controlled access:
