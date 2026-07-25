@@ -42,6 +42,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 
 Full development environments with AI for code generation, chat, and debugging:
 
+- [Anycode](https://github.com/anycode-ade/anycode) — High-performance web-based IDE built with a Rust backend (Axum/Tokio) and React frontend, featuring a custom fast virtual-rendering code editor (Tree-Sitter WASM), LSP integration, and AI agent support via ACP.
 - [Cursor](https://www.cursor.com/) — An IDE with chat, edit, generate and debug features. Forked from VSCodium, so the interface is similar to VS Code. Uses OpenAI.
 - [Windsurf](https://windsurf.com) — An IDE with chat, edit, generate and debug features. Forked from VSCodium, so the interface is similar to VS Code. Formerly known as Codeium.
 - [Zed](https://zed.dev/) — A high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
