@@ -309,6 +309,7 @@ Tools that generate unit/e2e tests and integrate AI into CI/CD pipelines:
 - [CodeFlash AI](https://www.codeflash.ai/) — A CLI and CI tool for optimizing Python code using AI.
 - [Recurse ML](https://recurse.ml) — Find bugs in AI-generated code.
 - [TestDriver](https://testdriver.ai) — Cross-platform, selectorless end-to-end QA testing framework.
+- [hwatu](https://github.com/hongnoul/hwatu) — Open-source visual verification browser for AI coding agents. Daemon-based WebKitGTK with ~13ms window spawn lets agents render pages, run DOM eval, take screenshots and pixel-diffs to verify UI changes, and hand the live session to a human. Linux/Wayland, MCP built in.
 
 ---
 
