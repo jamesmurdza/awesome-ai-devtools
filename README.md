@@ -123,6 +123,7 @@ Autonomous CLI agents that generate code, execute shell commands, and manage mul
 Lightweight command-line tools for AI-assisted commits, shell translation, and workflow automation:
 
 - [gptcomet](https://github.com/belingud/gptcomet) — CLI tool to help you generate commit message and review changes. Supports multiple providers and languages.
+- [Tintpad](https://github.com/sorkila/tintpad) — Native macOS hotkey palette that opens your terminal at the right repo with a terminal coding agent (Claude Code, Codex, or any CLI agent) already running. Frecency-ranked repos, per-repo launch memory, git worktree launches.
 - [Baz CLI](https://github.com/baz-scm/baz-cli) - CLI for AI assisted code review, with access to the actual code, diff etc.
 - [models](https://github.com/arimxyer/models) — A TUI for browsing AI models, benchmarks from Artificial Analysis, and coding agents with GitHub integration. Built with Rust and Ratatui.
 - [Jctx](https://github.com/Shashwat-Gupta57/Jctx) — Python CLI that extracts structured, architecture-aware context from Python, Kotlin, and Java codebases for LLMs. Features internal dependency mapping and token estimation.
