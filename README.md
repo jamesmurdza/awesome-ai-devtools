@@ -177,6 +177,7 @@ Tools that generate components, mockups, and frontend code from text prompts or 
 - [Magic Patterns](https://www.magicpatterns.com/) — AI UI generator that creates components from prompts, images, or design inspiration. Supports Shadcn, ChakraUI, and Tailwind with Figma export.
 - [Tempo](https://www.tempolabs.ai/) — WYSIWYG editor for React interfaces.
 - [Google Stitch](https://stitch.withgoogle.com/) — Google's AI-powered design tool for creating UI designs. Formerly Galileo AI.
+- [GPT Image 2](https://gptimage2.asia/) — AI image generator and editor for marketing visuals, ecommerce, social media, and branded content.
 - [Uizard](https://uizard.io/) — Generate multi-screen mockups from text prompts and edit them with a drag-and-drop editor. Scan screenshots of apps or hand-drawn wireframes and transform them into editable app mockups.
 - [Polymet](https://polymet.ai) — AI-powered UI prototyping tool that generates production-ready frontend code.
 - [Kombai](https://kombai.com/) — AI Tool for generating frontend code from Figma.
