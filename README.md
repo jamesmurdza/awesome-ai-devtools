@@ -137,6 +137,7 @@ Lightweight command-line tools for AI-assisted commits, shell translation, and w
 - [Marmot](https://marmot.sh) — Shell-native CLI that gives agents one command shape for AI, web search, scraping, and data enrichment across many providers. Designed for Claude Code, Codex, OpenCode, and similar harnesses; composes via shell pipes.
 - [ORCH](https://github.com/oxgeneral/ORCH) — CLI runtime that coordinates Claude Code, OpenCode, Codex, and Cursor as a typed AI team. State machine (todo→review→done), auto-retry, inter-agent messaging, TUI dashboard.
 - [Octomind](https://github.com/muvon/octomind) — Session-based AI development assistant with MCP support, 7 LLM providers, and extensible architecture. Features plan-first workflow, semantic code search, and persistent memory.
+- [rote](https://github.com/trevhud/rote) - CLI that compiles a proven agent skill (a SKILL.md plus references) into a typed, deterministic pipeline. Fixed logic becomes reviewable Python or TypeScript with per-step tests, while judgment steps stay as typed LLM-judge signatures. Emits DBOS, Temporal, Cloudflare Workflows, Inngest, or plain Python/TS, and can serve compiled pipelines as MCP tools. Apache-2.0, `pip install rote-cli`.
 
 ---
 
