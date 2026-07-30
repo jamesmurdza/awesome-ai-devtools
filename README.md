@@ -239,6 +239,8 @@ Web utilities for quick code generation, language translation, and regex creatio
 
 Native apps for AI-powered coding, terminal enhancement, and agent orchestration:
 
+- [CrossGen](https://www.corgnitor.com/products/crossgen) — Open-source local AI image workflow for developers and agents, with a desktop workspace, packaged JSON CLI, and MCP server for generating, editing, tracking, and exporting project assets.
+
 - [Warp](https://www.warp.dev/) — AI-powered terminal with team knowledge sharing and command suggestions.
 - [Pieces](https://pieces.app/) — AI-powered snippet manager and context engine with desktop app and browser extension.
 - [Memex](https://memex.tech/) — Build anything in any stack, with just natural language, on your desktop.
