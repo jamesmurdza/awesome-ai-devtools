@@ -256,6 +256,7 @@ Native apps for AI-powered coding, terminal enhancement, and agent orchestration
 - [Onepilot](https://onepilotapp.com) — iOS app for running AI coding agents (Claude Code, Codex CLI, Gemini CLI) on remote servers via SSH. Provides a full terminal with SwiftTerm, agent session management, and mobile access to your dev machines.
 - [Vibe Island](https://vibeisland.app) — Native macOS notch panel for 18 AI coding CLIs (Claude Code, Codex, Gemini, Cursor, Droid, OpenCode, Copilot). Permission prompts appear in the notch, clicking a notification jumps back to the originating terminal pane, and the bar tracks usage limits per provider. Swift 6, AppKit + SwiftUI.
 - [Clave](https://github.com/codika-io/clave) — Native macOS app for managing multiple Claude Code sessions in parallel, with split/grid layouts, session groups, SSH remote sessions, a git panel, conversation history, and usage analytics. Free, open-source (MIT), local-first.
+- [AICraft](https://github.com/Easlie114514/AICraft) - Desktop AI capability launcher for Windows — manage LLM Skills, MCP tools, and memory like Minecraft mods. One-click DeepSeek setup, built-in MCP servers (file manager + code executor), role emotion portraits, portable exe. MIT. | 桌面AI能力启动器，像Minecraft模组一样管理LLM技能、MCP工具和记忆
 
 ---
 
