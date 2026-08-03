@@ -340,6 +340,7 @@ Platforms for running multiple AI coding agents in parallel with workspace isola
 - [great_cto](https://github.com/avelikiy/great_cto) — Claude Code plugin with 7 specialized agents (tech-lead, senior-dev, qa-engineer, security-officer, devops, l3-support, project-auditor) running a full SDLC pipeline with 12-angle code review, 10 project archetypes, 13 compliance frameworks, and two-gate approval flow (architecture + deploy).
 - [AgentsMesh](https://agentsmesh.ai) — Self-hostable AI Agent Workforce Platform. Remote AI workstations (AgentPods) with PTY sandbox + git worktree isolation, multi-agent collaboration via channels and pod bindings, built-in Kanban with ticket-pod binding and MR/PR integration, per-pod MCP server. Supports Claude Code, Codex CLI, Gemini CLI, Aider, OpenCode. Multi-Git (GitHub/GitLab/Gitee), multi-tenant (Org > Team > User), SSO/RBAC/audit, air-gapped, BYOK.
 - [osModa](https://github.com/bolivian-peru/os-moda) — NixOS-based AI operating system with multi-agent routing (Opus agent for full system access, Sonnet agent for mobile/concise). Modular runtime swaps Claude Code and OpenClaw drivers per-agent via SIGHUP — no SSH or rebuild. 91 typed MCP tools across 9 Rust daemons, hash-chained audit ledger, atomic NixOS rollback, P2P encrypted mesh (Noise_XX + ML-KEM-768 hybrid PQ), encrypted credential store (AES-256-GCM). Spawn-on-demand via x402-payable API. Apache-2.0.
+- [outsourcerer](https://github.com/alexgreensh/outsourcerer) — Delegates coding grunt-work across other AI harnesses and models (Claude Code, Codex, and more) while your main session stays the orchestrator, with live token-limit awareness and benchmark-based model routing.
 
 ### Sandboxing & Isolation
 
@@ -385,6 +386,7 @@ Tools that manage and sync AI agent configurations, rules, and context across ed
 - [cc-audit](https://github.com/sisyphusse1-ops/cc-audit) — Single-file Python linter that scores any `CLAUDE.md` / `AGENTS.md` against a 12-rule baseline. Flags leaked secrets (GitHub PATs, AWS keys, PayPal links), the 200-line compliance cliff, and missing project-specifics sections. Zero dependencies, JSON output for CI, MIT.
 - [GAAI Framework](https://github.com/Fr-e-d/GAAI-framework) — Drop-in governance layer for AI coding tools. Backlog-first delivery, cross-session memory, decision tracking, QA gates, and autonomous delivery daemon. Works with Claude Code, Cursor, Codex CLI, Gemini CLI, Windsurf. Markdown + YAML + bash, zero dependencies.
 - [intelligence-sync](https://github.com/ainova-systems/intelligence-sync) — One source of truth for AI coding rules across every IDE. Author rules, agents, and skills once in plain markdown, and the engine routes them into each tool's native format (Claude Code, Cursor, Copilot, Codex, Pi, OpenCode, AGENTS.md) with no duplication or drift. Zero dependencies, bash + awk, MIT.
+- [token-optimizer](https://github.com/alexgreensh/token-optimizer) — Context and token-cost optimizer for AI coding agents. Finds wasted "ghost tokens," survives compaction, and curbs context-quality decay, with native plugins for Claude Code, Codex, OpenCode, and OpenClaw.
 
 ### Usage Analytics & Cost Tracking
 
