@@ -316,6 +316,9 @@ Tools that generate unit/e2e tests and integrate AI into CI/CD pipelines:
 
 Platforms for running multiple AI coding agents in parallel with workspace isolation:
 
+
+- [A3M Router](https://github.com/Das-rebel/a3m-router) — Open-source LLM gateway that routes queries to the cheapest capable model across 47+ providers. Unlike sequential fallback approaches, A3M executes multiple providers in parallel and uses confidence-weighted voting to select the best answer. OpenAI-compatible API.
+
 - [Conductor](https://conductor.build/) — macOS app for orchestrating multiple Claude Code and Codex agents working simultaneously in isolated git worktrees. Features a central dashboard for monitoring, code review, and merging.
 - [Superset](https://superset.sh/) — Code editor for AI agents that orchestrates swarms of Claude Code, Codex, and other CLI-based agents in parallel. Uses isolated git worktrees with universal IDE integration.
 - [Sidecar](https://github.com/marcus/sidecar) — Terminal UI companion for CLI-based coding agents (Claude Code, Cursor, Gemini) with unified conversation history, git integration, task management, and workspace control.
