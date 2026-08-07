@@ -147,6 +147,7 @@ Lightweight command-line tools for AI-assisted commits, shell translation, and w
 Platforms that scaffold and deploy full-stack applications from natural language prompts:
 
 - [Bolt.new](https://bolt.new) — AI-powered web development agent that allows you to prompt, run, edit, and deploy full-stack applications directly in the browser using WebContainers. Supports npm packages, Node.js servers, and third-party APIs.
+- [Cactal](https://cactal.ai) - Cactal is the website platform for AI agents. Connect Claude Code, Cursor, or any MCP client and it gets the tools to design, build, host, and operate real production websites.
 - [Lovable](https://lovable.dev/) — AI-powered full-stack app development platform that converts natural language descriptions or designs into fully functional applications with built-in deployment and GitHub integration.
 - [Backgrounder.dev](https://backgrounder.dev/) — Free interface for AI coding agents (Claude Code, Codex, Gemini, Goose, Pi) running as isolated background processes. Supports switching between agents, branching chats, conflict resolution and scheduled runs.
 - [Co.dev](https://www.co.dev/) — AI-powered app development platform that helps build and deploy full-stack applications.
