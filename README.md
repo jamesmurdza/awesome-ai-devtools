@@ -137,6 +137,7 @@ Lightweight command-line tools for AI-assisted commits, shell translation, and w
 - [Marmot](https://marmot.sh) — Shell-native CLI that gives agents one command shape for AI, web search, scraping, and data enrichment across many providers. Designed for Claude Code, Codex, OpenCode, and similar harnesses; composes via shell pipes.
 - [ORCH](https://github.com/oxgeneral/ORCH) — CLI runtime that coordinates Claude Code, OpenCode, Codex, and Cursor as a typed AI team. State machine (todo→review→done), auto-retry, inter-agent messaging, TUI dashboard.
 - [Octomind](https://github.com/muvon/octomind) — Session-based AI development assistant with MCP support, 7 LLM providers, and extensible architecture. Features plan-first workflow, semantic code search, and persistent memory.
+- [The Lyceum](https://github.com/Julie22-yaerin/Thelyceum_22) — Three always-on MCP servers for coding agents, one install: `brake` blocks a dangerous action (destructive commands, credential leaks) before it runs, `redteam` challenges a one-sided conclusion before it ships, `thrift` deduplicates repeated tool output to stop a runaway loop burning tokens. No slash command required. `npm install -g the-lyceum`
 
 ---
 
