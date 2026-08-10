@@ -263,6 +263,8 @@ Native apps for AI-powered coding, terminal enhancement, and agent orchestration
 
 ### PR & Code Review Bots
 
+- [heygrc](https://heygrc.com/) - GitHub App that reviews pull requests for compliance-control impact and cites the control clause. Free for public repositories. By ISMS Copilot.
+
 Integrations that automatically review pull requests and suggest code fixes:
 
 - [CodeRabbit](https://coderabbit.ai/) — Customizable CI to add summaries and code suggestions to PRs.
