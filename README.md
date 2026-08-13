@@ -427,6 +427,12 @@ Tools that auto-generate documentation, diagrams, and changelogs from source cod
 - [EkLine](https://ekline.io/) — AI-powered documentation tool with quality checks, style guide enforcement, and automatic doc generation.
 - [Changenotes](https://changenotes.app) — AI-powered changelog generator. Connects to GitHub, auto-generates categorized changelogs from commits and PRs on every release. Free tier available, Pro $9/mo.
 
+### Career & Job Search
+
+Tools that use AI agents to automate job search workflows:
+
+- [Job Seeker](https://github.com/galiprandi/job-seeker) — Open source markdown skills that turn any coding agent (Claude Code, Cursor, Devin, opencode) into a job search assistant. Searches LinkedIn, fills Easy Apply forms from Postgres, tracks applications in a kanban pipeline, and drafts recruiter replies with an anti-LLM style checklist. MIT licensed.
+
 ---
 
 ## Resources
