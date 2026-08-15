@@ -421,6 +421,7 @@ Tools that generate commit messages and PR descriptions from diffs:
 
 Tools that auto-generate documentation, diagrams, and changelogs from source code:
 
+- [Datadef](https://datadef.io) — AI that turns a connected repo into an architecture diagram and an architecture.md, kept in sync daily. Terraform repos are parsed file-by-file; includes an MCP server for Claude Code and Cursor. Free tier available.
 - [DiagramGPT](https://www.eraser.io/diagramgpt) — Free AI web app that generates flowcharts, ER diagrams, cloud architecture, and sequence diagrams from text or code.
 - [DocuPilot](https://docupilot-alpha.vercel.app) — GitHub App that auto-updates README, CHANGELOG, and API docs on every push using AI.
 - [DocuWriter.ai](https://www.docuwriter.ai/) — AI-powered web app to generate automated Code & API documentation from your source code files.
