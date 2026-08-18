@@ -422,6 +422,7 @@ Tools that generate commit messages and PR descriptions from diffs:
 Tools that auto-generate documentation, diagrams, and changelogs from source code:
 
 - [DiagramGPT](https://www.eraser.io/diagramgpt) — Free AI web app that generates flowcharts, ER diagrams, cloud architecture, and sequence diagrams from text or code.
+- [text2diagram](https://text2everything.vip) — Free AI web app that generates Mermaid flowcharts, sequence diagrams, ERDs, class diagrams, state diagrams, mindmaps, and Gantt charts from plain English or Chinese. Output is validated against the real Mermaid parser and stays editable as code, with a chat mode that asks clarifying questions before drawing. Exports SVG, PNG, Markdown, and OPML. No signup.
 - [DocuPilot](https://docupilot-alpha.vercel.app) — GitHub App that auto-updates README, CHANGELOG, and API docs on every push using AI.
 - [DocuWriter.ai](https://www.docuwriter.ai/) — AI-powered web app to generate automated Code & API documentation from your source code files.
 - [EkLine](https://ekline.io/) — AI-powered documentation tool with quality checks, style guide enforcement, and automatic doc generation.
