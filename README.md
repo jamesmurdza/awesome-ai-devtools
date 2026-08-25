@@ -232,6 +232,7 @@ Web utilities for quick code generation, language translation, and regex creatio
 - [JSONFix](https://jsonfix-lake.vercel.app/) — AI-powered JSON repair tool that instantly fixes malformed JSON with missing quotes, trailing commas, and syntax errors.
 - [CronAI](https://cronai-nu.vercel.app/) — Converts plain English schedule descriptions into correct cron expressions using AI.
 - [RegexAI](https://regexai-six.vercel.app/) — Generates working regular expressions from plain English descriptions with explanations. Supports multiple regex flavors.
+- [Recast](https://recast-indol.vercel.app/) — Browser tool that turns messy LLM output into valid JSON and explains each change. Nothing is uploaded.
 
 ---
 
