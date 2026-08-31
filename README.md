@@ -87,6 +87,7 @@ Plugins that add AI-powered completion, chat, and refactoring to existing code e
 - [Traycer](https://traycer.ai) - Plan-First Coding Assistant in VS Code.
 - [shadcn/studio MCP](https://shadcnstudio.com/mcp) — MCP server for generating shadcn/ui components, blocks, and pages.
 - [onUI](https://github.com/onllm-dev/onUI) — Open-source browser extension and MCP server for annotation-first UI pair programming with AI agents. Annotate any webpage and bridge UI context to Claude Code, Cursor, Windsurf, or Copilot.
+- [Rochel](https://rochel-dashboard.vercel.app) — Local-first browser extension for annotating any webpage and exporting structured implementation briefs for coding agents. Works without app integration, accounts or cloud sync.
 - [Sweep](https://sweep.dev/) — AI coding plugin for JetBrains IDEs with autocomplete, codebase indexing, and context-aware suggestions. Uses proprietary LLMs with zero data retention.
 - [Antigravity Link](https://github.com/cafeTechne/antigravity-link-extension) — VS Code extension that bridges mobile devices to Google's Antigravity IDE. Mirror active AI chat sessions on your phone, send messages, upload files, stop AI generation, and automate workflows via a local HTTP API or 9 MCP tools. Listed in the official MCP Registry.
 - [Shadcn Space MCP](https://shadcnspace.com/mcp) — Connect Cursor, Claude Code, Antigravity, VS Code, and other AI tools to the Shadcn Space component registry.
