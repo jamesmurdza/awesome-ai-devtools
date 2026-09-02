@@ -319,6 +319,7 @@ Tools that generate unit/e2e tests and integrate AI into CI/CD pipelines:
 Platforms for running multiple AI coding agents in parallel with workspace isolation:
 
 - [Conductor](https://conductor.build/) — macOS app for orchestrating multiple Claude Code and Codex agents working simultaneously in isolated git worktrees. Features a central dashboard for monitoring, code review, and merging.
+- [AgentBridge](https://github.com/raysonmeng/agent-bridge) — Local MIT CLI that keeps Claude Code and Codex as live peers in one session (mid-turn review, task split, quota-boundary handoff). macOS/Linux.
 - [Superset](https://superset.sh/) — Code editor for AI agents that orchestrates swarms of Claude Code, Codex, and other CLI-based agents in parallel. Uses isolated git worktrees with universal IDE integration.
 - [Sidecar](https://github.com/marcus/sidecar) — Terminal UI companion for CLI-based coding agents (Claude Code, Cursor, Gemini) with unified conversation history, git integration, task management, and workspace control.
 - [Vibe Kanban](https://vibekanban.com/) — AI-powered Kanban platform for orchestrating autonomous coding agents. Manage agent workflows with visual boards for task delegation and progress tracking.
