@@ -28,6 +28,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
   - [Multi-Agent Orchestration](#multi-agent-orchestration)
   - [Sandboxing & Isolation](#sandboxing--isolation)
   - [Configuration & Context Management](#configuration--context-management)
+  - [Debugging & Replay](#debugging--replay)
   - [Usage Analytics & Cost Tracking](#usage-analytics--cost-tracking)
 - [Specialized Tools](#specialized-tools)
   - [Git & Commit Helpers](#git--commit-helpers)
@@ -385,6 +386,12 @@ Tools that manage and sync AI agent configurations, rules, and context across ed
 - [cc-audit](https://github.com/sisyphusse1-ops/cc-audit) — Single-file Python linter that scores any `CLAUDE.md` / `AGENTS.md` against a 12-rule baseline. Flags leaked secrets (GitHub PATs, AWS keys, PayPal links), the 200-line compliance cliff, and missing project-specifics sections. Zero dependencies, JSON output for CI, MIT.
 - [GAAI Framework](https://github.com/Fr-e-d/GAAI-framework) — Drop-in governance layer for AI coding tools. Backlog-first delivery, cross-session memory, decision tracking, QA gates, and autonomous delivery daemon. Works with Claude Code, Cursor, Codex CLI, Gemini CLI, Windsurf. Markdown + YAML + bash, zero dependencies.
 - [intelligence-sync](https://github.com/ainova-systems/intelligence-sync) — One source of truth for AI coding rules across every IDE. Author rules, agents, and skills once in plain markdown, and the engine routes them into each tool's native format (Claude Code, Cursor, Copilot, Codex, Pi, OpenCode, AGENTS.md) with no duplication or drift. Zero dependencies, bash + awk, MIT.
+
+### Debugging & Replay
+
+Tools for reproducing and diagnosing agent runs after they fail:
+
+- [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) — Records a coding agent run at the process and socket boundary, then replays it offline byte-for-byte and forks it from any checkpoint onto a different model. Captures the model API, shell exit codes and timing, MCP calls, and per-turn file changes without modifying the agent. Works with Claude Code, Codex CLI, opencode, the OpenAI Agents SDK, and the Vercel AI SDK. Apache-2.0.
 
 ### Usage Analytics & Cost Tracking
 
