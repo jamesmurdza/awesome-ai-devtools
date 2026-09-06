@@ -241,6 +241,7 @@ Native apps for AI-powered coding, terminal enhancement, and agent orchestration
 
 - [Warp](https://www.warp.dev/) — AI-powered terminal with team knowledge sharing and command suggestions.
 - [Pieces](https://pieces.app/) — AI-powered snippet manager and context engine with desktop app and browser extension.
+- [SnipperApp 3](https://snipperapp.com) — Native macOS snippet manager with a built-in MCP server (25 tools) that lets Claude Code, Cursor, and Windsurf search, read, and save your code snippets.
 - [Memex](https://memex.tech/) — Build anything in any stack, with just natural language, on your desktop.
 - [Poirot](https://github.com/LeonardoCardoso/Poirot) — A macOS app for browsing Claude Code sessions, exploring diffs, and re-running commands. Reads local transcripts, runs offline, open source.
 - [Anima](https://github.com/btangonan/anima) — Native macOS companion for Claude Code with per-project ASCII familiars, nim token economy, and cross-session watcher. Tauri v2 + Rust, 4MB.
