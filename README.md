@@ -390,6 +390,7 @@ Tools that manage and sync AI agent configurations, rules, and context across ed
 
 Tools for monitoring token usage and API costs across AI providers:
 
+- [AgentMeasure](https://github.com/roy-tong/AgentMeasure) — Open-source conformance checks for AI-agent telemetry semantics. Detects retry-grain inflation, token double-counting, cache-hit accounting ambiguity, and evidence-boundary gaps via reproducible fixtures or a one-step GitHub Action (PASS / FAIL / UNPROVABLE).
 - [Tokscale](https://github.com/junhoyeo/tokscale) — CLI tool for tracking token usage from AI coding agents (OpenCode, Claude Code, OpenClaw, Codex, Gemini CLI, Cursor IDE, AmpCode, Factory Droid) with a global leaderboard and 2D/3D contribution graphs.
 - [BurnRate](https://getburnrate.io) - Local-first AI coding cost analytics. Tracks Claude Code, Cursor, Codex, Copilot, Windsurf, Cline, and Aider. Cost breakdowns, 23 optimization rules, rate limit monitoring, provider comparison, and PDF reports.
 - [Code Insights](https://github.com/melagiri/code-insights) — Local-first CLI and dashboard for analyzing AI coding sessions from Claude Code, Cursor, Codex CLI, Copilot CLI, and VS Code Copilot Chat. SQLite-backed with terminal analytics, browser dashboard, and LLM-powered insights.
