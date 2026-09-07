@@ -391,7 +391,7 @@ Tools that manage and sync AI agent configurations, rules, and context across ed
 
 Tools for reproducing and diagnosing agent runs after they fail:
 
-- [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) — Records a coding agent run at the process and socket boundary, then replays it offline byte-for-byte and forks it from any checkpoint onto a different model. Captures the model API, shell exit codes and timing, MCP calls, and per-turn file changes without modifying the agent. Works with Claude Code, Codex CLI, opencode, the OpenAI Agents SDK, and the Vercel AI SDK. Apache-2.0.
+- [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) — Records a coding agent run at the process and socket boundary, then replays it offline with the network off and forks it from any checkpoint onto a different model. Captures the model API, shell exit codes and timing, MCP calls, and per-turn file changes without modifying the agent. Works with Claude Code, Codex CLI, opencode, the OpenAI Agents SDK, and the Vercel AI SDK. Apache-2.0.
 
 ### Usage Analytics & Cost Tracking
 
