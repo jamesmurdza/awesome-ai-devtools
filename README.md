@@ -289,6 +289,7 @@ Integrations that automatically review pull requests and suggest code fixes:
 - [PR Triage](https://pr-triage-web.vercel.app) — Open source PR evaluation tool that scores pull requests on six quality dimensions with diff evidence. BYOK, MIT licensed.
 - [prpack-action](https://github.com/Lucas2944/prpack-action) — GitHub Action that runs prpack on every PR, uploads the packed markdown as an artifact, and posts a summary comment. MIT.
 - [Issue AI Agent](https://github.com/alexyan0431/issue-ai-agent) — Open source GitHub Action that auto-classifies, labels, and replies to issues using AI. Detects duplicates and handles follow-up comments. Supports Claude, OpenAI, and OpenAI-compatible APIs (BYOK). MIT licensed.
+- [DeployReview](https://poe.com/DeployReview) — Chat-based code review bot on Poe: paste a diff or file for a verdict with severity-tagged findings and fixed code. Free to try, nothing to install.
 
 ### CI/CD & Testing Automation
 
@@ -385,6 +386,7 @@ Tools that manage and sync AI agent configurations, rules, and context across ed
 - [cc-audit](https://github.com/sisyphusse1-ops/cc-audit) — Single-file Python linter that scores any `CLAUDE.md` / `AGENTS.md` against a 12-rule baseline. Flags leaked secrets (GitHub PATs, AWS keys, PayPal links), the 200-line compliance cliff, and missing project-specifics sections. Zero dependencies, JSON output for CI, MIT.
 - [GAAI Framework](https://github.com/Fr-e-d/GAAI-framework) — Drop-in governance layer for AI coding tools. Backlog-first delivery, cross-session memory, decision tracking, QA gates, and autonomous delivery daemon. Works with Claude Code, Cursor, Codex CLI, Gemini CLI, Windsurf. Markdown + YAML + bash, zero dependencies.
 - [intelligence-sync](https://github.com/ainova-systems/intelligence-sync) — One source of truth for AI coding rules across every IDE. Author rules, agents, and skills once in plain markdown, and the engine routes them into each tool's native format (Claude Code, Cursor, Copilot, Codex, Pi, OpenCode, AGENTS.md) with no duplication or drift. Zero dependencies, bash + awk, MIT.
+- [LLMAuditor](https://poe.com/LLMAuditor) — Audits your llms.txt the way a reviewer audits a contract: what's leaking, what's wasting tokens, what's missing. Free to try on Poe.
 
 ### Usage Analytics & Cost Tracking
 
@@ -416,6 +418,7 @@ Tools that generate commit messages and PR descriptions from diffs:
 - [git-lrc](https://github.com/HexmosTech/git-lrc) - Free, unlimited AI code reviews that run on every commit.
 - [GitBrain](https://gitbrain.dev/) — Git client that splits changes and generates commit messages using OpenAI.
 - [GitButler](https://gitbutler.com/) — Git client for simultaneous branches on top of your existing workflow. Defaults to OpenAI, can be changed to Perplexity for generating conventional commit messages.
+- [DiffExplainerHQ](https://poe.com/DiffExplainerHQ) — Chat bot on Poe that explains what a diff actually does, then writes the commit message. Free to try, nothing to install.
 
 ### Documentation Generation
 
