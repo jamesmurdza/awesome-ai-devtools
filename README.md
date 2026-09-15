@@ -385,6 +385,7 @@ Tools that manage and sync AI agent configurations, rules, and context across ed
 - [cc-audit](https://github.com/sisyphusse1-ops/cc-audit) — Single-file Python linter that scores any `CLAUDE.md` / `AGENTS.md` against a 12-rule baseline. Flags leaked secrets (GitHub PATs, AWS keys, PayPal links), the 200-line compliance cliff, and missing project-specifics sections. Zero dependencies, JSON output for CI, MIT.
 - [GAAI Framework](https://github.com/Fr-e-d/GAAI-framework) — Drop-in governance layer for AI coding tools. Backlog-first delivery, cross-session memory, decision tracking, QA gates, and autonomous delivery daemon. Works with Claude Code, Cursor, Codex CLI, Gemini CLI, Windsurf. Markdown + YAML + bash, zero dependencies.
 - [intelligence-sync](https://github.com/ainova-systems/intelligence-sync) — One source of truth for AI coding rules across every IDE. Author rules, agents, and skills once in plain markdown, and the engine routes them into each tool's native format (Claude Code, Cursor, Copilot, Codex, Pi, OpenCode, AGENTS.md) with no duplication or drift. Zero dependencies, bash + awk, MIT.
+- [myc](https://github.com/aistastudio/myc) — Open-source local task-and-memory layer for coding agents (Claude Code, Codex, opencode, Kimi): a task queue with dependencies and atomic claims, an oplog of decisions with hybrid search, memory anchored to code spans, and a PreCompact hook that saves the session before context compaction. One SQLite file next to the repo, no network calls, no API key (Bun).
 
 ### Usage Analytics & Cost Tracking
 
