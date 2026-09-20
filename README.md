@@ -238,6 +238,7 @@ Web utilities for quick code generation, language translation, and regex creatio
 ## Desktop & Mobile Applications
 
 Native apps for AI-powered coding, terminal enhancement, and agent orchestration:
+- [PI-Desktop](https://github.com/vastsa/PI-Desktop) — Cross-platform desktop workspace for AI coding agents with persistent projects and sessions, model switching, Agent / Plan / Goal workflows, permission-aware tools, plugins, and multi-agent orchestration. Electron + Rust + pi Agent Harness.
 
 - [Warp](https://www.warp.dev/) — AI-powered terminal with team knowledge sharing and command suggestions.
 - [Pieces](https://pieces.app/) — AI-powered snippet manager and context engine with desktop app and browser extension.
