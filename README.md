@@ -190,6 +190,7 @@ Tools that generate components, mockups, and frontend code from text prompts or 
 
 Autonomous AI agents that work on existing codebases to fix bugs, refactor code, and create pull requests:
 
+- [MySpec](https://myspec.dev) - Spec-driven development platform providing autonomous AI agents with structured 4-file context bundles (`constitution`, `requirements`, `solution`, `tasks`) via MCP.
 - [Factory](https://www.factory.ai/) — Agent-native software development platform with "Droids" that work across IDE, terminal, CLI, Slack/Teams, and CI/CD. Handles refactors, incident response, and migrations.
 - [Jules](https://jules.google.com/) — Google's asynchronous AI coding agent that integrates with GitHub. Handles bug fixes, code changes, and multi-file tasks autonomously in the background, creating pull requests for review.
 - [Potpie](https://potpie.ai) — Open source AI agents for codebase Q&A, testing, debugging, and system design.
