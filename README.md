@@ -141,6 +141,7 @@ Lightweight command-line tools for AI-assisted commits, shell translation, and w
 ---
 
 ## Web-Based Tools
+- [MagicKit](https://github.com/kaketiti/magickit) - Free AI toolbox: image generation, writing, video. Open-source, no sign-up required.
 
 ### App Builders
 
