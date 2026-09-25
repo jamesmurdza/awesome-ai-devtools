@@ -137,6 +137,8 @@ Lightweight command-line tools for AI-assisted commits, shell translation, and w
 - [Marmot](https://marmot.sh) — Shell-native CLI that gives agents one command shape for AI, web search, scraping, and data enrichment across many providers. Designed for Claude Code, Codex, OpenCode, and similar harnesses; composes via shell pipes.
 - [ORCH](https://github.com/oxgeneral/ORCH) — CLI runtime that coordinates Claude Code, OpenCode, Codex, and Cursor as a typed AI team. State machine (todo→review→done), auto-retry, inter-agent messaging, TUI dashboard.
 - [Octomind](https://github.com/muvon/octomind) — Session-based AI development assistant with MCP support, 7 LLM providers, and extensible architecture. Features plan-first workflow, semantic code search, and persistent memory.
+- [tracelet](https://github.com/jnMetaCode/tracelet) — Watch an AI agent's execution tree stream in live over OpenTelemetry, then diff two runs step by step to see which prompt, model or tool call changed.
+- [engram](https://github.com/jnMetaCode/engram) — Index markdown, PDF, HTML and EPUB on your machine, then recall ranked passages with file:line citations and time filters. Runs as an MCP server; nothing is uploaded.
 
 ---
 
