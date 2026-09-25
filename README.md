@@ -168,6 +168,7 @@ Platforms that scaffold and deploy full-stack applications from natural language
 - [Blank Space](https://www.blankspace.build/) — Open-source AI app builder for creating web applications using natural language. Self-hostable alternative to v0, Lovable, and Bolt.
 - [Fastshot](https://fastshot.ai/) — AI driven no-code platform for building and deploying mobile apps.
 - [ai-vertical-saas-gen](https://github.com/kurtnebiev-elvis4/ai-vertical-saas-gen) — CLI that generates complete vertical SaaS apps (Next.js 14 + Supabase) with industry-specific data models for 20+ niches. Zero dependencies, offline, outputs 20 deployable files in one command.
+- [Mythex](https://mythex.ai/?ref=github) — AI app builder that writes, runs and publishes full-stack web apps from chat, in a cloud sandbox with a code editor, terminal, Postgres and file storage. Includes a remote MCP server so Claude, Cursor or Codex can build in the same sandbox.
 
 ### UI Generators
 
