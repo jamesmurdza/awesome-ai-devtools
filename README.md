@@ -256,6 +256,7 @@ Native apps for AI-powered coding, terminal enhancement, and agent orchestration
 - [Onepilot](https://onepilotapp.com) — iOS app for running AI coding agents (Claude Code, Codex CLI, Gemini CLI) on remote servers via SSH. Provides a full terminal with SwiftTerm, agent session management, and mobile access to your dev machines.
 - [Vibe Island](https://vibeisland.app) — Native macOS notch panel for 18 AI coding CLIs (Claude Code, Codex, Gemini, Cursor, Droid, OpenCode, Copilot). Permission prompts appear in the notch, clicking a notification jumps back to the originating terminal pane, and the bar tracks usage limits per provider. Swift 6, AppKit + SwiftUI.
 - [Clave](https://github.com/codika-io/clave) — Native macOS app for managing multiple Claude Code sessions in parallel, with split/grid layouts, session groups, SSH remote sessions, a git panel, conversation history, and usage analytics. Free, open-source (MIT), local-first.
+- [Coven Cave](https://github.com/OpenCoven/coven-cave) — Desktop control room for AI coding-agent sessions, persistent agents, memory, workflows, and GitHub triage. Tauri + Next.js on macOS, Windows, and Linux, with a native iOS client. MIT or AGPL-3.0.
 
 ---
 
@@ -340,6 +341,8 @@ Platforms for running multiple AI coding agents in parallel with workspace isola
 - [great_cto](https://github.com/avelikiy/great_cto) — Claude Code plugin with 7 specialized agents (tech-lead, senior-dev, qa-engineer, security-officer, devops, l3-support, project-auditor) running a full SDLC pipeline with 12-angle code review, 10 project archetypes, 13 compliance frameworks, and two-gate approval flow (architecture + deploy).
 - [AgentsMesh](https://agentsmesh.ai) — Self-hostable AI Agent Workforce Platform. Remote AI workstations (AgentPods) with PTY sandbox + git worktree isolation, multi-agent collaboration via channels and pod bindings, built-in Kanban with ticket-pod binding and MR/PR integration, per-pod MCP server. Supports Claude Code, Codex CLI, Gemini CLI, Aider, OpenCode. Multi-Git (GitHub/GitLab/Gitee), multi-tenant (Org > Team > User), SSO/RBAC/audit, air-gapped, BYOK.
 - [osModa](https://github.com/bolivian-peru/os-moda) — NixOS-based AI operating system with multi-agent routing (Opus agent for full system access, Sonnet agent for mobile/concise). Modular runtime swaps Claude Code and OpenClaw drivers per-agent via SIGHUP — no SSH or rebuild. 91 typed MCP tools across 9 Rust daemons, hash-chained audit ledger, atomic NixOS rollback, P2P encrypted mesh (Noise_XX + ML-KEM-768 hybrid PQ), encrypted credential store (AES-256-GCM). Spawn-on-demand via x402-payable API. Apache-2.0.
+- [Coven](https://github.com/OpenCoven/coven) — Local-first runtime for project-scoped AI coding-agent sessions. A daemon and CLI that run Codex, Claude Code, and other harnesses inside explicit project-root boundaries, with PTY sessions, SQLite-persisted history, and a versioned local socket API. MIT, Rust.
+- [Psyche Build](https://github.com/OpenCoven/psyche-build) — Desktop app for running parallel AI coding agents in isolated git-worktree and tmux workspaces. Signed and notarized macOS builds via `brew install --cask opencoven/tap/psyche-build`. MIT.
 
 ### Sandboxing & Isolation
 
