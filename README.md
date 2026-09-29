@@ -239,6 +239,7 @@ Web utilities for quick code generation, language translation, and regex creatio
 
 Native apps for AI-powered coding, terminal enhancement, and agent orchestration:
 
+- [Crewlo](https://github.com/HafidIdrissi/Crewlo) — Open-source voxel desktop workspace for coding-agent CLIs such as Codex, with missions, terminals, agent replies, and Windows/macOS preview downloads.
 - [Warp](https://www.warp.dev/) — AI-powered terminal with team knowledge sharing and command suggestions.
 - [Pieces](https://pieces.app/) — AI-powered snippet manager and context engine with desktop app and browser extension.
 - [Memex](https://memex.tech/) — Build anything in any stack, with just natural language, on your desktop.
