@@ -100,6 +100,7 @@ Plugins that add AI-powered completion, chat, and refactoring to existing code e
 
 Autonomous CLI agents that generate code, execute shell commands, and manage multi-file workflows:
 
+- [Aider](https://aider.chat/) - AI pair programming in your terminal. Works with local Git repositories, edits code across multiple files, and supports various LLMs.
 - [Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview) - Anthropic's agentic coding tool.
 - [OpenAI Codex CLI](https://openai.com/codex/) — OpenAI's official lightweight coding agent that runs in your terminal. Executes code, manipulates files, and iterates with the user. Fully open-source with support for multiple AI providers.
 - [Aider](https://aider.chat/) — Popular CLI assistant and agent that generates changes and commits to repositories. Supports multiple LLM providers with built-in benchmarks. 25k+ GitHub stars.
