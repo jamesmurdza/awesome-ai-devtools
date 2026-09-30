@@ -309,6 +309,7 @@ Tools that generate unit/e2e tests and integrate AI into CI/CD pipelines:
 - [CodeFlash AI](https://www.codeflash.ai/) — A CLI and CI tool for optimizing Python code using AI.
 - [Recurse ML](https://recurse.ml) — Find bugs in AI-generated code.
 - [TestDriver](https://testdriver.ai) — Cross-platform, selectorless end-to-end QA testing framework.
+- [Receipts](https://github.com/syntaxixr/receipts) — Checks whether the tests an AI coding agent wrote would have caught the bug: runs each changed test with the change and with the changed source reverted, and flags tests that pass both ways. CLI, GitHub Action and a Claude Code skill; pytest, vitest and jest.
 
 ---
 
