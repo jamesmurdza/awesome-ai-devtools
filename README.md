@@ -91,6 +91,7 @@ Plugins that add AI-powered completion, chat, and refactoring to existing code e
 - [Antigravity Link](https://github.com/cafeTechne/antigravity-link-extension) — VS Code extension that bridges mobile devices to Google's Antigravity IDE. Mirror active AI chat sessions on your phone, send messages, upload files, stop AI generation, and automate workflows via a local HTTP API or 9 MCP tools. Listed in the official MCP Registry.
 - [Shadcn Space MCP](https://shadcnspace.com/mcp) — Connect Cursor, Claude Code, Antigravity, VS Code, and other AI tools to the Shadcn Space component registry.
 - [Blueprint](https://marketplace.visualstudio.com/items?itemName=Imbue.imbue-blueprint) — Open-source planning copilot for coding agents. Asks multiple-choice questions about your task, then generates a markdown plan any coding agent can execute. Extensions for VS Code, Cursor, and Windsurf.
+- [Backseat](https://github.com/darek225/backseat) — Open-source VS Code extension and git/JSON protocol that lets an agent with shell and git (Claude Code, Grok, or any agent) queue coding tasks from your phone into a private GitHub bridge repo; the extension runs them visibly in Cline's sidebar on your PC and pushes results back. No relay server, no open ports. Also on the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=darek.backseat).
 
 ---
 
