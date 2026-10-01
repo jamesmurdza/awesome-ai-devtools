@@ -54,6 +54,7 @@ Full development environments with AI for code generation, chat, and debugging:
 - [GitWit](https://gitwit.dev/) — Web-based editor for building ReactJS applications with AI.
 - [OneCompiler](https://onecompiler.com/) — A free AI Powered online compiler supporting over 70 languages, including Java, Python, MySQL, C++, and HTML, for writing, running, and sharing code.
 - [BuilderStudio](https://builderstudio.dev) - Native macOS agentic coding workspace from WunderCorp for secure local/cloud AI development, reusable Skills and Pathways, MCP integrations, Hermes-powered container-only execution, Agentic Swarms for parallel specialized agents, app previews, terminal workflows, packaging/deployment, and flexible routing across 380+ AI models.
+- [AstraCode](https://astracode.io/) — An AI-native code editor whose agent plans, edits, runs your tests and proves them by undoing its change, then hands back a diff. AstraOne chooses the model.
 
 ### IDE Extensions
 
@@ -117,6 +118,7 @@ Autonomous CLI agents that generate code, execute shell commands, and manage mul
 - [Blueprint](https://github.com/JuliusBrussee/blueprint) — A Claude Code plugin that turns natural language into blueprints, blueprints into parallel build plans, and build plans into working software with automated iteration, validation, and cross-model peer review.
 - [cmux](https://github.com/manaflow-ai/cmux) — A Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Features notification rings, in-app browser, SSH support, and Claude Code Teams integration.
 - [pi](https://pi.dev/) — Minimal, extensible terminal coding agent. TypeScript extensions, skills, prompt templates, and themes — all shareable as npm packages. Supports multiple LLM providers with a unified API.
+- [AstraCode CLI](https://astracode.io/cli/) — The AstraCode agent in your terminal: interactive sessions, headless runs from scripts and CI with a JSON result, branch review, and ACP for JetBrains and Zed.
 
 ### CLI Utilities
 
