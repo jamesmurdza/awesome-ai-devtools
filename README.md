@@ -309,6 +309,7 @@ Tools that generate unit/e2e tests and integrate AI into CI/CD pipelines:
 - [CodeFlash AI](https://www.codeflash.ai/) — A CLI and CI tool for optimizing Python code using AI.
 - [Recurse ML](https://recurse.ml) — Find bugs in AI-generated code.
 - [TestDriver](https://testdriver.ai) — Cross-platform, selectorless end-to-end QA testing framework.
+- [Sedum](https://github.com/sedum-dev/sedum) — Open-source end-to-end tests written in plain English and run on Playwright with your own API key; writes Markdown failure reports for coding agents.
 
 ---
 
