@@ -169,6 +169,8 @@ Platforms that scaffold and deploy full-stack applications from natural language
 - [Fastshot](https://fastshot.ai/) — AI driven no-code platform for building and deploying mobile apps.
 - [ai-vertical-saas-gen](https://github.com/kurtnebiev-elvis4/ai-vertical-saas-gen) — CLI that generates complete vertical SaaS apps (Next.js 14 + Supabase) with industry-specific data models for 20+ niches. Zero dependencies, offline, outputs 20 deployable files in one command.
 
+- [Vibld](https://vibld.com) — Open-source AI app builder that generates plain React, TypeScript and Vite apps with publish to GitHub, Cloudflare or Docker.
+
 ### UI Generators
 
 Tools that generate components, mockups, and frontend code from text prompts or design files:
