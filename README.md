@@ -289,6 +289,7 @@ Integrations that automatically review pull requests and suggest code fixes:
 - [PR Triage](https://pr-triage-web.vercel.app) — Open source PR evaluation tool that scores pull requests on six quality dimensions with diff evidence. BYOK, MIT licensed.
 - [prpack-action](https://github.com/Lucas2944/prpack-action) — GitHub Action that runs prpack on every PR, uploads the packed markdown as an artifact, and posts a summary comment. MIT.
 - [Issue AI Agent](https://github.com/alexyan0431/issue-ai-agent) — Open source GitHub Action that auto-classifies, labels, and replies to issues using AI. Detects duplicates and handles follow-up comments. Supports Claude, OpenAI, and OpenAI-compatible APIs (BYOK). MIT licensed.
+- [CodeOtter](https://codeotter.io/) — Self-hosted AI PR reviewer for GitHub, Forgejo and Gitea that scores PRs, enforces merge gates as status checks and posts inline fixes. Runs on local GGUF models or your own API key.
 
 ### CI/CD & Testing Automation
 
