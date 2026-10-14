@@ -219,6 +219,7 @@ Tools that generate, explain, and optimize SQL queries from natural language:
 - [Wren AI](https://getwren.ai/oss) — Open-source SQL AI agent for querying databases using natural language.
 - [TEXT2SQL.AI](https://www.text2sql.ai/) — AI-powered SQL query builder. Translate, explain and fix complex SQL queries using plain English.
 - [SQLAI.ai](https://www.sqlai.ai/) — AI generates, fixes, explains and optimizes SQL queries. Ability to add your own database schema and train AI to understand it.
+- [Beekeeper Studio](https://www.beekeeperstudio.io/) — Desktop SQL editor with AI Shell, an AI SQL assistant that explores your schema, writes queries, and only runs them after you approve. Bring your own LLM API key; requests go directly to your provider. AI Shell is available in the paid tiers.
 
 ### Snippet & Utility Tools
 
