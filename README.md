@@ -192,6 +192,7 @@ Autonomous AI agents that work on existing codebases to fix bugs, refactor code,
 
 - [Factory](https://www.factory.ai/) — Agent-native software development platform with "Droids" that work across IDE, terminal, CLI, Slack/Teams, and CI/CD. Handles refactors, incident response, and migrations.
 - [Jules](https://jules.google.com/) — Google's asynchronous AI coding agent that integrates with GitHub. Handles bug fixes, code changes, and multi-file tasks autonomously in the background, creating pull requests for review.
+- [FixIt](https://fixitbot.pythonanywhere.com/) — AI agent that diagnoses broken AI-built apps. Paste an error from a Lovable, Bolt, Cursor, Replit, v0 or Supabase app and get a plain-English root cause, step-by-step fix and a ready-to-paste prompt for your AI builder. 3 free fixes/month.
 - [Potpie](https://potpie.ai) — Open source AI agents for codebase Q&A, testing, debugging, and system design.
 
 ### Codebase Intelligence
