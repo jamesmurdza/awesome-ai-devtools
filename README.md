@@ -193,6 +193,7 @@ Autonomous AI agents that work on existing codebases to fix bugs, refactor code,
 - [Factory](https://www.factory.ai/) — Agent-native software development platform with "Droids" that work across IDE, terminal, CLI, Slack/Teams, and CI/CD. Handles refactors, incident response, and migrations.
 - [Jules](https://jules.google.com/) — Google's asynchronous AI coding agent that integrates with GitHub. Handles bug fixes, code changes, and multi-file tasks autonomously in the background, creating pull requests for review.
 - [Potpie](https://potpie.ai) — Open source AI agents for codebase Q&A, testing, debugging, and system design.
+- [Shiba](https://github.com/princepal9120/shiba) — Open-source, self-hosted coding agent for your Cloudflare account. Each task waits for human approval, runs Claude Code, Codex, OpenCode or another harness in an isolated Cloudflare Sandbox container, and returns a diff with optional GitHub PR.
 
 ### Codebase Intelligence
 
