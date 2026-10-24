@@ -405,6 +405,12 @@ Tools for monitoring token usage and API costs across AI providers:
 - [CostGoat](https://costgoat.com) — Privacy-first menubar app for tracking AI agent quotas (Claude Code, Codex, Kimi, Z.ai) and LLM API costs (OpenAI, OpenRouter, Anthropic, ElevenLabs) in real-time. Also covers cloud spend and SaaS subscriptions.
 - [TokenWise](https://github.com/CodeShuX/tokenwise) — Measurement-driven model router for Claude Code. Auto-routes subtasks across Haiku/Sonnet/Opus based on task class, logs every routed task with verified $ saved to a local NDJSON, and includes an A/B test subcommand to validate cheaper tiers before trusting routing. MIT, zero telemetry, Anthropic-only.
 
+### Privacy & Redaction
+
+Tools that protect sensitive data sent by AI agents:
+
+- [AgentRedactor](https://github.com/Negative-Star-Innovators/AgentRedactor) — Local privacy proxy for coding agents that uses on-device NER and custom rules to redact PII and secrets from LLM requests, then restores values in responses.
+
 ---
 
 ## Specialized Tools
