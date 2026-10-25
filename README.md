@@ -386,6 +386,8 @@ Tools that manage and sync AI agent configurations, rules, and context across ed
 - [GAAI Framework](https://github.com/Fr-e-d/GAAI-framework) — Drop-in governance layer for AI coding tools. Backlog-first delivery, cross-session memory, decision tracking, QA gates, and autonomous delivery daemon. Works with Claude Code, Cursor, Codex CLI, Gemini CLI, Windsurf. Markdown + YAML + bash, zero dependencies.
 - [intelligence-sync](https://github.com/ainova-systems/intelligence-sync) — One source of truth for AI coding rules across every IDE. Author rules, agents, and skills once in plain markdown, and the engine routes them into each tool's native format (Claude Code, Cursor, Copilot, Codex, Pi, OpenCode, AGENTS.md) with no duplication or drift. Zero dependencies, bash + awk, MIT.
 
+- [Vicem](https://github.com/RAKKUNN/vicem) — Zero-dependency AI coding agent context baton, 80–90% AST-like code skeletonizer with lossless on-demand MCP rehydration (`vicem_rehydrate`), and cross-platform desktop utility GUI (`vicem gui`). Harvests live transcripts and secret-redacted git state across 12 coding agents (Claude Code, Codex CLI, Gemini CLI, Cursor, Windsurf, Antigravity, OpenCode, Aider). Pure Node.js built-ins, MIT.
+
 ### Usage Analytics & Cost Tracking
 
 Tools for monitoring token usage and API costs across AI providers:
