@@ -309,6 +309,7 @@ Tools that generate unit/e2e tests and integrate AI into CI/CD pipelines:
 - [CodeFlash AI](https://www.codeflash.ai/) — A CLI and CI tool for optimizing Python code using AI.
 - [Recurse ML](https://recurse.ml) — Find bugs in AI-generated code.
 - [TestDriver](https://testdriver.ai) — Cross-platform, selectorless end-to-end QA testing framework.
+- [App Store Connect MCP](https://github.com/idoo/app-store-connect-mcp) — MCP server that lets AI agents work with App Store Connect: release preflight, TestFlight, metadata, screenshots and the new Asset Library, review replies, sales and finance reports. Read-only by default; asks before anything goes public. Single Go binary, MIT.
 
 ---
 
