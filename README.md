@@ -309,6 +309,7 @@ Tools that generate unit/e2e tests and integrate AI into CI/CD pipelines:
 - [CodeFlash AI](https://www.codeflash.ai/) — A CLI and CI tool for optimizing Python code using AI.
 - [Recurse ML](https://recurse.ml) — Find bugs in AI-generated code.
 - [TestDriver](https://testdriver.ai) — Cross-platform, selectorless end-to-end QA testing framework.
+- [Connect IQ MCP](https://github.com/idoo/connect-iq-mcp) — MCP server that lets AI agents build, test and publish Garmin Connect IQ apps: SDK builds, the simulator, unit tests, store versions, listings, reviews and installs. Read-only by default; asks before anything goes public. Single Go binary, MIT.
 
 ---
 
