@@ -345,6 +345,7 @@ Platforms for running multiple AI coding agents in parallel with workspace isola
 
 Secure isolated environments for running AI coding agents with controlled access:
 
+- [Buddy.Works](https://buddy.works) — Sandbox VMs for AI coding agents, with git repositories, app hosting, and CI/CD workflows. Accessible via REST API, MCP server, and CLI.
 - [VibeBox](https://vibebox.robcholz.com) — Open-source, per-project micro-VM sandbox for running AI coding agents safely on macOS.
 - [brood-box](https://github.com/stacklok/brood-box) — Run coding agents (Claude Code, Codex, OpenCode) inside hardware-isolated microVMs with snapshot isolation and egress control.
 - [Open Agent](https://github.com/Th0rgal/openagent) — Self-hosted control plane for Claude Code with isolated container workspaces and real-time mission streaming.
