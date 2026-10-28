@@ -257,6 +257,8 @@ Native apps for AI-powered coding, terminal enhancement, and agent orchestration
 - [Vibe Island](https://vibeisland.app) — Native macOS notch panel for 18 AI coding CLIs (Claude Code, Codex, Gemini, Cursor, Droid, OpenCode, Copilot). Permission prompts appear in the notch, clicking a notification jumps back to the originating terminal pane, and the bar tracks usage limits per provider. Swift 6, AppKit + SwiftUI.
 - [Clave](https://github.com/codika-io/clave) — Native macOS app for managing multiple Claude Code sessions in parallel, with split/grid layouts, session groups, SSH remote sessions, a git panel, conversation history, and usage analytics. Free, open-source (MIT), local-first.
 
+- [Agent Notifications](https://github.com/777genius/agent-notifications) - Cross-platform notification companion for AI coding agents, with lifecycle hooks and an MCP tool for agent-requested desktop alerts, sounds, click-to-focus, and optional webhooks.
+
 ---
 
 ## Automated Workflows
