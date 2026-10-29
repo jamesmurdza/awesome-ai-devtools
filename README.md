@@ -416,6 +416,7 @@ Tools that generate commit messages and PR descriptions from diffs:
 - [git-lrc](https://github.com/HexmosTech/git-lrc) - Free, unlimited AI code reviews that run on every commit.
 - [GitBrain](https://gitbrain.dev/) — Git client that splits changes and generates commit messages using OpenAI.
 - [GitButler](https://gitbutler.com/) — Git client for simultaneous branches on top of your existing workflow. Defaults to OpenAI, can be changed to Perplexity for generating conventional commit messages.
+- [standup](https://github.com/fainir/standup) - CLI that turns your git commits into a daily standup update, summarized by Claude or kept fully local with --no-llm.
 
 ### Documentation Generation
 
