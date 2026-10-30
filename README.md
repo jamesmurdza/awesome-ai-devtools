@@ -434,6 +434,7 @@ Tools that auto-generate documentation, diagrams, and changelogs from source cod
 Curated lists, comparison guides, and configuration templates for AI coding tools:
 
 - [aiforcode.io](https://aiforcode.io) — Expert-curated directory of 42+ AI coding tools with transparent 100-point scoring, head-to-head comparisons, and an interactive tool recommendation quiz. Verified monthly.
+- [aifree.dev](https://aifree.dev/free-ai-coding-tools) — Verified free tiers and student plans for AI coding assistants and agents, plus free LLM APIs compared by rate limit; each entry shows the card requirement and the date it was checked.
 - [Awesome Code Docs](https://github.com/johnxie/awesome-code-docs) — Curated deep-dive tutorials for open-source AI and developer tooling projects.
 - [AI Coding Compare](https://aicodingcompare.com) — Compare 50+ AI coding assistants with features, pricing, and performance benchmarks.
 - [ClaudeDown](https://claudedown.com) - Real-time Claude AI complaint tracker and outage detector using Twitter/X sentiment data.
