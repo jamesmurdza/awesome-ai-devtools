@@ -168,6 +168,7 @@ Platforms that scaffold and deploy full-stack applications from natural language
 - [Blank Space](https://www.blankspace.build/) — Open-source AI app builder for creating web applications using natural language. Self-hostable alternative to v0, Lovable, and Bolt.
 - [Fastshot](https://fastshot.ai/) — AI driven no-code platform for building and deploying mobile apps.
 - [ai-vertical-saas-gen](https://github.com/kurtnebiev-elvis4/ai-vertical-saas-gen) — CLI that generates complete vertical SaaS apps (Next.js 14 + Supabase) with industry-specific data models for 20+ niches. Zero dependencies, offline, outputs 20 deployable files in one command.
+- [Ifiok](https://ifiok.archiet.ai) — Spec-driven development platform that compiles a plain-English spec into a scored ArchiMate 3.2 blueprint, then generates production code in nine backend stacks (Flask, FastAPI, Django, NestJS, Laravel, Rails, .NET, Go, Spring) with a Next.js front end, plus a React Native (Expo) mobile app. Includes live preview and an in-browser AI code workbench.
 
 ### UI Generators
 
