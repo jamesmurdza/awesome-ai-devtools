@@ -289,6 +289,7 @@ Integrations that automatically review pull requests and suggest code fixes:
 - [PR Triage](https://pr-triage-web.vercel.app) — Open source PR evaluation tool that scores pull requests on six quality dimensions with diff evidence. BYOK, MIT licensed.
 - [prpack-action](https://github.com/Lucas2944/prpack-action) — GitHub Action that runs prpack on every PR, uploads the packed markdown as an artifact, and posts a summary comment. MIT.
 - [Issue AI Agent](https://github.com/alexyan0431/issue-ai-agent) — Open source GitHub Action that auto-classifies, labels, and replies to issues using AI. Detects duplicates and handles follow-up comments. Supports Claude, OpenAI, and OpenAI-compatible APIs (BYOK). MIT licensed.
+- [Ollav](https://ollav.app/?utm_source=awesome-ai-devtools&utm_medium=directory&utm_campaign=launch) — Human review loop for agent-built HTML. Claude Code, Cursor or ChatGPT publish a prototype over MCP, reviewers pin comments to page elements, and the agent reads them, republishes at the same URL and resolves each thread.
 
 ### CI/CD & Testing Automation
 
