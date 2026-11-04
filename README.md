@@ -190,6 +190,7 @@ Tools that generate components, mockups, and frontend code from text prompts or 
 
 Autonomous AI agents that work on existing codebases to fix bugs, refactor code, and create pull requests:
 
+- [AI CodeOps](https://aicodeops.dev/) — Browser-based platform where AI agents plan, build, review, and test changes on existing repos, opening a pull request only after tests pass on the exact commit, AI review has no high/critical findings, and a person approves. Supports GitHub, GitLab, Bitbucket, Gitea, and Forgejo, including self-hosted.
 - [Factory](https://www.factory.ai/) — Agent-native software development platform with "Droids" that work across IDE, terminal, CLI, Slack/Teams, and CI/CD. Handles refactors, incident response, and migrations.
 - [Jules](https://jules.google.com/) — Google's asynchronous AI coding agent that integrates with GitHub. Handles bug fixes, code changes, and multi-file tasks autonomously in the background, creating pull requests for review.
 - [Potpie](https://potpie.ai) — Open source AI agents for codebase Q&A, testing, debugging, and system design.
