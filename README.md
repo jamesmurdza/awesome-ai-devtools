@@ -256,6 +256,7 @@ Native apps for AI-powered coding, terminal enhancement, and agent orchestration
 - [Onepilot](https://onepilotapp.com) — iOS app for running AI coding agents (Claude Code, Codex CLI, Gemini CLI) on remote servers via SSH. Provides a full terminal with SwiftTerm, agent session management, and mobile access to your dev machines.
 - [Vibe Island](https://vibeisland.app) — Native macOS notch panel for 18 AI coding CLIs (Claude Code, Codex, Gemini, Cursor, Droid, OpenCode, Copilot). Permission prompts appear in the notch, clicking a notification jumps back to the originating terminal pane, and the bar tracks usage limits per provider. Swift 6, AppKit + SwiftUI.
 - [Clave](https://github.com/codika-io/clave) — Native macOS app for managing multiple Claude Code sessions in parallel, with split/grid layouts, session groups, SSH remote sessions, a git panel, conversation history, and usage analytics. Free, open-source (MIT), local-first.
+- [KinetAios](https://github.com/phinn/KinetAios) — Local-first AI agent dashboard for Windows and macOS. Runs multi-engine agent sessions (built-in ReAct planner, Claude Code, Codex, DeepSeek Harness) in one interface with streaming output, session history, 40+ built-in tools (shell with approval gate, files, web fetch, browser automation), MCP client/host, and SQLite+FTS5 long-term memory. Electron + TypeScript, GPL-3.0.
 
 ---
 
