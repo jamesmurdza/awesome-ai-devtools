@@ -48,7 +48,7 @@ Full development environments with AI for code generation, chat, and debugging:
 - [Replit](https://replit.com/) — Web-based IDE with cloud developer environments, code completion, chat, a software development agent and deployments.
 - [Google Antigravity](https://antigravity.google/) — An agent-first IDE that orchestrates autonomous AI agents to plan, execute, and verify complex coding tasks with deep browser integration.
 - [trae](https://www.trae.ai/) — Adaptive AI IDE with chat and code generation.
-- [Theia IDE](https://theia-ide.org/#theiaide) — An extensible open-source IDE (web and desktop) providing AI-powered features like chat, code completion, terminal assistance and custom agents using arbitrary LLMs. Built on [Theia AI](https://eclipsesource.com/blogs/2024/10/07/introducing-theia-ai/), a platform designed to enable the creation of custom, AI-powered tools and IDEs.
+- [Theia IDE](https://theia-ide.org/) — Open-source, vendor-neutral AI-native IDE (web and desktop) with chat, coding agents, code completion, MCP and Agent Skills. Bring your own key for any LLM, including local models. Built on [Theia AI](https://theia-ide.org/theia-ai/), an open-source AI harness platform for building custom AI-native tools and IDEs.
 - [Mutable](https://github.com/mutableai/monitors4codegen) — Web-based IDE, integrated with a chatbot and GitHub.
 - [UI Pilot](https://ui-pilot.com/) — Chat-based AI code editor that creates forms using Material UI, using GPT-4.
 - [GitWit](https://gitwit.dev/) — Web-based editor for building ReactJS applications with AI.
