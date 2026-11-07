@@ -309,6 +309,7 @@ Tools that generate unit/e2e tests and integrate AI into CI/CD pipelines:
 - [CodeFlash AI](https://www.codeflash.ai/) — A CLI and CI tool for optimizing Python code using AI.
 - [Recurse ML](https://recurse.ml) — Find bugs in AI-generated code.
 - [TestDriver](https://testdriver.ai) — Cross-platform, selectorless end-to-end QA testing framework.
+- [assay](https://github.com/awss1i/assay) - Deterministic command-line QA tool for web pages. It serves the page, drives every control it finds through Chromium via Playwright, and reports where the page contradicts itself. No tests to write and no LLM. Python API, HTML report, and a skill plus plugin so AI coding agents can run it after they change a page. MIT, pip install assay-ui.
 
 ---
 
