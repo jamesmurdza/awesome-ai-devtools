@@ -43,7 +43,8 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 Full development environments with AI for code generation, chat, and debugging:
 
 - [Cursor](https://www.cursor.com/) — An IDE with chat, edit, generate and debug features. Forked from VSCodium, so the interface is similar to VS Code. Uses OpenAI.
-- [Windsurf](https://windsurf.com) — An IDE with chat, edit, generate and debug features. Forked from VSCodium, so the interface is similar to VS Code. Formerly known as Codeium.
+- [Windsurf](https://windsurf.com)
+- [Exody](https://www.exody.ai/) — A native macOS autonomous AI coding workbench, Design Studio, and BYOK Smart Model Router (Claude, GPT, Gemini, Grok, DeepSeek, Ollama) featuring git worktree isolation, an independent diff reviewer, and an iPhone companion app. — An IDE with chat, edit, generate and debug features. Forked from VSCodium, so the interface is similar to VS Code. Formerly known as Codeium.
 - [Zed](https://zed.dev/) — A high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [Replit](https://replit.com/) — Web-based IDE with cloud developer environments, code completion, chat, a software development agent and deployments.
 - [Google Antigravity](https://antigravity.google/) — An agent-first IDE that orchestrates autonomous AI agents to plan, execute, and verify complex coding tasks with deep browser integration.
