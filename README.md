@@ -309,6 +309,9 @@ Tools that generate unit/e2e tests and integrate AI into CI/CD pipelines:
 - [CodeFlash AI](https://www.codeflash.ai/) — A CLI and CI tool for optimizing Python code using AI.
 - [Recurse ML](https://recurse.ml) — Find bugs in AI-generated code.
 - [TestDriver](https://testdriver.ai) — Cross-platform, selectorless end-to-end QA testing framework.
+- [vibe-shield](https://github.com/avivgerz-hue/vibe-shield) — Static security scanner and MCP guard for AI-generated code that checks for leaked client secrets, unauthenticated API routes, Supabase RLS gaps, and prompt injection sinks, with CI and SARIF support.
+- [ghost-qa](https://github.com/avivgerz-hue/ghost-qa) — Autonomous headless Playwright QA server for coding agents that inspects pages for console errors, network failures, layout collisions, touch targets, accessibility, performance, and dark/light parity.
+- [unslop](https://github.com/avivgerz-hue/unslop) — Design linter with 72 rules that flags generic AI-generated UI, plus a design DNA extractor and design token exporter, available as an MCP server.
 
 ---
 
