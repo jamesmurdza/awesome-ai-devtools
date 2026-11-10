@@ -239,6 +239,7 @@ Web utilities for quick code generation, language translation, and regex creatio
 
 Native apps for AI-powered coding, terminal enhancement, and agent orchestration:
 
+- [Oliviacode](https://github.com/9562295450/Oliviacode) — Provider-agnostic desktop AI client for coding sessions with bring-your-own-key providers: no bundled endpoint or credential, and Direct, WARP, Tor and proxy egress lanes with per-session isolation. MIT, Windows/macOS/Linux.
 - [Warp](https://www.warp.dev/) — AI-powered terminal with team knowledge sharing and command suggestions.
 - [Pieces](https://pieces.app/) — AI-powered snippet manager and context engine with desktop app and browser extension.
 - [Memex](https://memex.tech/) — Build anything in any stack, with just natural language, on your desktop.
