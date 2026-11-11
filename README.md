@@ -145,6 +145,9 @@ Lightweight command-line tools for AI-assisted commits, shell translation, and w
 - [link-check-lite](https://github.com/tidybytetools/link-check-lite) — Free local CLI/MCP/GitHub Action: check links for broken status and redirects. MIT, PyPI.
 - [md-chunk-lite](https://github.com/tidybytetools/md-chunk-lite) — Free local CLI/MCP: split Markdown by heading for RAG. MIT, PyPI.
 - [json-shaper-lite](https://github.com/tidybytetools/json-shaper-lite) — Free local CLI/MCP: shape notes, CSV/TSV, and Markdown tables into typed JSON. MIT, PyPI.
+- [base64-lite](https://github.com/tidybytetools/base64-lite) — Free local CLI/MCP: encode or decode Base64 for text and files (URL-safe and data-URI options). MIT.
+- [json-repair-lite](https://github.com/tidybytetools/json-repair-lite) — Free local CLI/MCP: repair broken or incomplete JSON, including model output. MIT.
+- [hash-lite](https://github.com/tidybytetools/hash-lite) — Free local CLI/MCP: hash text or local files with SHA-256, SHA-1, MD5, and SHA-512. MIT.
 
 ## Web-Based Tools
 
