@@ -54,6 +54,7 @@ Full development environments with AI for code generation, chat, and debugging:
 - [GitWit](https://gitwit.dev/) — Web-based editor for building ReactJS applications with AI.
 - [OneCompiler](https://onecompiler.com/) — A free AI Powered online compiler supporting over 70 languages, including Java, Python, MySQL, C++, and HTML, for writing, running, and sharing code.
 - [BuilderStudio](https://builderstudio.dev) - Native macOS agentic coding workspace from WunderCorp for secure local/cloud AI development, reusable Skills and Pathways, MCP integrations, Hermes-powered container-only execution, Agentic Swarms for parallel specialized agents, app previews, terminal workflows, packaging/deployment, and flexible routing across 380+ AI models.
+- [Goatfied](https://goatfied.com/editor) — AI code editor for macOS, Windows, Linux and the web with predictive edits, inline rewrites, local and cloud coding agents that open pull requests, checkpoints and MCP tools.
 
 ### IDE Extensions
 
