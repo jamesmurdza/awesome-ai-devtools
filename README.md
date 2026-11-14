@@ -438,6 +438,7 @@ Curated lists, comparison guides, and configuration templates for AI coding tool
 - [AI Coding Compare](https://aicodingcompare.com) — Compare 50+ AI coding assistants with features, pricing, and performance benchmarks.
 - [ClaudeDown](https://claudedown.com) - Real-time Claude AI complaint tracker and outage detector using Twitter/X sentiment data.
 - [Havoptic](https://havoptic.com/) — Free, open-source timeline tracking releases from AI coding tools. Auto-updated daily.
+- [HOL Plugins](https://hol.org/plugins) — Public directory of plugins, skills and MCP servers for Claude Code, Codex, Cursor and other coding agents, with a trust score on each listing.
 - [AI Coding Guide (中文)](https://github.com/jnMetaCode/ai-coding-guide) — Chinese best practices for 8 AI coding tools (Claude Code, Cursor, Copilot, Windsurf, Gemini CLI, Kiro, Aider, Trae) with copy-paste config templates and multi-tool collaboration workflows.
 - [Claude Code Skills 中文精选集](https://claude-skills.bt199.com/) — Chinese curated directory of Claude Code Skills, agents, plugins, and workflow resources for developers using Claude Code.
 - [Awesome AI Startups — Coding & Developer Tools](https://github.com/nowork-studio/awesome-ai-startups#-coding--developer-tools) — 100+ indie-built AI coding assistants, dev tools, and code-generation products from bootstrapped, pre-seed, and angel-funded startups.
