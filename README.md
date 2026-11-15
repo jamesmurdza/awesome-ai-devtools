@@ -406,6 +406,7 @@ Tools for monitoring token usage and API costs across AI providers:
 - [TokenWise](https://github.com/CodeShuX/tokenwise) — Measurement-driven model router for Claude Code. Auto-routes subtasks across Haiku/Sonnet/Opus based on task class, logs every routed task with verified $ saved to a local NDJSON, and includes an A/B test subcommand to validate cheaper tiers before trusting routing. MIT, zero telemetry, Anthropic-only.
 
 ---
+- [ai-token-cost-scripts](https://github.com/neverpaytwice/ai-token-cost-scripts) — Dependency-free Python scripts that count Claude Code token usage correctly (its JSONL logs repeat each response, so a plain sum over-counts) and price Claude and OpenAI API responses from their usage blocks: caching savings, Batch API savings, plan vs API cost, and duplicate requests. MIT.
 
 ## Specialized Tools
 
