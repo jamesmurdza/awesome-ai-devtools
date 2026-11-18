@@ -137,6 +137,7 @@ Lightweight command-line tools for AI-assisted commits, shell translation, and w
 - [Marmot](https://marmot.sh) — Shell-native CLI that gives agents one command shape for AI, web search, scraping, and data enrichment across many providers. Designed for Claude Code, Codex, OpenCode, and similar harnesses; composes via shell pipes.
 - [ORCH](https://github.com/oxgeneral/ORCH) — CLI runtime that coordinates Claude Code, OpenCode, Codex, and Cursor as a typed AI team. State machine (todo→review→done), auto-retry, inter-agent messaging, TUI dashboard.
 - [Octomind](https://github.com/muvon/octomind) — Session-based AI development assistant with MCP support, 7 LLM providers, and extensible architecture. Features plan-first workflow, semantic code search, and persistent memory.
+- [Kling AI CLI & Agent Plugin](https://kling.ai/app/mcp/guide) — Official npm CLI and assistant plugin for image/video generation, reusable Elements, and motion control through Kling's hosted MCP. Choose by account region: Global [`@klingai/cli-global`](https://www.npmjs.com/package/@klingai/cli-global) / [`@klingai/plugin-global`](https://www.npmjs.com/package/@klingai/plugin-global); China [`@klingai/cli-cn`](https://www.npmjs.com/package/@klingai/cli-cn) / [`@klingai/plugin-cn`](https://www.npmjs.com/package/@klingai/plugin-cn). Uses OAuth sign-in; generation consumes Kling account credits.
 
 ---
 
