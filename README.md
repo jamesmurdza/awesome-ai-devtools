@@ -404,6 +404,8 @@ Tools for monitoring token usage and API costs across AI providers:
 - [aicost](https://github.com/dwylq/aicost) — Universal AI coding cost analyzer CLI. Scans Claude Code, Cursor, and GitHub Copilot usage with cache-aware pricing, HTML dashboard, and cost alerting. No API key required.
 - [CostGoat](https://costgoat.com) — Privacy-first menubar app for tracking AI agent quotas (Claude Code, Codex, Kimi, Z.ai) and LLM API costs (OpenAI, OpenRouter, Anthropic, ElevenLabs) in real-time. Also covers cloud spend and SaaS subscriptions.
 - [TokenWise](https://github.com/CodeShuX/tokenwise) — Measurement-driven model router for Claude Code. Auto-routes subtasks across Haiku/Sonnet/Opus based on task class, logs every routed task with verified $ saved to a local NDJSON, and includes an A/B test subcommand to validate cheaper tiers before trusting routing. MIT, zero telemetry, Anthropic-only.
+- [L2Cache Token Tax Calculator](https://l2cache.app/en/tools/claude-code-cache-tax) - Free in-browser calculator that reads Claude Code session files and shows how much spend and usage limit went to cold prompt-cache resumes.
+- [L2Cache Session Viewer](https://l2cache.app/en/tools/claude-session-viewer) - Free in-browser viewer for Claude Code, Codex, Copilot CLI and Grok Build session logs with per-turn token counts and a cold-resume audit.
 
 ---
 
