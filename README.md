@@ -219,6 +219,7 @@ Tools that generate, explain, and optimize SQL queries from natural language:
 - [Wren AI](https://getwren.ai/oss) — Open-source SQL AI agent for querying databases using natural language.
 - [TEXT2SQL.AI](https://www.text2sql.ai/) — AI-powered SQL query builder. Translate, explain and fix complex SQL queries using plain English.
 - [SQLAI.ai](https://www.sqlai.ai/) — AI generates, fixes, explains and optimizes SQL queries. Ability to add your own database schema and train AI to understand it.
+- [FactQL](https://factql.ai/) — API and open-source MCP server that lets Claude Code, Cursor and your own apps query Postgres, MySQL and DuckDB in natural language. Returns the SQL and the rows with every answer.
 
 ### Snippet & Utility Tools
 
