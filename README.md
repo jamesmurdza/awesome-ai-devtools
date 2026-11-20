@@ -118,8 +118,6 @@ Autonomous CLI agents that generate code, execute shell commands, and manage mul
 - [cmux](https://github.com/manaflow-ai/cmux) — A Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Features notification rings, in-app browser, SSH support, and Claude Code Teams integration.
 - [pi](https://pi.dev/) — Minimal, extensible terminal coding agent. TypeScript extensions, skills, prompt templates, and themes — all shareable as npm packages. Supports multiple LLM providers with a unified API.
 
-- [Loop](https://github.com/JimmyDi/loop) — Open-source, local-first coding agent with a CLI, web UI, and TypeScript SDK. Supports multiple model providers, MCP, and tool permissions.
-
 ### CLI Utilities
 
 Lightweight command-line tools for AI-assisted commits, shell translation, and workflow automation:
@@ -195,6 +193,8 @@ Autonomous AI agents that work on existing codebases to fix bugs, refactor code,
 - [Factory](https://www.factory.ai/) — Agent-native software development platform with "Droids" that work across IDE, terminal, CLI, Slack/Teams, and CI/CD. Handles refactors, incident response, and migrations.
 - [Jules](https://jules.google.com/) — Google's asynchronous AI coding agent that integrates with GitHub. Handles bug fixes, code changes, and multi-file tasks autonomously in the background, creating pull requests for review.
 - [Potpie](https://potpie.ai) — Open source AI agents for codebase Q&A, testing, debugging, and system design.
+
+- [Loop](https://github.com/JimmyDi/loop) — Open-source, local-first coding agent with a CLI, web UI, and TypeScript SDK. Supports multiple model providers, MCP, and tool permissions.
 
 ### Codebase Intelligence
 
