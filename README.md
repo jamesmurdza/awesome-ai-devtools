@@ -194,6 +194,8 @@ Autonomous AI agents that work on existing codebases to fix bugs, refactor code,
 - [Jules](https://jules.google.com/) — Google's asynchronous AI coding agent that integrates with GitHub. Handles bug fixes, code changes, and multi-file tasks autonomously in the background, creating pull requests for review.
 - [Potpie](https://potpie.ai) — Open source AI agents for codebase Q&A, testing, debugging, and system design.
 
+- [Loop](https://github.com/JimmyDi/loop) — Open-source, local-first coding agent with a CLI, web UI, and TypeScript SDK. Supports multiple model providers, MCP, and tool permissions.
+
 ### Codebase Intelligence
 
 Tools for understanding, navigating, and getting answers about existing codebases:
