@@ -309,6 +309,7 @@ Tools that generate unit/e2e tests and integrate AI into CI/CD pipelines:
 - [CodeFlash AI](https://www.codeflash.ai/) — A CLI and CI tool for optimizing Python code using AI.
 - [Recurse ML](https://recurse.ml) — Find bugs in AI-generated code.
 - [TestDriver](https://testdriver.ai) — Cross-platform, selectorless end-to-end QA testing framework.
+- [Testsy](https://testsy.dev) — Plain-English end-to-end tests run by an AI agent in Chrome or on iPhone, iPad and Android, with evidence for each check and a fix prompt for coding agents. CLI, GitHub Action and MCP server.
 
 ---
 
