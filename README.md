@@ -118,6 +118,8 @@ Autonomous CLI agents that generate code, execute shell commands, and manage mul
 - [cmux](https://github.com/manaflow-ai/cmux) — A Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Features notification rings, in-app browser, SSH support, and Claude Code Teams integration.
 - [pi](https://pi.dev/) — Minimal, extensible terminal coding agent. TypeScript extensions, skills, prompt templates, and themes — all shareable as npm packages. Supports multiple LLM providers with a unified API.
 
+- [Loop](https://github.com/JimmyDi/loop) — Open-source, local-first coding agent with a CLI, web UI, and TypeScript SDK. Supports multiple model providers, MCP, and tool permissions.
+
 ### CLI Utilities
 
 Lightweight command-line tools for AI-assisted commits, shell translation, and workflow automation:
