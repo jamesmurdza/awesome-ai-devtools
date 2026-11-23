@@ -193,6 +193,7 @@ Autonomous AI agents that work on existing codebases to fix bugs, refactor code,
 - [Factory](https://www.factory.ai/) — Agent-native software development platform with "Droids" that work across IDE, terminal, CLI, Slack/Teams, and CI/CD. Handles refactors, incident response, and migrations.
 - [Jules](https://jules.google.com/) — Google's asynchronous AI coding agent that integrates with GitHub. Handles bug fixes, code changes, and multi-file tasks autonomously in the background, creating pull requests for review.
 - [Potpie](https://potpie.ai) — Open source AI agents for codebase Q&A, testing, debugging, and system design.
+- [self-loop](https://github.com/X32Studio/self-loop) — Open-source (MIT) autonomous delivery protocol for coding agents (Claude Code, Codex) that turns chaotic agent swarms into a trustworthy organization via Frame Review, cross-vendor Critic/Actor/Judge verification, premise-attack gates, and exact-tree CI receipts.
 
 ### Codebase Intelligence
 
