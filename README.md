@@ -193,6 +193,7 @@ Autonomous AI agents that work on existing codebases to fix bugs, refactor code,
 - [Factory](https://www.factory.ai/) — Agent-native software development platform with "Droids" that work across IDE, terminal, CLI, Slack/Teams, and CI/CD. Handles refactors, incident response, and migrations.
 - [Jules](https://jules.google.com/) — Google's asynchronous AI coding agent that integrates with GitHub. Handles bug fixes, code changes, and multi-file tasks autonomously in the background, creating pull requests for review.
 - [Potpie](https://potpie.ai) — Open source AI agents for codebase Q&A, testing, debugging, and system design.
+- [Vroni](https://www.vroni.com/) — AI coding agent for GitHub. You give it a task in plain words or from a GitHub issue, and it writes the change, runs your project's checks and opens a pull request for you to review. It never merges or pushes to your main branch.
 
 ### Codebase Intelligence
 
