@@ -311,6 +311,7 @@ Tools that generate unit/e2e tests and integrate AI into CI/CD pipelines:
 - [TestDriver](https://testdriver.ai) — Cross-platform, selectorless end-to-end QA testing framework.
 
 ---
+- [Apex verify](https://github.com/apex-engine-dev/apex-verify) — Checks whether an AI coding agent's change does what was asked: a second model writes checks from the task without seeing the change, proves they fail on the old code, and gives a verdict with evidence. CLI, GitHub Action and Claude Code plugin; works without an API key.
 
 ## Agent Infrastructure
 
