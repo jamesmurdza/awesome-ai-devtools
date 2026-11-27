@@ -68,6 +68,7 @@ Plugins that add AI-powered completion, chat, and refactoring to existing code e
 - [JetBrains AI](https://www.jetbrains.com/ai/) — AI assistant available in all JetBrains IDEs.
 - [Refact AI](https://refact.ai/) — Open source assistant with chat, completion, refactoring, and codebase-specific fine-tuning. Extensions for VS Code and JetBrains.
 - [Tabby](https://tabbyml.github.io/tabby/) — Open source, self-hosted code completion assistant. Extensions for VS Code and Vim.
+- [twinny](https://twinny.dev) — Open source VS Code extension for code completion, chat and code review on local or self-hosted models.
 - [Blackbox AI](https://www.useblackbox.io/) — VS Code extension with autocomplete and chat including links to online coding references.
 - [CodeGeeX](https://codegeex.cn/) — Open source assistant based on the CodeGeeX LLM with chat, completion, and refactoring. Extensions for 9 editors including VS Code, and PyCharm.
 - [Quack AI](https://www.quackai.com/) — VS Code extension for adhering to project coding guidelines.
